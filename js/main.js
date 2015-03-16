@@ -8,7 +8,7 @@ $(document).ready(function(){
 	$('.venobox').venobox();
 
 	// array of content
-	var content = [_content['games_1950']];
+	var content = [_content['games_1950'], _content['games_1960']];
 
 	var timeline = new TimeLine('timeline', content);
 

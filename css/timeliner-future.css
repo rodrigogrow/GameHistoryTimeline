@@ -58,7 +58,8 @@ p {
   font-size: 0;
 }
 body {
-  background: #090a0f url("../img/bg-space-mod.jpg") fixed no-repeat;
+  /*background: #282A35 url("../img/bg-space-mod.jpg") fixed no-repeat;*/
+  background-color: #282A35;
   color: rgba(255, 255, 255, 0.85);
   font-family: "Josefin Sans", arial, sans serif;
   font-size: 68.5%;

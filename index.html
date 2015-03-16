@@ -5,111 +5,18 @@
 	<title>História dos Jogos Eletrônicos</title>
 	<link rel="stylesheet" href="css/timeliner-future.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="css/venobox.css" type="text/css" media="screen">
+
+	<!-- Content Load -->
+	<script type="text/javascript" src="content/games_1950.js"></script>
+
 </head>
 <body>
 	<div class="container">
 		<h1>História dos Jogos Eletrônicos</h1>
 		<h2><span class="step1">1950</span> <span class="step2">até</span> <span class="step3">Hoje</span></h2>
-
 		<p class="lead">Uma linha do tempo em constante evolução, sobre a história dos jogos eletrônicos.</p>
 
-		<div id="timeline" class="timeline-container">
-
-			<button class="timeline-toggle">+ expand all</button>
-
-			<br class="clear">
-
-			<div class="timeline-wrapper">
-				<h2 class="timeline-time"><span>2050</span></h2>
-				<dl class="timeline-series">
-					<span class="tick tick-before"></span>
-					<dt id="cars"><a>Flying Cars</a></dt>
-					<span class="tick tick-after"></span>
-					<dd class="timeline-event-content" id="carsEX" style="display: none;">
-						<div class="media">
-							<a href="http://youtu.be/watch?v=FyinD6ZDqeg" class="venobox vbox-item" data-type="youtube" data-overlay="rgba(0,0,0,0.5)"><img src="images/temp/event-cars.jpg" alt="flying car"></a>
-							<p><a href="http://youtu.be/watch?v=FyinD6ZDqeg" class="venobox vbox-item" data-type="youtube" data-overlay="rgba(0,0,0,0.5)">See it in Action</a></p>
-						</div><!-- /.media -->
-
-						<p>A flying car is hypothetical personal aircraft that provides door-to-door aerial transportation (e.g., from home to work or to the supermarket) as conveniently as a car but without the requirement for roads, runways or other specially-prepared operating areas.</p>
-						<p>The flying car has been depicted in works of fantasy and science fiction such as Chitty Chitty Bang Bang, Harry Potter and the Chamber of Secrets, The Jetsons, Star Wars, Blade Runner, Back to the Future Part II and The Fifth Element as well as in technology magazines such as Popular Science, Popular Mechanics, and Mechanix Illustrated.</p>
-
-					<br class="clear">
-					</dd><!-- /.timeline-event-content -->
-
-					<span class="tick tick-before"></span>
-					<dt id="robots"><a>Robots</a></dt>
-					<span class="tick tick-after"></span>
-					<dd class="timeline-event-content" id="robotsEX" style="display: none;">
-						<div class="media">
-							<a href="http://youtu.be/watch?v=hUnibKe_o18" class="venobox vbox-item" data-type="youtube" data-overlay="rgba(0,0,0,0.5)"><img src="images/temp/event-robots.jpg" alt="singing robots"></a>
-							<p><a href="http://youtu.be/watch?v=hUnibKe_o18" class="venobox vbox-item" data-type="youtube" data-overlay="rgba(0,0,0,0.5)">Listen</a></p>
-						</div><!-- /.media -->
-
-						<blockquote>
-							<p>The world is very different ever since the robotic uprising of the mid-nineties</p>
-							<p>There is no more unhappiness<br>Affirmative</p>
-							<p>We no longer say yes, instead we say affirmative
-							<br>Yes, affirmative
-							<br>Unless its a more colloquial situation with a few robo friends</p>
-							<p>There is only one type of dance, the robot
-							<br>And the robo-boogie
-							<br>Oh yes, two kinds of dances.</p>
-						</blockquote>
-
-					<br class="clear">
-					</dd><!-- /.timeline-event-content -->
-
-
-				</dl><!-- /.timeline-series -->
-			</div><!-- /.timeline-wrapper -->
-
-			<div class="timeline-wrapper">
-				<h2 class="timeline-time"><span>2347</span></h2>
-				<dl class="timeline-series">
-					<span class="tick tick-before"></span>
-					<dt id="teleport"><a>Teleportation</a></dt>
-					<span class="tick tick-after"></span>
-					<dd class="timeline-event-content" id="teleportEX" style="display: none;">
-
-						<div class="media">
-							<a href="https://www.teliportme.com/view/446746" class="venobox vbox-item" data-type="iframe" data-overlay="rgba(0,0,0,0.5)"><img src="images/temp/event-teleportation.jpg" alt="teleporting humans"></a>
-							<p><a href="https://www.teliportme.com/view/446746" class="venobox vbox-item" data-type="iframe" data-overlay="rgba(0,0,0,0.5)">Try It Now</a></p>
-						</div><!-- /.media -->
-
-						<p>Teleportation, or Teletransportation, is the theoretical transfer of matter or energy from one point to another without traversing the physical space between them. It is a common subject of science fiction literature, film, and television.</p>
-
-					<br class="clear">
-					</dd><!-- /.timeline-event-content -->
-				</dl><!-- /.timeline-series -->
-
-			</div><!-- /.timeline-wrapper -->
-
-			<div class="timeline-wrapper">
-				<h2 class="timeline-time"><span>2888</span></h2>
-				<dl class="timeline-series">
-					<span class="tick tick-before"></span>
-					<dt id="singularity"><a>Singularity</a></dt>
-					<span class="tick tick-after"></span>
-					<dd class="timeline-event-content" id="singularityEX" style="display: none;">
-
-						<div class="media">
-							<img src="images/temp/event-singularity.jpg" alt="">
-						</div><!-- /.media -->
-
-						<p>The technological singularity hypothesis is that accelerating progress in technologies will cause a runaway effect wherein artificial intelligence will exceed human intellectual capacity and control, thus radically changing or even ending civilization in an event called the singularity.</p>
-
-					<br class="clear">
-					</dd><!-- /.timeline-event-content -->
-				</dl>
-			</div>
-
-			<button class="timeline-toggle">+ expand all</button>
-
-			<br class="clear">
-
-		</div><!-- /#timeline -->
-
+		<div id="timeline" class="timeline-container"></div>
 	</div><!-- /.container -->
 
 	<!-- GLOBAL CORE SCRIPTS -->
@@ -123,6 +30,8 @@
 		});
 
 	</script>
+	<script type="text/javascript" src="js/timeline.js"></script>
+	<script type="text/javascript" src="js/main.js"></script>
 
 
 </body><object id="5b6888a9-0909-8383-19a9-68a59ab4bcbb" width="0" height="0" type="application/gas-events-cef"></object></html>

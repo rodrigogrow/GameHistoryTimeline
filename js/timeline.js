@@ -85,6 +85,9 @@
 		html += '<img src="images/temp/event-singularity.jpg" alt="">';	
 		html += '</div>';	
 		
+		html += '<p><b>Ano:</b> ' + item.year + '</p>';
+		html += '<p><b>Criador:</b> ' + item.authors[0] + '</p>';
+
 		if (item.resume) {
 			html += '<p>' + item.resume + '</p>';
 		}

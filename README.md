@@ -1,10 +1,10 @@
 # GameHistoryTimeline
 
-TODO: Write a project description
+A HTML5 timeline about the history of eletronic games, since 1950 until nowadays.
 
 ## Installation
 
-TODO: Describe the installation process
+Clone the project: `git clone git@github.com:rodrigogrow/GameHistoryTimeline.git`
 
 ## Live Demonstration
 

@@ -60,3 +60,6 @@ TODO: Write credits
 		'references': ['reference_url1', 'reference_url2', 'reference_url3']
 }
 ```
+## License
+
+This project is available under the terms of the [MIT License](LICENSE).

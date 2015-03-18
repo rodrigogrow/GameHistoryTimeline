@@ -52,7 +52,7 @@ TODO: Write credits
   			'molestie sodales ac nisl nulla, tempus occaecati. Sodales lectus, ',
   			'mauris dis lectus amet, nascetur ipsum, hac suspendisse blandit eros.'
 		].join(''),
-		'thumbnail': 'thumbnail_example.png'
+		'thumbnail': 'thumbnail_example.png',
 		'main_img': 'main_picture_example.png',
 		'images': ['picture2.png', 'picture3.png', 'picture3.png'],
 		'video_gameplay': ['video_url1', 'video_url2'],

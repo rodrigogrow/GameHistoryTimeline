@@ -45,32 +45,37 @@
 		        			'http://www.historyofinformation.com/expanded.php?id=4471']
 			},
 			{
-				'type': 'game',
-				'name': 'OXO',
-				'authors': ['fulano de tal'],
-				'company': [],  
-				'year': '1951',
-				'date': '1951',
-				'headline': '',
-				'resume': [
-					'Lorem ipsum dolor sit amet, ut viverra vestibulum odio, ',
-					'aliquam in massa, velit rutrum pede ipsum mauris duis, ',
-					'congue massa sem elit, integer risus. Faucibus in lacus, ',
-					'ligula ornare nibh, elit suspendisse tortor sed volutpat, ',
-					'etiam tempus wisi semper montes odio, lorem vitae vel eu ',
-					'convallis. Volutpat blandit egestas et libero eu per, venenatis ',
-					'aenean, proin quis aliquam viverra potenti vestibulum auctor, ',
-					'non amet tellus sodales. In ullamco tellus risus nisl morbi amet. ',
-					'Vel quisque nunc in placerat. Vitae id urna, nulla suspendisse, ',
-					'molestie sodales ac nisl nulla, tempus occaecati. Sodales lectus, ',
-					'mauris dis lectus amet, nascetur ipsum, hac suspendisse blandit eros.'
-					].join(''),
-				'full_text': '',
-				'main_img': '',
-				'images': [],
-				'video_gameplay': [],
-				'demos': [],
-				'references': []
+		        'name': 'OxO - Naughts and Crosses',
+		        'authors': ['S. Douglas', 'Alexander'],
+		        'year': '1952',
+		        'headline': 'OxO - O primeiro video game.',
+		        'resume': [
+		            'Foi em 1952 que surgiu o primeiro vídeo game, do jeito que deve ser, ',
+		            'gráficos digitais exibidos em um monitor de tubo de raios catódicos., ',
+		            'OXO, Noughts and Crosses foi desenvolvido por Alexander S. Douglas, ',
+		            'como parte da sua tese de doutorado Interação Homem-Computador, ',
+		            'O jogo tinha como controles um telefone analógico, onde cada número',
+		            'discado representava o quadro onde seria feito o movimento.'
+		        ].join(''),
+		        'full_text': [
+		            'Lorem ipsum dolor sit amet, ut viverra vestibulum odio, ',
+		            'aliquam in massa, velit rutrum pede ipsum mauris duis, ',
+		            'congue massa sem elit, integer risus. Faucibus in lacus, ',
+		            'ligula ornare nibh, elit suspendisse tortor sed volutpat, ',
+		            'etiam tempus wisi semper montes odio, lorem vitae vel eu ',
+		            'convallis. Volutpat blandit egestas et libero eu per, venenatis ',
+		            'aenean, proin quis aliquam viverra potenti vestibulum auctor, ',
+		            'non amet tellus sodales. In ullamco tellus risus nisl morbi amet. ',
+		            'Vel quisque nunc in placerat. Vitae id urna, nulla suspendisse, ',
+		            'molestie sodales ac nisl nulla, tempus occaecati. Sodales lectus, ',
+		            'mauris dis lectus amet, nascetur ipsum, hac suspendisse blandit eros.'
+		        ].join(''),
+		        'thumbnail': '',
+		        'main_img': '',
+		        'images': [],
+		        'video_gameplay': [],
+		        'demos': [],
+		        'references': []
 			},
 			{
 				'type': 'game',
@@ -93,6 +98,7 @@
 					'bola entrava em seus respectivos campos da quadra.'
 				].join(''),
 				'full_text': '',
+				'thumbnail': '',
 				'main_img': '',
 				'images': [],
 				'video_gameplay': [],

@@ -10,35 +10,48 @@
 		'decade': '1950',
 		'games': [
 			{
-				'name': 'NIMROD',
-				'authors': ['fulano de tal'],
-				'year': '1951',
-				'date': '01-11-1951',
-				'resume': [
-					'orLem ipsum dolor sit amet, ut viverra vestibulum odio, ',
-					'aliquam in massa, velit rutrum pede ipsum mauris duis, ',
-					'congue massa sem elit, integer risus. Faucibus in lacus, ',
-					'ligula ornare nibh, elit suspendisse tortor sed volutpat, ',
-					'etiam tempus wisi semper montes odio, lorem vitae vel eu ',
-					'convallis. Volutpat blandit egestas et libero eu per, venenatis ',
-					'aenean, proin quis aliquam viverra potenti vestibulum auctor, ',
-					'non amet tellus sodales. In ullamco tellus risus nisl morbi amet. ',
-					'Vel quisque nunc in placerat. Vitae id urna, nulla suspendisse, ',
-					'molestie sodales ac nisl nulla, tempus occaecati. Sodales lectus, ',
-					'mauris dis lectus amet, nascetur ipsum, hac suspendisse blandit eros.'
-					].join(''),
-				'full_text': '',
-				'main_img': '',
-				'images': [],
+		        'type': 'game', // game or console
+		        'name': 'NIMROD',
+		        'authors': ['Edward Uhler Condon'],
+		        'company': ['Ferranti'],  
+		        'year': '1951',
+		        'date': '05-05-1951', // Day, Month, Year
+		        'headline': 'First Electronic Game',
+		        'resume': [
+		            'Usando um painel de luzes para a sua exibição, ',
+					'ele foi projetado exclusivamente para jogar o jogo de Nim. ',
+					'Este foi o primeiro exemplo de um computador digital projetado ',
+					'especificamente para jogar um jogo. ',
+					'O criador do NIMATRON foi Edward Uhler Condon.'
+		        ].join(''),
+		        'full_text': [
+		            'Em 5 de maio de 1951, o computador NIMROD, criado pela Ferranti, ',
+					'foi apresentado no Festival da Grã-Bretanha. ',
+		            'A empresa era focada em segurança eletrônica e em seu tempo livre',
+		            'Edward Uhler Condon utilizou a ferramentas disponíveis e criou ',
+		            'o NIMATRON cujo foco era simular o jogo antigo NIM, antes jogado com pedras. ',
+		            'As pedras foram trocadas por um painel com luzes e o controle era um totem. ',
+		            'O objetivo do jogo era deixar o adversário, nesse caso o computador, ', 
+					'com a última peça. O jogador poderia remover quantas peças quisesse ',
+					'de uma linha, por vez. Só que em 90% das vezes o computador vencia.'
+		        ].join(''),
+		        'main_img': 'main.png',
+		        'images': ['img1.png', 'img2.png', 'img3.png'],
 				'video_gameplay': [],
 				'demos': [],
-				'references': []
+		        'references': [
+		        			'http://en.wikipedia.org/wiki/Nimrod_(computing)', 
+		        			'http://www.wired.com/2010/06/replay/', 
+		        			'http://www.historyofinformation.com/expanded.php?id=4471']
 			},
 			{
+				'type': 'game',
 				'name': 'OXO',
 				'authors': ['fulano de tal'],
+				'company': [],  
 				'year': '1951',
 				'date': '1951',
+				'headline': '',
 				'resume': [
 					'Lorem ipsum dolor sit amet, ut viverra vestibulum odio, ',
 					'aliquam in massa, velit rutrum pede ipsum mauris duis, ',
@@ -60,10 +73,13 @@
 				'references': []
 			},
 			{
+				'type': 'game',
 				'name': 'Tennis for Two',
 				'authors': ['William Higinbotham'],
+				'company': [],  
 				'year': '1958',
 				'date': '18-10-1958',
+				'headline': '',
 				'resume': [
 					'Criado para entreter os visitantes da feira anual de 1958, ',
 					'mas já tinha em mente agregar valor a comunidade cientifica ',

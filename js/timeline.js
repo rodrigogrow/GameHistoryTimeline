@@ -78,7 +78,7 @@
 		
 		if (item.name) {
 
-			nameLowerTrimmed = item.name.replace(/ /g,'');
+			nameLowerTrimmed = item.name.replace(/ /g,'').toLowerCase();
 
 			html += '<dt id="'+nameLowerTrimmed+'"><a>'+item.name+'</a></dt>';	
 		}
@@ -121,7 +121,7 @@
 			return '';
 		}
 
-		nameLowerTrimmed = item.name.replace(/ /g,'');
+		nameLowerTrimmed = item.name.replace(/ /g,'').toLowerCase();
 
 		path = 'images/' + item.type + '/' + item.year +'/'+ nameLowerTrimmed + '/';
 

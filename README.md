@@ -8,7 +8,7 @@ Clone the project: `git clone git@github.com:rodrigogrow/GameHistoryTimeline.git
 
 ## Live Demonstration
 
-### [Demo](http://rodrigogrow.github.io/GameHistoryTimeline/)
+### - [Demo](http://rodrigogrow.github.io/GameHistoryTimeline/)
 
 ## Contributing
 
@@ -20,7 +20,7 @@ Clone the project: `git clone git@github.com:rodrigogrow/GameHistoryTimeline.git
 
 ## Credits
 
-### [Contributors](CONTRIBUTORS.markdown)
+### - [Contributors](CONTRIBUTORS.markdown)
 
 ## Game Info Example - Json
 ```javascript

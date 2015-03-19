@@ -20,7 +20,7 @@ Clone the project: `git clone git@github.com:rodrigogrow/GameHistoryTimeline.git
 
 ## Credits
 
-TODO: Write credits
+[Contributors](CONTRIBUTORS.markdown)
 
 ## Game Info Example - Json
 ```javascript

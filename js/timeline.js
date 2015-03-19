@@ -68,6 +68,7 @@
 	TimeLine.prototype.createBlockItem = function(item) {
 
 		var html = '';
+		var nameLowerTrimmed = ''; // lowercase without spaces
 
 		if (!item) {
 			return '';
@@ -76,18 +77,31 @@
 		html += '<span class="tick tick-before"></span>';
 		
 		if (item.name) {
-			html += '<dt id="'+item.name.replace(/ /g,'')+'"><a>'+item.name+'</a></dt>';	
+
+			nameLowerTrimmed = item.name.replace(/ /g,'');
+
+			html += '<dt id="'+nameLowerTrimmed+'"><a>'+item.name+'</a></dt>';	
 		}
 		
 		html += '<span class="tick tick-after"></span>';
-		html += '<dd class="timeline-event-content" id="'+item.name.replace(/ /g,'')+'EX" style="display: none;">';
+		html += '<dd class="timeline-event-content" id="'+nameLowerTrimmed+'EX" style="display: none;">';
 		html += '<div class="media">';
-		html += '<img src="images/temp/event-singularity.jpg" alt="">';	
+
+		// add main image
+		if (item.main_img) {
+			html += '<img src="'+ this.getBaseImagePath(item) + item['main_img'] + '" alt="">';	
+		}
+
 		html += '</div>';	
 		
 		html += '<p><b>Ano:</b> ' + item.year + '</p>';
-		html += '<p><b>Criador:</b> ' + item.authors[0] + '</p>';
 
+		// adding authors
+		if (item.authors.length > 0) {
+			html += '<p><b>Criador:</b> ' + item.authors.join(', ') + '</p>';	
+		}
+
+		// adding resume
 		if (item.resume) {
 			html += '<p>' + item.resume + '</p>';
 		}
@@ -96,6 +110,22 @@
 		html += '</dd>';
 
 		return html;
+	}
+
+	TimeLine.prototype.getBaseImagePath = function(item) {
+
+		var path = '';
+		var nameLowerTrimmed = '';
+
+		if (!item) {
+			return '';
+		}
+
+		nameLowerTrimmed = item.name.replace(/ /g,'');
+
+		path = 'images/' + item.type + '/' + item.year +'/'+ nameLowerTrimmed + '/';
+
+		return path;
 
 	}
 

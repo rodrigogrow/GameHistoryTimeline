@@ -82,7 +82,7 @@
 
         'references': [
 
-            {'url': 'reference_url1', 'caption': "description"},
+            {'url': 'http://www.technologizer.com/2011/12/11/computer-space-and-the-dawn-of-the-arcade-video-game/', 'caption': "Computer Space and the Dawn of the Arcade Video Game"},
 
             {'url': 'reference_url2', 'caption': "description"},
 

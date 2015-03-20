@@ -19,7 +19,7 @@
             'Inc e lançado em 13 de maio de 1976. Foi idealizado por Nolan Bushnell'
             'e Steve Bristow e influenciado pelo jogo de arcade de 1972 Pong, também da Atari.'
             'O jogo foi convertido para os consoles e atualizado como Super Breakout.'
-            'Além disso, Breakout foi a base e inspiração para livros, 
+            'Além disso, Breakout foi a base e inspiração para livros, '
             'jogos, e o computador Apple II. No jogo, uma camada de tijolos são alinhados no topo da tela.'
             'A bola passa pela tela, rebatendo nas paredes laterais e superiores da tela.'
             'Quando um tijolo é atingido, a bola rebate de volta e o tijolo é destruído.'

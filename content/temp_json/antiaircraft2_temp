@@ -1,5 +1,5 @@
 {
-        'type': 'game', // game or console
+        'type': 'game', // game or Atari 2600
         'name': 'Anti-Aircraft 2',
         'authors': [],
         'company': ['Atari'],  
@@ -7,25 +7,21 @@
         'date': '06-06-1975', // Day, Month, Year
         'headline': 'Shooter',
         'resume': [
-            'Anti-Aircraft foi um jogo de um ou dois jogadores, ',
-            'que um dia formar a base do Atari 2600 cartucho Air-Sea Battle,',
-            'aliquam in massa, velit rutrum pede ipsum mauris duis, ',
-            'congue massa sem elit, integer risus. Faucibus in lacus, ',
-            'ligula ornare nibh, elit suspendisse tortor sed volutpat, ',
-            'etiam tempus wisi semper montes odio, lorem vitae vel eu '
+            'Anti-Aircraft 2 foi um jogo de um ou dois jogadores, ',
+            'que um dia fez parte do cartucho Air-Sea Battle do Atari 2600 , ',
+            'onde Aviões passam de um lado para o outro ',
+            'enquanto o jogador controla duas baterias antiaéreas,',
+            'localizadas no lado inferior esquerdo e direito da tela, ',
+            'disparando mísseis contra esses aviões. ',
+            'Aquele que derrubasse mais aviões ganhava.'
         ].join(''),
         'full_text': [
-            'Lorem ipsum dolor sit amet, ut viverra vestibulum odio, ',
-            'aliquam in massa, velit rutrum pede ipsum mauris duis, ',
-            'congue massa sem elit, integer risus. Faucibus in lacus, ',
-            'ligula ornare nibh, elit suspendisse tortor sed volutpat, ',
-            'etiam tempus wisi semper montes odio, lorem vitae vel eu ',
-            'convallis. Volutpat blandit egestas et libero eu per, venenatis ',
-            'aenean, proin quis aliquam viverra potenti vestibulum auctor, ',
-            'non amet tellus sodales. In ullamco tellus risus nisl morbi amet. ',
-            'Vel quisque nunc in placerat. Vitae id urna, nulla suspendisse, ',
-            'molestie sodales ac nisl nulla, tempus occaecati. Sodales lectus, ',
-            'mauris dis lectus amet, nascetur ipsum, hac suspendisse blandit eros.'
+            'Os controles do jogo eram basicamente para cima e para baixo e o botão de atirar, ',
+            'sendo que os botões “para cima” e “para baixo” ',
+            'moviam a mira da arma para uma das três posições predefinidas. ',
+            'O jogo está alojado em um gabinete personalizado ',
+            'incluindo dois conjuntos (um conjunto por jogador) ',
+            'de três botões de controle (para cima, para baixo, e fogo).'
         ].join(''),
         'thumbnail': 'thumbnail_example.png',
         'main_img': {'name': 'main_picture.png', 'caption': "description"},

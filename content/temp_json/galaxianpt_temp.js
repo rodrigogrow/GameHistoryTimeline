@@ -24,7 +24,6 @@
         'images': [
             {'name': 'picture1.png', 'caption': "description1"},
             {'name': 'picture2.png', 'caption': "description2"},
-            {'name': 'picture3.png', 'caption': "description3"}
         ],
         'video_gameplay': [
             {'url': 'https://www.youtube.com/watch?v=qKm8UnFCmeg', 'caption': "gameplay", 'type': "youtube"} // type: youtube or vimeo

@@ -33,7 +33,7 @@
             {'url': 'http://www.letsplaysnes.com/play-galaxian-online-nes/?play=true#content', 'caption': "demo"}
         ],
         'references': [
-            {'url': 'http://en.wikipedia.org/wiki/galaxian', 'caption': "Wikipedia"},
+            {'url': 'http://en.wikipedia.org/wiki/galaxian', 'caption': "Wikipedia"}
         ]
 }
 },

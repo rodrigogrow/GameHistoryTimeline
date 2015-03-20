@@ -1,13 +1,14 @@
 {
         'type': 'game', // game or console
-        'name': 'Game Name',
-        'authors': ['Fulano de tal', 'Ciclano'],
-        'company': ['CompanyX'],  
-        'year': '1951',
-        'date': '20-06-1951', // Day, Month, Year
-        'headline': 'First Game about sport',
+        'name': 'Anti-Aircraft 2',
+        'authors': [],
+        'company': ['Atari'],  
+        'year': '1975',
+        'date': '06-06-1975', // Day, Month, Year
+        'headline': 'Shooter',
         'resume': [
-            'Lorem ipsum dolor sit amet, ut viverra vestibulum odio, ',
+            'Anti-Aircraft foi um jogo de um ou dois jogadores, ',
+            'que um dia formar a base do Atari 2600 cartucho Air-Sea Battle,',
             'aliquam in massa, velit rutrum pede ipsum mauris duis, ',
             'congue massa sem elit, integer risus. Faucibus in lacus, ',
             'ligula ornare nibh, elit suspendisse tortor sed volutpat, ',

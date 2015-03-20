@@ -23,7 +23,7 @@
             'passa sobre uma mina,o jogador com maior pontuação no final do prazo de tempo,ganha o jogo.'
         'Os tanques são controlados por dois joysticks numa configuração dupla.Empurrando os dois irá mover o tanque para frente' 
             'e,ao mpuxar os joystiks para trás faz o tanque parar.Movendo o joystick direito para a frente enquanto puxa a parte de trás ',
-            'do joystick para a esquerda fará com que o tanque vire a direita enquanto inverte o joystick fará com o tanque vire a esquerda ',
+            'do joystick para a esquerda fará com que o tanque vire a direita enquanto inverte o joystick fará com o tanque vire a esquerda. ',
             'Vel quisque nunc in placerat. Vitae id urna, nulla suspendisse, ',
             'molestie sodales ac nisl nulla, tempus occaecati. Sodales lectus, ',
             'mauris dis lectus amet, nascetur ipsum, hac suspendisse blandit eros.'

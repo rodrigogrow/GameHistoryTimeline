@@ -16,8 +16,8 @@
         'full_text': [
             'O painel de controle é composto por quatro joysticks de estilo militar, um para cada jogador com um botão de fogo ',
             'montado na parte superior do joysticks direito de cada par.',
-            'Assim que inserir a moeda imediatamente o jogo é ligado, os ',
-            'ligula ornare nibh, elit suspendisse tortor sed volutpat, ',
+            'Assim que inserir a moeda imediatamente o jogo é ligado, os jogadores ficam no canto superior direito  ',
+            'e no canto inferior esquedo respectivamente.Tank foi o primeiro jogo a usar uma ROM baseada no IC para armazenar dados gráficos. ',
             'etiam tempus wisi semper montes odio, lorem vitae vel eu ',
             'convallis. Volutpat blandit egestas et libero eu per, venenatis ',
             'aenean, proin quis aliquam viverra potenti vestibulum auctor, ',

@@ -1,11 +1,11 @@
 {
-        'type': 'game', // game or console
-        'name': 'Game Name',
-        'authors': ['Fulano de tal', 'Ciclano'],
-        'company': ['CompanyX'],  
-        'year': '1951',
-        'date': '20-06-1951', // Day, Month, Year
-        'headline': 'First Game about sport',
+        'type': 'Arcade', // game or console
+        'name': 'Tank',
+        'authors': ['Steve Bristow', 'Lyle Rains'],
+        'company': ['Atari'],  
+        'year': '1974',
+        'date': '05-11-1974', // Day, Month, Year
+        'headline': 'First Game about Tanques',
         'resume': [
             'Lorem ipsum dolor sit amet, ut viverra vestibulum odio, ',
             'aliquam in massa, velit rutrum pede ipsum mauris duis, ',

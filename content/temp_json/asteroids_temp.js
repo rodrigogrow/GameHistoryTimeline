@@ -38,11 +38,22 @@
             'E nem os funcionários da Atari deixavam de jogar ',
             'dentro da empresa quando tinham um momento de folga. '.
         ].join(''),
-        'thumbnail': 'thumbnail.png',
-        'main_img': 'mainimage.png',
-        'images': ['picture.png', 'picture1.png'],
-        'video_gameplay': ['https://www.youtube.com/watch?v=cZfsnA7dAHI'],
-        'references': ['http://www.gameblast.com.br/2014/04/relembre-o-classico-asteroids-um.html', 
-            'http://en.wikipedia.org/wiki/Asteroids_(video_game)',
-            'http://pt.wikipedia.org/wiki/Asteroids']
+        'thumbnail': 'thumbnail_example.png',
+        'main_img': {'name': 'main_picture.png', 'caption': "description"},
+        'images': [
+            {'name': 'picture1.png', 'caption': "description1"},
+            {'name': 'picture2.png', 'caption': "description2"},
+            {'name': 'picture3.png', 'caption': "description3"}
+        ],
+        'video_gameplay': [
+            {'url': 'https://www.youtube.com/watch?v=cZfsnA7dAHI', 'caption': "Asteroids - Arcade (1979)", 'type': "youtube"} // type: youtube or vimeo
+        ],
+        'demos': [
+            {'url': 'http://mrjogos.uol.com.br/jogo/asteroids.jsp', 'caption': "Arcade Asteroid"}
+        ],
+        'references': [
+            {'url': 'http://www.gameblast.com.br/2014/04/relembre-o-classico-asteroids-um.html', 'caption': "Asteroids"},
+            {'url': 'http://en.wikipedia.org/wiki/Asteroids_(video_game)', 'caption': "Asteroids"},
+            {'url': 'http://pt.wikipedia.org/wiki/Asteroids', 'caption': "Asteroids"}
+        ]
 }

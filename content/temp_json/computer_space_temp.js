@@ -2,9 +2,9 @@
 
         'type': 'game', // game or console
 
-        'name': 'Game Name',
+        'name': 'Computer Space',
 
-        'authors': ['Fulano de tal', 'Ciclano'],
+        'authors': ['Nolan Bushnell', 'Ted Dabney'],
 
         'company': ['CompanyX'],  
 

@@ -21,8 +21,8 @@
             'Os jogadores movem evitando minas e atirando um no outro, os jogadores são representados por um sprite preto e branco',
             'de taque e as minas são representandos por um"X".Os pontos ão marcados por tiros ao adversário ou quando seu adversári',
             'passa sobre uma mina,o jogador com maior pontuação no final do prazo de tempo,ganha o jogo.'
-         
-            'aenean, proin quis aliquam viverra potenti vestibulum auctor, ',
+         ' Os tank sao controlados por dois joysticks numa configuração dupla.Empurrando od oid irá mover o tanque para frente   '
+            'e,ao puxarem os dois para trás faz o tanque parar. ',
             'non amet tellus sodales. In ullamco tellus risus nisl morbi amet. ',
             'Vel quisque nunc in placerat. Vitae id urna, nulla suspendisse, ',
             'molestie sodales ac nisl nulla, tempus occaecati. Sodales lectus, ',

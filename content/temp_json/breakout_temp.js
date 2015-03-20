@@ -33,13 +33,13 @@
             {'name': 'picture2.png', 'caption': "description2"},
             {'name': 'picture3.png', 'caption': "description3"}
         ],
-        'video_gameplay': [
-            {'https://www.youtube.com/watch?v=JRAPnuwnpRs': 'video_url', 'Breakout Gameplay': "Um vídeo de gameplay do Breakout", 'type': "youtube"} // type: youtube or vimeo
+         'video_gameplay': [
+            {'url': 'https://www.youtube.com/watch?v=JRAPnuwnpRs', 'caption': "Um vídeo de gameplay do Breakout", 'type': "youtube"} // type: youtube or vimeo
         ],
         'demos': [
-            {'http://www.maniadejogos.com/jogos/Xenocrate+2': 'demonstration_url', 'Xenocrate 2': "Um simulador de breakout"}
+            {'url': 'http://www.atari2600.com.br/Atari/Roms/0154/Breakout', 'caption': "Um simulador de breakout"}
         ],
         'references': [
-            {'http://en.wikipedia.org/wiki/Breakout_%28video_game%29': 'Wikipédia', 'caption': "description"}
+            {'url': 'http://en.wikipedia.org/wiki/Breakout_%28video_game%29', 'caption': "Wikipédia"}
         ]
 }

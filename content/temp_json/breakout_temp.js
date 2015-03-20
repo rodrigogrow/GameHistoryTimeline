@@ -25,12 +25,21 @@
             'Quando um tijolo é atingido, a bola rebate de volta e o tijolo é destruído.'
             'O jogador perde uma vida quando a bola toca a parte inferior da tela.'
             'Para prevenir que isso aconteça, o jogador move uma paleta para rebater a bola'
-            'para cima, mantendo-a no jogo.'
-            
-
-        ].join(''),
-        'main_img': 'main.png',
-        'images': ['img1.png', 'img2.png', 'img3.png'],
-        'references': ['http://en.wikipedia.org/wiki/Breakout_%28video_game%29
-']
+            'para cima, mantendo-a no jogo.' ].join(''),
+        'thumbnail': 'thumbnail_example.png',
+        'main_img': {'name': 'main_picture.png', 'caption': "description"},
+        'images': [
+            {'name': 'picture1.png', 'caption': "description1"},
+            {'name': 'picture2.png', 'caption': "description2"},
+            {'name': 'picture3.png', 'caption': "description3"}
+        ],
+        'video_gameplay': [
+            {'https://www.youtube.com/watch?v=JRAPnuwnpRs': 'video_url', 'Breakout Gameplay': "Um vídeo de gameplay do Breakout", 'type': "youtube"} // type: youtube or vimeo
+        ],
+        'demos': [
+            {'http://www.maniadejogos.com/jogos/Xenocrate+2': 'demonstration_url', 'Xenocrate 2': "Um simulador de breakout"}
+        ],
+        'references': [
+            {'http://en.wikipedia.org/wiki/Breakout_%28video_game%29': 'Wikipédia', 'caption': "description"}
+        ]
 }

@@ -13,7 +13,7 @@
 	].join(''),
 	'full_text': [
 		'An arcade game that was developed by Namco and released in October 1979. ',
-		'Swarm after swarm of alien armies attack the player's ship that move ',
+		'Swarm after swarm of alien armies attack the player\'s ship that move ',
 		'left and right at the bottom of the wraparound screen. The ship can only ',
 		'have one shot on screen at a time. The player defeats one swarm, ',
 		'only to have it replaced by another more aggressive and challenging swarm ',

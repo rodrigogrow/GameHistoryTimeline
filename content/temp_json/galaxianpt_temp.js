@@ -20,7 +20,7 @@
 		' uma trilha sonora de fundo, além dos ataques Kamikazes.'
 	].join(''),
         'thumbnail': 'thumbnail_example.png',
-        'main_img': {'name': 'main_picture.png', 'caption': "description"},
+        'main_img': {'name': 'main_picture.png', 'caption': "description"}
         'images': [
             {'name': 'picture1.png', 'caption': "description1"},
         ],

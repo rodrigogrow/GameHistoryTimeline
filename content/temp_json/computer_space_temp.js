@@ -6,9 +6,9 @@
 
         'authors': ['Nolan Bushnell', 'Ted Dabney'],
 
-        'company': ['CompanyX'],  
+        'company': ['Nutting Associates'],  
 
-        'year': '1951',
+        'year': '1971',
 
         'date': '20-06-1951', // Day, Month, Year
 

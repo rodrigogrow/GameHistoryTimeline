@@ -21,8 +21,8 @@
             'Os jogadores movem evitando minas e atirando um no outro, os jogadores são representados por um sprite preto e branco',
             'de taque e as minas são representandos por um"X".Os pontos ão marcados por tiros ao adversário ou quando seu adversári',
             'passa sobre uma mina,o jogador com maior pontuação no final do prazo de tempo,ganha o jogo.'
-         ' Os tank sao controlados por dois joysticks numa configuração dupla.Empurrando od oid irá mover o tanque para frente   '
-            'e,ao puxarem os dois para trás faz o tanque parar. ',
+         
+            'aenean, proin quis aliquam viverra potenti vestibulum auctor, ',
             'non amet tellus sodales. In ullamco tellus risus nisl morbi amet. ',
             'Vel quisque nunc in placerat. Vitae id urna, nulla suspendisse, ',
             'molestie sodales ac nisl nulla, tempus occaecati. Sodales lectus, ',
@@ -35,14 +35,14 @@
             {'name': 'picture2.png', 'caption': "description2"},
             {'name': 'picture3.png', 'caption': "description3"}
         ],
-        'video_gameplay': [
-            {'url': 'video_url', 'caption': "description", 'type': "youtube"} // type: youtube or vimeo
+                'video_gameplay': [
+            {'url': 'https://www.youtube.com/watch?v=3OsBUzYBJgU', 'caption': "1974 Atari Tank Arcade Game", 'type': "youtube"} // type: youtube or vimeo
         ],
         'demos': [
             {'url': 'demonstration_url', 'caption': "description"}
         ],
         'references': [
-            {'url': 'reference_url1', 'caption': "description"},
+            {'url': 'http://en.wikipedia.org/wiki/Tank_(video_game)', 'caption': "Wikipedia 19-03-2015"},
             {'url': 'reference_url2', 'caption': "description"},
             {'url': 'reference_url3', 'caption': "description"}
         ]

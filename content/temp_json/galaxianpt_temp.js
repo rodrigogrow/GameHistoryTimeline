@@ -34,7 +34,6 @@
         ],
         'references': [
             {'url': 'http://en.wikipedia.org/wiki/galaxian', 'caption': "Wikipedia"},
-            {'url': 'reference_url2', 'caption': "description"}
         ]
 }
 },

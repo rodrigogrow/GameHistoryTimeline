@@ -25,7 +25,7 @@
         'funcionamento do jogo.'
     ].join(''),
     'thumbnail': 'http://ts3.mm.bing.net/th?id=HN.608005174475620362&pid=1.7',
-    'main_img': {'name': 'Pong' , 'caption' ': "Pong for Atari"},
+    'main_img': {'name': 'Pong' , 'caption': "Pong for Atari"},
     'images': [
         {'name': 'picture1.png', 'caption': "description1"},
         {'name': 'picture2.png', 'caption': "description2"},

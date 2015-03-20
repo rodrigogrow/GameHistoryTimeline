@@ -1,0 +1,32 @@
+{
+        'type': 'game', // game or console
+        'name': 'Breakout',
+        'authors': [ 'Nolan Bushnell', 'Steve Bristow'],
+        'company': ['Atari, Inc'],  
+        'year': '1976',
+        'date': '13-05-1976', // Day, Month, Year
+        'headline': 'Break blocs!',
+        'resume': [
+            'Breakout é um jogo eletrônico para Arcade desenvolvido',
+	      	'pela Atari, Inc. Influenciado pelo pong, seu objetivo',
+	      	'é destruir todos os blocos da parte de cima',
+	      	'com uma bola, sem deixá-la cair, controlando uma barra na',
+		    'parte de baixo da tela. Uma curiosidade é que o protótipo',
+	      	'foi feito por Steve Jobs e Woz, mais tarde, fundadores da apple.'
+        ].join(''),
+        'full_text': [
+            'Em 5 de maio de 1951, o computador NIMROD, criado pela Ferranti, ',
+			      'foi apresentado no Festival da Grã-Bretanha. ',
+            'A empresa era focada em segurança eletrônica e em seu tempo livre',
+            'Edward Uhler Condon utilizou a ferramentas disponíveis e criou ',
+            'o NIMATRON cujo foco era simular o jogo antigo NIM, antes jogado com pedras. ',
+            'As pedras foram trocadas por um painel com luzes e o controle era um totem. ',
+            'O objetivo do jogo era deixar o adversário, nesse caso o computador, ', 
+			'com a última peça. O jogador poderia remover quantas peças quisesse ',
+			'de uma linha, por vez. Só que em 90% das vezes o computador vencia.'
+        ].join(''),
+        'main_img': 'main.png',
+        'images': ['img1.png', 'img2.png', 'img3.png'],
+        'references': ['http://en.wikipedia.org/wiki/Nimrod_(computing)', 'http://www.wired.com/2010/06/replay/', 'http://www.historyofinformation.com/expanded.php?id=4471
+']
+}

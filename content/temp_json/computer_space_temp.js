@@ -5,7 +5,7 @@
         'company': ['Nutting Associates'],
         'year': '1971',
         'date': '15-10-1971', // Day, Month, Year
-        'headline': 'First Game about sport',
+        'headline': 'First Arcade Game',
         'resume': [
             'Lorem ipsum dolor sit amet, ut viverra vestibulum odio, ',
             'aliquam in massa, velit rutrum pede ipsum mauris duis, ',

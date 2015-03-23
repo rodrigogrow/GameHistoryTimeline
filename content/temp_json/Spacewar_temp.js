@@ -1,8 +1,8 @@
 {
-        'type': 'game', // game or console
+        'type': 'Shotter Space', // game or console
         'name': 'Space War',
-        'authors': ['Steve Russel', 'Dan Edwards'],
-        'company': ['CompanyX'],  
+        'authors': ['Steve Russel', 'Dan Edwards','Alan Kotok','Peter Sampson','Wayne Wiitanen Graetz'],
+        'company': [' Massachusetts Institute of Technology(MIT)'],  
         'year': '1951',
         'date': '20-06-1951', // Day, Month, Year
         'headline': 'First Game about sport',

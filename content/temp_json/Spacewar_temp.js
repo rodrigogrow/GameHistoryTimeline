@@ -3,15 +3,15 @@
         'name': 'Space War',
         'authors': ['Steve Russel', 'Dan Edwards','Alan Kotok','Peter Sampson','Wayne Wiitanen Graetz'],
         'company': [' Massachusetts Institute of Technology(MIT)'],  
-        'year': '1951',
-        'date': '20-06-1951', // Day, Month, Year
-        'headline': 'First Game about sport',
+        'year': '1961',
+        'date': '30-07-1961', // Day, Month, Year
+        'headline': 'First Game about space',
         'resume': [
-            'Lorem ipsum dolor sit amet, ut viverra vestibulum odio, ',
-            'aliquam in massa, velit rutrum pede ipsum mauris duis, ',
-            'congue massa sem elit, integer risus. Faucibus in lacus, ',
-            'ligula ornare nibh, elit suspendisse tortor sed volutpat, ',
-            'etiam tempus wisi semper montes odio, lorem vitae vel eu '
+            'Tendo o grosso de seu programa feito por Steve "Slug" (Lesma) Russell1 2 , com o auxílio de seus colegas Dan Edwards, Alan  ',
+            ' Kotok, Peter Sampson, Wayne Wiitanen e Martin Graetz3 , eles se inspiraram nos livros do autor E. E. "Doc" Smith para criar seu',
+            'jogo de tiro, uma batalha espacial.'
+            'O programa foi inteiramente desenvolvido no DEC PDP-1, um computador que ocupava uma mesa inteira. Nessa época não  ',
+            'existiam computadores caseiros, e os criadores de Spacewar! não pensavam em ganhar dinheiro com a invenção. '
         ].join(''),
         'full_text': [
             'Lorem ipsum dolor sit amet, ut viverra vestibulum odio, ',

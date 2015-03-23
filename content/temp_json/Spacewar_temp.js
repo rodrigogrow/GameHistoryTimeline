@@ -1,5 +1,5 @@
 {
-        'type': 'Shotter Space', // game or console
+        'type': ' Space Shotter', // game or console
         'name': 'Space War',
         'authors': ['Steve Russel', 'Dan Edwards','Alan Kotok','Peter Sampson','Wayne Wiitanen Graetz'],
         'company': [' Massachusetts Institute of Technology(MIT)'],  
@@ -14,15 +14,14 @@
             'existiam computadores caseiros, e os criadores de Spacewar! não pensavam em ganhar dinheiro com a invenção. '
         ].join(''),
         'full_text': [
-            'Lorem ipsum dolor sit amet, ut viverra vestibulum odio, ',
-            'aliquam in massa, velit rutrum pede ipsum mauris duis, ',
-            'congue massa sem elit, integer risus. Faucibus in lacus, ',
-            'ligula ornare nibh, elit suspendisse tortor sed volutpat, ',
-            'etiam tempus wisi semper montes odio, lorem vitae vel eu ',
-            'convallis. Volutpat blandit egestas et libero eu per, venenatis ',
-            'aenean, proin quis aliquam viverra potenti vestibulum auctor, ',
-            'non amet tellus sodales. In ullamco tellus risus nisl morbi amet. ',
-            'Vel quisque nunc in placerat. Vitae id urna, nulla suspendisse, ',
+            'Tudo começou como um desafio para Russell: com o novo computador dotado de transistores ao invés de válvulas e uma tela  ',
+            '(peças de luxo na época), o TX-0, conhecido como Tixo, eles decidiram fazer',
+            'o que ninguém mais fez por eles: transpor a ficção científica da literatura para uma outra mídia. ',
+            'É verdade que o que eles queriam mesmo era um filme, mas isso é outra história. Infelizmente, eles não tinham  ',
+            'acesso à enorme máquina.',
+            ' que o TX-0 e igualmente programável, ele era osonho dos garotos. E poderia ser ligado ',
+' instantâneamente, ao contrário de seu predecessor,, que precisava de uma manhã inteira para aquecimento  ',
+            'interno. Eles queriam criar algum tipo de demonstração, e por isso criaram algumas regras que seu programa deveria seguir: ',
             'molestie sodales ac nisl nulla, tempus occaecati. Sodales lectus, ',
             'mauris dis lectus amet, nascetur ipsum, hac suspendisse blandit eros.'
         ].join(''),

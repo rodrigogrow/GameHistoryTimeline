@@ -9,7 +9,7 @@
         'resume': [
             'Computer Space foi o primeiro jogo de fliperama lançado em 1971 pela Nutting Associates, criado por Nolan Bushnell e Ted Dabney, que funcionava com moedas ',
             'Computer Space foi inovador em estabelecer a forma básica de todos os fliperamas - a de um dispositivo de ',
-            'computação dedicada construído para jogar apenas um jogo. Foi um referencial por ser o primeiro ',
+            'computação dedicada construído para jogar apenas um jogo. Foi um referencial por ser o primeiro',
             'arcade vendido comercialmente em grande escala, antecipando o lançamento do Magnavox Odyssey por seis meses e Pong da Atari por um ano.'
         ].join(''),
         'full_text': [

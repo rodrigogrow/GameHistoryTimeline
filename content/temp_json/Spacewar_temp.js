@@ -19,11 +19,18 @@
             'o que ninguém mais fez por eles: transpor a ficção científica da literatura para uma outra mídia. ',
             'É verdade que o que eles queriam mesmo era um filme, mas isso é outra história. Infelizmente, eles não tinham  ',
             'acesso à enorme máquina.',
-            ' que o TX-0 e igualmente programável, ele era osonho dos garotos. E poderia ser ligado ',
+            ' O TX-0 e igualmente programável, ele era o sonho dos garotos. E poderia ser ligado ',
 ' instantâneamente, ao contrário de seu predecessor,, que precisava de uma manhã inteira para aquecimento  ',
             'interno. Eles queriam criar algum tipo de demonstração, e por isso criaram algumas regras que seu programa deveria seguir: ',
-            'molestie sodales ac nisl nulla, tempus occaecati. Sodales lectus, ',
-            'mauris dis lectus amet, nascetur ipsum, hac suspendisse blandit eros.'
+            '1.Deveria demonstrar as capacidades do computador, usando quase todo seu potencial;',
+            '2.Deveria ser interessante e interativo (diferente toda vez que rodado);'
+'3.Deveria envolver o usuário de maneira atrativa e prazerosa - ou seja, deveria ser um jogo.'
+'Os jovens então criaram duas naves, uma rotina para simular inércia  '
+'e um campo estelar aleatório para ajudar a controlar o movimento. Elesqueriam também adicionar um "botão de pânico para emergências",'
+' e assim nasceu a tecla Hiper-Espaço. O último toque seria a estrela no meio do campo de batalha, que gerava um campo gravitacional '
+' que poderia tanto atrapalhar ou ajudar, dependendo da astúcia do jogador.'
+'Spacewar! só estaria oficialmente finalizado em 1962, ocupando míseros 2KB…Russell jamais ganharia um dólar pelo jogo '
+'- mas isso não quer dizer que outros não lucrariam com ele.'
         ].join(''),
         'thumbnail': 'thumbnail_example.png',
         'main_img': {'name': 'main_picture.png', 'caption': "description"},

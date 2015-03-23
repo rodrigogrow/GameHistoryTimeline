@@ -1,7 +1,7 @@
 {
         'type': 'game', // game or console
-        'name': 'Game Name',
-        'authors': ['Fulano de tal', 'Ciclano'],
+        'name': 'Space War',
+        'authors': ['Steve Russel', 'Dan Edwards'],
         'company': ['CompanyX'],  
         'year': '1951',
         'date': '20-06-1951', // Day, Month, Year

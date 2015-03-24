@@ -41,7 +41,7 @@
 		        'thumbnail': 'thumbnail_example.png',
 		        'main_img': '025p.jpg', 
 		        'images': ['026p.jpg'],
-		        'video_gameplay': ['video_url1', 'video_url2'],
+		        'video_gameplay': [],
 		        'demos': ['demo_url1'],
 		        'references': ['reference_url1', 'reference_url2', 'reference_url3']
 			}

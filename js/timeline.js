@@ -89,11 +89,14 @@
 
 		// add main image
 		if (item.main_img) {
-			html += '<img src="'+ this.getBaseImagePath(item) + item['main_img'] + '" alt="">';	
+
+			var image_name = (item['main_img'].name) ? item['main_img'].name : item['main_img']; // temp
+			html += '<img src="'+ this.getBaseImagePath(item) + image_name + '" alt="">';	
 		}
 
 		html += '</div>';	
 		
+		// add year
 		html += '<p><b>Ano:</b> ' + item.year + '</p>';
 
 		// adding authors
@@ -104,6 +107,13 @@
 		// adding resume
 		if (item.resume) {
 			html += '<p>' + item.resume + '</p>';
+		}
+
+		// adding video
+		if (item.video_gameplay.length > 0) {
+			html += '<p><b>';
+			html += '<a href="'+item.video_gameplay[0].url+'" class="venobox_custom" data-type="youtube" data-overlay="rgba(0,0,0,0.5)">Gameplay Video</a>';
+			html += '</b></p>';
 		}
 
 		html += '<br class="clear">';

@@ -1,5 +1,5 @@
 {
-        'type': ' Game', // game or console
+        'type': ' Space Shotter', // game or console
         'name': 'Space War',
         'authors': ['Steve Russel', 'Dan Edwards','Alan Kotok','Peter Sampson','Wayne Wiitanen Graetz'],
         'company': [' Massachusetts Institute of Technology(MIT)'],  
@@ -20,7 +20,7 @@
             'É verdade que o que eles queriam mesmo era um filme, mas isso é outra história. Infelizmente, eles não tinham  ',
             'acesso à enorme máquina.',
             ' O TX-0 e igualmente programável, ele era o sonho dos garotos. E poderia ser ligado ',
-            ' instantâneamente, ao contrário de seu predecessor,, que precisava de uma manhã inteira para aquecimento  ',
+' instantâneamente, ao contrário de seu predecessor,, que precisava de uma manhã inteira para aquecimento  ',
             'interno. Eles queriam criar algum tipo de demonstração, e por isso criaram algumas regras que seu programa deveria seguir: ',
             '1.Deveria demonstrar as capacidades do computador, usando quase todo seu potencial;',
             '2.Deveria ser interessante e interativo (diferente toda vez que rodado);'
@@ -40,14 +40,14 @@
             {'name': 'picture3.png', 'caption': "description3"}
         ],
         'video_gameplay': [
-            {'url': 'video_url', 'caption': "description", 'type': "youtube"} // type: youtube or vimeo
+            {'url': 'https://www.youtube.com/watch?v=UP2OaKHaDxM', 'caption': "video gameplay old classic retro game", 'type': "youtube"} // type: youtube or vimeo
         ],
         'demos': [
-            {'url': 'demonstration_url', 'caption': "description"}
+            {'url': 'http://www.masswerk.at/spacewar/', 'caption': "jogar space war online"}
         ],
         'references': [
-            {'url': 'reference_url1', 'caption': "description"},
-            {'url': 'reference_url2', 'caption': "description"},
-            {'url': 'reference_url3', 'caption': "description"}
+            {'url': 'http://pt.wikipedia.org/wiki/Spacewar!', 'caption': "description"},
+            {'url': 'http://www.computerhistory.org/revolution/computer-games/16/189/2213', 'caption': "detalhes sobre space war"},
+            {'url': 'http://pdp-1.computerhistory.org/pdp-1/index.php?f=theme&s=4&ss=3', 'caption': "mais sobre o projeto space war"}
         ]
 }

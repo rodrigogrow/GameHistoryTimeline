@@ -14,7 +14,7 @@
 					'O criador do NIMATRON foi Edward Uhler Condon.',
 					'A ideia do jogo era simples e já existia fora do mundo',
 					'tecnológico. O NIMROD usava painéis de luzes para simular',
-					'as peças usadas no já conhecido jogo Nim"
+					'as peças usadas no já conhecido jogo Nim'
         ].join(''),
  'full_text': [
 		            'Em 5 de maio de 1951, o computador NIMROD, criado pela Ferranti, ',
@@ -35,15 +35,15 @@
         'thumbnail': 'thumbnail_example.png',
         'main_img': {'name': 'main_picture.png', 'caption': "description"},
         'images': [
-            {'name': 'picture1.png', 'caption': "description1"},
-            {'name': 'picture2.png', 'caption': "description2"},
-            {'name': 'picture3.png', 'caption': "description3"}
+            {'name': 'img1.png', 'caption': "Máquina completa"},
+            {'name': 'img2.png', 'caption': "Apresentação do jogo feita no Festival da Grã-Bretanha"},
+            {'name': 'img3.png', 'caption': "Painel de jogo"}
         ],
         'video_gameplay': [
             {'url': 'https://www.youtube.com/watch?v=yJZlozoQ4jI', 'caption': "Gameplay Nimrod", 'type': "youtube"} // type: youtube or vimeo
         ],
         'demos': [
-            {'url': 'demonstration_url', 'caption': "description"}
+            {'url': 'http://www.archimedes-lab.org/game_nim/play_nim_game.html', 'caption': "Jogar agora"}
         ],
         'references': [
             {'url': 'http://en.wikipedia.org/wiki/Nimrod_(computing), 'caption': "Wikipédia"},

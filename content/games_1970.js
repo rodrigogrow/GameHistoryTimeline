@@ -36,7 +36,7 @@
 			        'funcionamento do jogo.'
 			    ].join(''),
 			    'thumbnail': 'http://ts3.mm.bing.net/th?id=HN.608005174475620362&pid=1.7',
-			    'main_img': {'name': 'pong_img_1' , 'caption': "Pong for Atari"},
+			    'main_img': {'name': 'pong_img_1.png' , 'caption': "Pong for Atari"},
 			    'images': [
 			        {'name': 'http://origemdascoisas.com/wp-content/uploads/2012/03/Maquina-de-Pong-1972-Pong-Machine-1972.jpg', 'caption': "Máquina de Pong em 1972"},
 			        {'name': 'http://ts1.mm.bing.net/th?id=HN.608054072673043784&pid=1.7', 'caption': "Versão doméstica do Pong"},

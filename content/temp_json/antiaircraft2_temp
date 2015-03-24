@@ -1,11 +1,11 @@
 {
-        'type': 'game', // game or Atari 2600
+        'type': 'Arcade', // game or Atari 2600
         'name': 'Anti-Aircraft 2',
         'authors': [],
         'company': ['Atari'],  
         'year': '1975',
         'date': '06-06-1975', // Day, Month, Year
-        'headline': 'Shooter',
+        'headline': 'O primeiro jogo a possuir um MOD',
         'resume': [
             'Anti-Aircraft 2 foi um jogo de um ou dois jogadores, ',
             'que um dia fez parte do cartucho Air-Sea Battle do Atari 2600 , ',

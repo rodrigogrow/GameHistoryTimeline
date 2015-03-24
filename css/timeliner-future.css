@@ -275,6 +275,15 @@ a:visited {
   margin: 6px 0 10px;
   width: 500px;
 }
+.timeline-event-content li {
+  clear: left;
+  float: left;
+  font-size: 2em;
+  font-weight: 100;
+  margin-left: 0;
+  padding: 0 30px;
+  width: 400px;
+}
 .timeline-event-content h4 {
   clear: left;
   float: left;

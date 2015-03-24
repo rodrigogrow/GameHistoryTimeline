@@ -116,6 +116,26 @@
 			html += '</b></p>';
 		}
 
+		// adding demos
+		if (item.demos.length > 0) {
+			html += '<p><b>'+ 'Demos:' +'</b></p>';
+			html += '<ol>';
+			for (var i=0, amount=item.demos.length; i < amount; i++) {
+				html += '<li>' + '<a target="_blank" href="'+item.demos[i].url+'">' + item.demos[i].caption + '</a>' + '</li>';
+			}
+			html += '</ol>';
+		}
+
+		// adding references
+		if (item.references.length > 0) {
+			html += '<p><b>'+ 'Referências:' +'</b></p>';
+			html += '<ol>';
+			for (var i=0, amount=item.references.length; i < amount; i++) {
+				html += '<li>' + '<a target="_blank" href="'+item.references[i].url+'">' + item.references[i].caption + '</a>' + '</li>';
+			}
+			html += '</ol>';
+		}
+
 		html += '<br class="clear">';
 		html += '</dd>';
 

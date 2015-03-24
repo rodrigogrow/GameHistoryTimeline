@@ -25,7 +25,7 @@
             'Quando um tijolo é atingido, a bola rebate de volta e o tijolo é destruído.'
             'O jogador perde uma vida quando a bola toca a parte inferior da tela.'
             'Para prevenir que isso aconteça, o jogador move uma paleta para rebater a bola'
-            'para cima, mantendo-a no jogo.' ].join(''),
+            'para cima, mantendo-a no jogo. O breakout foi baseado no Pong, mudando apenas a mecânica do jogo' ].join(''),
         'thumbnail': 'thumbnail_example.png',
         'main_img': {'name': 'main_picture.png', 'caption': "description"},
         'images': [

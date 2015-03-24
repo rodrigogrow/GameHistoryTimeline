@@ -3,7 +3,7 @@
         'name': 'Tennis For Two',
         'authors': ['William Higinbotham'],
         'company': ['Brookhaven National Laboratory'],  
-        'year': '1958,
+        'year': '1958',
         'date': '18-10-1958', // Day, Month, Year
         'headline': 'Um dos primeiros jogos eletrônicos a usar um display gráfico',
         'resume': [
@@ -11,7 +11,7 @@
             'primeiros jogos já criados. Desenvolvido por William ',
             'Higginbotham, um físico que trabalhou no Projeto Manhattan, ',
             'Tennis for Two foi completado em 18 de Outubro de 1958, ',
-            'muito antes de os primeiros jogos serem comercializados.',
+            'muito antes de os primeiros jogos serem comercializados.'
         ].join(''),
         'full_text': [
             'Tennis for Two é  considerado um dos primeiros jogos, ',

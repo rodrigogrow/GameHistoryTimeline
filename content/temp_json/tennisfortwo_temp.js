@@ -4,7 +4,7 @@
         'authors': ['William Higinbotham'],
         'company': ['Brookhaven National Laboratory'],  
         'year': '1958',
-        'date': '10-18-1958', // Day, Month, Year
+        'date': '18-10-1958', // Day, Month, Year
         'headline': 'One of the first electronic games to use a graphical display.',
         'resume': [
             'Tennis for Two is often regarded as one of the first video ',

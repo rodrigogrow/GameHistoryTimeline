@@ -47,7 +47,7 @@
         ],
         'references': [
             {'url': 'http://en.wikipedia.org/wiki/Nimrod_(computing)', 'caption': "Wikipédia"},
-            {'url': 'http://www.wired.com/2010/06/replay/', 'caption': "Wired"},
+            {'url': 'http://pt.slideshare.net/gabrielalonso927/nim-first-videogame', 'caption': "Slides"},
             {'url': 'http://www.historyofinformation.com/expanded.php?id=4471', 'caption': "History of Information"}
         ]
 }

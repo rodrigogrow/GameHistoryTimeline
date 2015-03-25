@@ -66,7 +66,7 @@ body {
   padding: 40px 0;
 }
 h1 {
-  color: #78a8b2;
+  color: #88C425;
   font-size: 4.8em;
   font-weight: 400;
   text-transform: uppercase;
@@ -91,10 +91,10 @@ h2 {
 a:hover,
 a:link,
 a:visited {
-  color: #78a8b2;
+  color: #FF823A;
 }
 .timeline-container {
-  border-left: 4px solid rgba(0, 69, 121, 0.65);
+  border-left: 4px solid #83a300;
   margin: 20px auto;
   width: 900px;
 }
@@ -108,7 +108,7 @@ a:visited {
   position: relative;
 }
 .timeline-container::before {
-  background: rgba(0, 69, 121, 0.65);
+  background: #83a300;
   content: "";
   display: block;
   height: 4px;
@@ -118,7 +118,7 @@ a:visited {
   top: -4px;
 }
 .timeline-container::after {
-  background: rgba(0, 69, 121, 0.65);
+  background: #83a300;
   content: "";
   display: block;
   height: 4px;
@@ -128,7 +128,7 @@ a:visited {
   top: 4px;
 }
 .timeline-toggle {
-  background: rgba(23, 66, 98, 0.65);
+  background: #83a300;
   border: 0;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
@@ -143,7 +143,7 @@ a:visited {
   white-space: nowrap;
 }
 .timeline-toggle:hover {
-  background: rgba(119, 0, 63, 0.8);
+  background: rgba(0, 69, 121, 0.95);
   -webkit-transition: background 0.2s ease-in;
   -moz-transition: background 0.2s ease-in;
   -o-transition: background 0.2s ease-in;
@@ -159,7 +159,7 @@ a:visited {
   width: 900px;
 }
 .timeline-wrapper .timeline-time::before {
-  border-top: 4px solid rgba(0, 69, 121, 0.65);
+  border-top: 4px solid #83a300;
   content: "";
   display: inline-block;
   height: 4px;
@@ -172,10 +172,11 @@ a:visited {
   font-size: 2.8em;
   font-weight: 400;
   margin: 0 0 30px 0;
+  text-shadow: 2px 2px #000000;
   padding: 0;
 }
 .timeline-wrapper .timeline-time span {
-  background: rgba(0, 69, 121, 0.65);
+  background: #83a300;
   -moz-border-radius: 10px;
   border-radius: 10px;
   color: rgba(255, 255, 255, 0.85);
@@ -200,7 +201,7 @@ a:visited {
   width: 880px;
 }
 .timeline-series dt::before {
-  border-top: 3px solid rgba(0, 69, 121, 0.65);
+  border-top: 3px solid #83a300;
   content: "";
   display: inline-block;
   height: 3px;

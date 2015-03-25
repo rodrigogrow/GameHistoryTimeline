@@ -20,7 +20,7 @@ $(document).ready(function(){
         framewidth: '600px',        // default: ''
         frameheight: '400px',       // default: ''
         border: '1px',             // default: '0'
-        bgcolor: '#5dff5e',         // default: '#fff'
+        bgcolor: '#83a300',         // default: '#fff'
         titleattr: 'data-title',    // default: 'title'
         numeratio: true,            // default: false
         infinigall: true            // default: false

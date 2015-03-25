@@ -32,19 +32,17 @@
             'que disponibilizava a mudança de aviões para OVNI\'s .'
         ].join(''),
         'thumbnail': 'thumbnail_example.png',
-        'main_img': {'name': 'AA2_-_MAIN_IMAGE.png', 'caption': "Tela Frontal do Game"},
+        'main_img': {'name': 'AA2_MAIN_IMAGE.png', 'caption': "Tela Frontal do Game"},
         'images': [
-            {'name': 'AA2_-_IMAGE_1.png', 'caption': "Maquina"},
-            {'name': 'AA2_-_IMAGE_2.png', 'caption': "Tela Frontal do Game"},
+            {'name': 'AA2_IMAGE_1.png', 'caption': "Maquina"},
+            {'name': 'AA2_IMAGE_2.png', 'caption': "Tela Frontal do Game"},
             {'name': 'picture3.png', 'caption': "description3"}
         ],
         'video_gameplay': [
             {'url': 'www.youtube.com/watch?v=bOyH_D_XLWU','caption': "Versão Original", 'type': "youtube"},
             {'url': 'www.youtube.com/watch?v=GgH7-aFQWQo','caption': "Versão Modificada", 'type': "youtube"} // type: youtube or vimeo
         ],
-        'demos': [
-            {'url': 'demonstration_url', 'caption': "description"}
-        ],
+        'demos': [],
         'references': [
             {'url': 'www.armchairarcade.com/neo/node/577&prev=search', 'caption': "description"},
             {'url': 'en.wikipedia.org/wiki/Anti-Aircraft_(video_game)&prev=search', 'caption': "description"},

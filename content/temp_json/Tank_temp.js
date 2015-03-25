@@ -25,7 +25,7 @@
             'do joystick para a esquerda fará com que o tanque vire a direita enquanto inverte o joystick fará com o tanque vire a esquerda. ',
             'algumas curiosidades:A cor completa e Motorola 6800 baseado em microprocessador Tanque 8 em 1976,O 6502 baseado em microprocessador Ultra Tanque em 1978',
             'Battlezone foi lançado em 1980, usando o mesmo mecanismo de controle,Desenhado por Ed Rotberg , o jogo foi transferido para 3D em primeira pessoa formato ',
-            ' apresentado por gráficos vetoriais.O jogador também já competiu contra adversários controlados pelo computador.'
+            'apresentado por gráficos vetoriais.O jogador também já competiu contra adversários controlados pelo computador.'
         ].join(''),
         'thumbnail': 'thumbnail_example.png',
         'main_img': {'name': 'main_picture.png', 'caption': "description"},

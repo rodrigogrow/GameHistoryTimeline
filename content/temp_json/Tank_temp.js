@@ -43,7 +43,7 @@
         ],
         'references': [
             {'url': 'http://en.wikipedia.org/wiki/Tank_(video_game)', 'caption': "Wikipedia 19-03-2015"},
-            {'url': 'reference_url2', 'caption': "description"},
+            {'url': 'http://www.skooldays.com/categories/arcade/ag1148.htm', 'caption': "mais informações"},
             {'url': 'reference_url3', 'caption': "description"}
         ]
 }

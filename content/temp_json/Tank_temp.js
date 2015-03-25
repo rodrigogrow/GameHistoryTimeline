@@ -7,11 +7,10 @@
         'date': '05-11-1974', // Day, Month, Year
         'headline': 'First Game about Tanques',
         'resume': [
-            'Tank foi um jogo de arcade de dois jogadores desenvolvido pela Atari.Inc através ',
-            'subsidiaria Kee Games originalmente lançado em 05 de novembro de 1974 e foi desenhado por Steve Bristow e Lyle Rains  ',
-            'congue massa sem elit, integer risus. Faucibus in lacus, ',
-            'ligula ornare nibh, elit suspendisse tortor sed volutpat, ',
-            'etiam tempus wisi semper montes odio, lorem vitae vel eu '
+            'Tank foi um jogo de arcade de dois jogadores desenvolvido pela Atari.Inc através da ',
+            'subsidiaria Kee Games originalmente lançado em 05 de novembro de 1974 e foi desenhado 
+            'por Steve Bristow e Lyle Rains  ',
+           
         ].join(''),
         'full_text': [
             'O painel de controle é composto por quatro joysticks estilo  militar, um para cada jogador com um botão de fogo montado ',
@@ -24,9 +23,9 @@
         'Os tanques são controlados por dois joysticks numa configuração dupla.Empurrando os dois irá mover o tanque para frente' 
             'e,ao mpuxar os joystiks para trás faz o tanque parar.Movendo o joystick direito para a frente enquanto puxa a parte de trás ',
             'do joystick para a esquerda fará com que o tanque vire a direita enquanto inverte o joystick fará com o tanque vire a esquerda. ',
-            'Vel quisque nunc in placerat. Vitae id urna, nulla suspendisse, ',
-            'molestie sodales ac nisl nulla, tempus occaecati. Sodales lectus, ',
-            'mauris dis lectus amet, nascetur ipsum, hac suspendisse blandit eros.'
+            'algumas curiosidades:A cor completa e Motorola 6800 baseado em microprocessador Tanque 8 em 1976,O 6502 baseado em microprocessador Ultra Tanque em 1978',
+            'Battlezone foi lançado em 1980, usando o mesmo mecanismo de controle,Desenhado por Ed Rotberg , o jogo foi transferido para 3D em primeira pessoa formato ',
+            ' apresentado por gráficos vetoriais.O jogador também já competiu contra adversários controlados pelo computador.'
         ].join(''),
         'thumbnail': 'thumbnail_example.png',
         'main_img': {'name': 'main_picture.png', 'caption': "description"},

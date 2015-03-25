@@ -80,7 +80,7 @@
 
 			nameLowerTrimmed = item.name.replace(/ /g,'').toLowerCase();
 
-			html += '<dt id="'+nameLowerTrimmed+'"><a>'+item.name+'</a></dt>';	
+			html += '<dt id="'+nameLowerTrimmed+'"><a>'+ item.year +' - '+ item.name+'</a></dt>';	
 		}
 		
 		html += '<span class="tick tick-after"></span>';

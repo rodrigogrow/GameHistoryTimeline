@@ -26,8 +26,8 @@
 					'A ideia do jogo era simples e já existia fora do mundo',
 					'tecnológico. O NIMROD usava painéis de luzes para simular',
 					'as peças usadas no já conhecido jogo Nim'
-        ].join(''),
- 		'full_text': [
+		        ].join(''),
+		 		'full_text': [
 		            'Em 5 de maio de 1951, o computador NIMROD, criado pela Ferranti, ',
 					'foi apresentado no Festival da Grã-Bretanha. ',
 		            'A empresa era focada em segurança eletrônica e em seu tempo livre',
@@ -42,26 +42,26 @@
 					'até pessoas importantes como embaixadores jogaram o jogo.',
 					'Em Berlim, as pessoas esquecerma da cerveja que estava sendo distribuída',
 					'gratuitamente no local para concentrar a atenção na exposição do jogo'
-        ].join(''),
-        'thumbnail': 'thumbnail_example.png',
-        'main_img': {'name': 'main.png', 'caption': "description"},
-        'images': [
-            {'name': 'img1.png', 'caption': "Máquina completa"},
-            {'name': 'img2.png', 'caption': "Apresentação do jogo feita no Festival da Grã-Bretanha"},
-            {'name': 'img3.png', 'caption': "Painel de jogo"}
-        ],
-        'video_gameplay': [
-            {'url': 'http://www.youtu.be/yJZlozoQ4jI', 'caption': "Gameplay Nimrod", 'type': "youtube"} // type: youtube or vimeo
-        ],
-        'demos': [
-            {'url': 'http://www.archimedes-lab.org/game_nim/play_nim_game.html', 'caption': "Jogar agora"}
-        ],
-        'references': [
-            {'url': 'http://en.wikipedia.org/wiki/Nimrod_(computing)', 'caption': "Wikipédia"},
-            {'url': 'http://www.wired.com/2010/06/replay/', 'caption': "Wired"},
-            {'url': 'http://www.historyofinformation.com/expanded.php?id=4471', 'caption': "History of Information"}
-        ]
-},
+		        ].join(''),
+		        'thumbnail': 'thumbnail_example.png',
+		        'main_img': {'name': 'main.png', 'caption': "description"},
+		        'images': [
+		            {'name': 'img1.png', 'caption': "Máquina completa"},
+		            {'name': 'img2.png', 'caption': "Apresentação do jogo feita no Festival da Grã-Bretanha"},
+		            {'name': 'img3.png', 'caption': "Painel de jogo"}
+		        ],
+		        'video_gameplay': [
+		            {'url': 'http://www.youtu.be/yJZlozoQ4jI', 'caption': "Gameplay Nimrod", 'type': "youtube"} // type: youtube or vimeo
+		        ],
+		        'demos': [
+		            {'url': 'http://www.archimedes-lab.org/game_nim/play_nim_game.html', 'caption': "Jogar agora"}
+		        ],
+		        'references': [
+		            {'url': 'http://en.wikipedia.org/wiki/Nimrod_(computing)', 'caption': "Wikipédia"},
+		            {'url': 'http://www.wired.com/2010/06/replay/', 'caption': "Wired"},
+		            {'url': 'http://www.historyofinformation.com/expanded.php?id=4471', 'caption': "History of Information"}
+		        ]
+			},
 			{
 		        'name': 'OxO - Naughts and Crosses',
 		        'authors': ['S. Douglas', 'Alexander'],
@@ -96,32 +96,59 @@
 		        'references': []
 			},
 			{
-				'type': 'game',
-				'name': 'Tennis for Two',
-				'authors': ['William Higinbotham'],
-				'company': [],  
-				'year': '1958',
-				'date': '18-10-1958',
-				'headline': '',
-				'resume': [
-					'Criado para entreter os visitantes da feira anual de 1958, ',
-					'mas já tinha em mente agregar valor a comunidade cientifica ',
-					'através do entretenimento pessoal. Rodava em um Donner 30, ',
-					'computador focado em simular vetores e sofrer com a ação do ',
-					'vento e da gravidade. Em sua primeira versão, continua um ',
-					'osciloscópio como tela de 12,7x12,7 cm, além de 4 computadores',
-					'adicionais que amplificavam os seis sensores imbutidos, afim de ',
-					'simulara a moção da bola. A jogabilidade era feita através de dois ',
-					'controles, os controles eram iniciados a partir do momento em que ',
-					'bola entrava em seus respectivos campos da quadra.'
-				].join(''),
-				'full_text': '',
-				'thumbnail': '',
-				'main_img': '',
-				'images': [],
-				'video_gameplay': [],
-				'demos': [],
-				'references': []
+		        'type': 'game', // game or console
+		        'name': 'Tennis For Two',
+		        'authors': ['William Higinbotham'],
+		        'company': ['Brookhaven National Laboratory'],  
+		        'year': '1958',
+		        'date': '18-10-1958', // Day, Month, Year
+		        'headline': 'Um dos primeiros jogos eletrônicos a usar um display gráfico',
+		        'resume': [
+		            'Tennis for Two é frequentemente considerado como um dos ',
+		            'primeiros jogos já criados. Desenvolvido por William ',
+		            'Higginbotham, um físico que trabalhou no Projeto Manhattan, ',
+		            'Tennis for Two foi completado em 18 de Outubro de 1958, ',
+		            'muito antes de os primeiros jogos serem comercializados.'
+		        ].join(''),
+		        'full_text': [
+		            'Tennis for Two é  considerado um dos primeiros jogos, ',
+		            'já lançados, se não o primeiro. Está entre os primeiros ',
+		            'jogos que contou com um display gráfico. Higginbotham ',
+		            'criou o jogo em resposta ao "Dia de Exposições" no ',
+		            'Laboratório Nacional de Brookhaven em Upton, Nova Iorque. ',
+		            'De acordo com Higinbotham, o dia de exposições sempre era ',
+		            'um tanto monótomo e entediante, e Tennis for Two foi criado ',
+		            'em resposta a esse fato, para tornar o evento mais ',
+		            'emocionante. Um dos computadores do exército era capaz de ',
+		            'calcular a trajetória de mísseis balísticos, e ele usou ',
+		            'essa tecnologia para desenvolver o jogo. Sem surpresa, o jogo ',
+		            'foi um enorme sucesso entre os participantes e relatos sugerem ',
+		            'que enormes filas foram formadas para jogar o simples, mas, ',
+		            'no momento, inovador jogo. Mesmo que Higginbotham tivesse ',
+		            'percebido que tinha desenvolvido algo original, ele nunca patenteou ',
+		            'a ideia devido ao fato de que o governo dos Estados Unidos ',
+		            'teria tomado posse dela("Mas se eu tivesse percebido o ',
+		            'quão significativo havia sido, eu teria patenteado ',
+		            'e seria posse do governo dos EUA!" -Higginbotham). ',
+		            'Durante dois anos, o jogo foi desenvolvido, até que fosse ',
+		            'infelizmente, descontinuado.'
+		        ].join(''),
+		        'thumbnail': 'thumbnail_example.png',
+		        'main_img': {'name': 'main_picture.png', 'caption': "description"},
+		        'images': [
+		            {'name': 'picture1.png', 'caption': "description1"},
+		            {'name': 'picture2.png', 'caption': "description2"},
+		            {'name': 'picture3.png', 'caption': "description3"}
+		        ],
+		        'video_gameplay': [
+		            {'url': 'http://www.youtu.be/s2E9iSQfGdg', 'caption': "Tennis For Two - The second ever computer game"} // type: youtube or vimeo
+		        ],
+		        'demos': [],
+		        'references': [
+		            {'url': 'http://videogamehistory.wikia.com/wiki/Tennis_for_Two', 'caption': "Video Game History Wiki"},
+		            {'url': 'http://www.youtube.com/watch?v=6QSHZ20MQfE', 'caption': "When Games Went Click: The Story of Tennis for Two"},
+		            {'url': 'http://www.bnl.gov/bnlweb/history/higinbotham.asp', 'caption': "When Games Went Click: The Story of Tennis for Two"}
+		        ]
 			}
 		]
 	}

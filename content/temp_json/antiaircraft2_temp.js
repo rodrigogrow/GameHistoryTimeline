@@ -35,8 +35,7 @@
         'main_img': {'name': 'AA2_MAIN_IMAGE.png', 'caption': "Tela Frontal do Game"},
         'images': [
             {'name': 'AA2_IMAGE_1.png', 'caption': "Maquina"},
-            {'name': 'AA2_IMAGE_2.png', 'caption': "Tela Frontal do Game"},
-            {'name': 'picture3.png', 'caption': "description3"}
+            {'name': 'AA2_IMAGE_2.png', 'caption': "Tela Frontal do Game"}
         ],
         'video_gameplay': [
             {'url': 'www.youtube.com/watch?v=bOyH_D_XLWU','caption': "Versão Original", 'type': "youtube"},

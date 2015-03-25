@@ -8,7 +8,7 @@ Clone the project: `git clone git@github.com:rodrigogrow/GameHistoryTimeline.git
 
 ## Live Demonstration
 
-### - [Demo](http://rodrigogrow.github.io/GameHistoryTimeline/)
+<h3> - <a href="http://rodrigogrow.github.io/GameHistoryTimeline/" target="_blank">Demo</a></h3>
 
 ## Contributing
 

@@ -1,5 +1,5 @@
 {
-        'type': 'Arcade', // game or Atari 2600
+        'type': 'Arcade', // game or console
         'name': 'Anti-Aircraft 2',
         'authors': [],
         'company': ['Atari'],  
@@ -32,10 +32,10 @@
             'que disponibilizava a mudança de aviões para OVNI\'s .'
         ].join(''),
         'thumbnail': 'thumbnail_example.png',
-        'main_img': {'name': 'main_picture.png', 'caption': "description"},
+        'main_img': {'name': 'AA2_-_MAIN_IMAGE.png', 'caption': "Tela Frontal do Game"},
         'images': [
-            {'name': 'picture1.png', 'caption': "description1"},
-            {'name': 'picture2.png', 'caption': "description2"},
+            {'name': 'AA2_-_IMAGE_1.png', 'caption': "Maquina"},
+            {'name': 'AA2_-_IMAGE_2.png', 'caption': "Tela Frontal do Game"},
             {'name': 'picture3.png', 'caption': "description3"}
         ],
         'video_gameplay': [

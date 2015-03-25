@@ -39,14 +39,15 @@
             {'name': 'picture3.png', 'caption': "description3"}
         ],
         'video_gameplay': [
-            {'url': 'video_url', 'caption': "description", 'type': "youtube"} // type: youtube or vimeo
+            {'url': 'www.youtube.com/watch?v=bOyH_D_XLWU','caption': "Versão Original", 'type': "youtube"},
+            {'url': 'www.youtube.com/watch?v=GgH7-aFQWQo','caption': "Versão Modificada", 'type': "youtube"} // type: youtube or vimeo
         ],
         'demos': [
             {'url': 'demonstration_url', 'caption': "description"}
         ],
         'references': [
-            {'url': 'reference_url1', 'caption': "description"},
-            {'url': 'reference_url2', 'caption': "description"},
-            {'url': 'reference_url3', 'caption': "description"}
+            {'url': 'www.armchairarcade.com/neo/node/577&prev=search', 'caption': "description"},
+            {'url': 'en.wikipedia.org/wiki/Anti-Aircraft_(video_game)&prev=search', 'caption': "description"},
+            {'url': 'www.arcade-museum.com/game_detail.php%3Fgame_id%3D6892&prev=search', 'caption': "description"}
         ]
 }

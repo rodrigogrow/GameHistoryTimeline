@@ -1,5 +1,5 @@
 {
-        'type': ' Space Shotter', // game or console
+        'type': ' Game', // game or console
         'name': 'Space War',
         'authors': ['Steve Russel', 'Dan Edwards','Alan Kotok','Peter Sampson','Wayne Wiitanen Graetz'],
         'company': [' Massachusetts Institute of Technology(MIT)'],  

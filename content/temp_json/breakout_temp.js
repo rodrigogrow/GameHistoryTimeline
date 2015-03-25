@@ -42,5 +42,6 @@
         ],
         'references': [
             {'url': 'http://en.wikipedia.org/wiki/Breakout_%28video_game%29', 'caption': "Wikipédia"}
+            {'url': 'http://pt.slideshare.net/gabrielalonso927/breakout-1976', 'caption': "Slides"}
         ]
 }

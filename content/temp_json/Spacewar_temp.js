@@ -36,7 +36,7 @@
         'main_img': {'name': 'main_picture.png', 'caption': "description"},
         'images': [
             {'name': 'picture1.png', 'caption': "Russel e seu companheiro jogando Space War"},
-            {'name': 'picture2.png', 'caption': "description2"},
+            {'name': 'picture2.png', 'caption': "SpaceWar no computador PDP-1"},
             {'name': 'picture3.png', 'caption': "description3"}
         ],
         'video_gameplay': [

@@ -1,12 +1,16 @@
 
 .project {
-  width: 700px ;
-  text-align: center;
-  font-size: 15px;
-  margin-left: auto ;
-  margin-right: auto ;
+    width: 700px ;
+    text-align: center;
+    font-size: 15px;
+    margin-left: auto ;
+margin-right: auto ;
 }
 
 .github-btns-container {
-  margin-top: 5px;
+    margin-top: 5px;
+}
+
+.link_reference {
+    margin-left: 10px;
 }

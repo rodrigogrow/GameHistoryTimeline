@@ -121,16 +121,16 @@
             function openEvent(eventHeading,eventBody) {
                 $(eventHeading)
                     .removeClass('closed')
-                    .addClass('open')
-                    .animate({ fontSize: settings.fontOpen }, settings.baseSpeed);
+                    .addClass('open');
+                    //.animate({ fontSize: settings.fontOpen }, settings.baseSpeed);
                 $(eventBody).show(settings.speed*settings.baseSpeed);
             }
 
             function closeEvent(eventHeading,eventBody) {
                 $(eventHeading)
-                    .animate({ fontSize: settings.fontClosed }, 0)
+                    //.animate({ fontSize: settings.fontClosed }, 0)
                     .removeClass('open')
-                    .addClass('closed');
+                    .addClass('closed')
                 $(eventBody).hide(settings.speed*settings.baseSpeed);
             }
 

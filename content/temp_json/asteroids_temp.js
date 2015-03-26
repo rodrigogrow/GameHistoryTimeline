@@ -39,10 +39,10 @@
             'dentro da empresa quando tinham um momento de folga. '.
         ].join(''),
         'thumbnail': 'thumbnail.png',
-        'main_img': {'name': 'mainimage.png', 'caption': "Asteroids"},
+        'main_img': {'name': 'main_image.png', 'caption': "Asteroids"},
         'images': [
-            {'name': 'picture.png', 'caption': "Gameplay"},
-            {'name': 'picture1.png', 'caption': "Arcade de Asteroids"},
+            {'name': 'picture_1.png', 'caption': "Gameplay"},
+            {'name': 'picture_2.png', 'caption': "Arcade de Asteroids"},
         ],
         'video_gameplay': [
             {'url': 'https://www.youtube.com/watch?v=cZfsnA7dAHI', 'caption': "Asteroids - Arcade (1979)", 'type': "youtube"} // type: youtube or vimeo

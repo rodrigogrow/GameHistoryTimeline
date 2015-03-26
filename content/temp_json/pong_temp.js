@@ -53,7 +53,7 @@
         {'url': 'https://www.youtube.com/watch?v=hl9uZF-vP0U', 'caption': "Jogabilidade do clássico Pong", 'type': "youtube"} // type: youtube or vimeo
     ],
     'demos': [
-        {'url': 'https://atari.com/arcade#!/arcade/pong/play', 'caption': "Jogue agora!"}
+        {'url': 'https://atari.com/arcade#!/arcade/pong/play', 'caption': "Jogue!"}
     ],
     'references': [
         {'url': 'http://origemdascoisas.com/a-origem-do-pong/', 'caption': "A Origem das Coisas: A Origem do Pong"},

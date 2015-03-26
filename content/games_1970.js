@@ -368,7 +368,10 @@
 		        'thumbnail': 'thumbnail_example.png',
 		        'main_img': {'name': 'main_picture.png', 'caption': "description"},
 		        'images': [
-		            {'name': 'picture1.png', 'caption': "description1"}
+		            {'name': 'picture1.png', 'caption': "Pôster de lançamemto"}
+		            {'name': 'picture2.png', 'caption': "Fliperama do jogo"}
+		            {'name': 'picture3.png', 'caption': "Outro gameplay"}
+		            {'name': 'picture4.png', 'caption': "Pôster oficial do jogo"}
 		        ],
 		        'video_gameplay': [
 		            {'url': 'http://www.youtu.be/qKm8UnFCmeg', 'caption': "Gameplay", 'type': "youtube"} // type: youtube or vimeo

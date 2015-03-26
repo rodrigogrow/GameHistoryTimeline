@@ -5,7 +5,7 @@
         'company': [' Massachusetts Institute of Technology(MIT)'],  
         'year': '1961',
         'date': '30-07-1961', // Day, Month, Year
-        'headline': 'First Game about space',
+        'headline': 'primeiro jogo sobre espaço',
         'resume': [
             'Tendo o grosso de seu programa feito por Steve "Slug" (Lesma) Russell1 2 , com o auxílio de seus colegas Dan Edwards, Alan  ',
             ' Kotok, Peter Sampson, Wayne Wiitanen e Martin Graetz3 , eles se inspiraram nos livros do autor E. E. "Doc" Smith para criar seu',

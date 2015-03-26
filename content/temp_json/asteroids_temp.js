@@ -39,17 +39,16 @@
             'dentro da empresa quando tinham um momento de folga. '.
         ].join(''),
         'thumbnail': 'thumbnail_example.png',
-        'main_img': {'name': 'main_picture.png', 'caption': "description"},
+        'main_img': {'name': 'mainimage.png', 'caption': "Asteroids"},
         'images': [
-            {'name': 'picture1.png', 'caption': "description1"},
-            {'name': 'picture2.png', 'caption': "description2"},
-            {'name': 'picture3.png', 'caption': "description3"}
+            {'name': 'picture.png', 'caption': "Gameplay"},
+            {'name': 'picture1.png', 'caption': "Arcade de Asteroids"},
         ],
         'video_gameplay': [
             {'url': 'https://www.youtube.com/watch?v=cZfsnA7dAHI', 'caption': "Asteroids - Arcade (1979)", 'type': "youtube"} // type: youtube or vimeo
         ],
         'demos': [
-            {'url': 'http://mrjogos.uol.com.br/jogo/asteroids.jsp', 'caption': "Arcade Asteroid"}
+            {'url': 'http://mrjogos.uol.com.br/jogo/asteroids.jsp', 'caption': "Jogar Arcade Asteroid"}
         ],
         'references': [
             {'url': 'http://www.gameblast.com.br/2014/04/relembre-o-classico-asteroids-um.html', 'caption': "Asteroids"},

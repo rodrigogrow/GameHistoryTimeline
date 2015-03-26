@@ -108,7 +108,6 @@
 		        'thumbnail': 'oxo.jpg',
 		        'main_img': {'name': '1952-OXO.png', 'caption': "Emulaçao do OXO"},
 		        'images': [
-		            {'name': '1952-OXO.png', 'caption': "Emulador do jogo"},
 		            {'name': 'oxo.jpg', 'caption': "Digitalizaçao do OXO"},
 		            {'name': 'edsac.jpg', 'caption': "Computador utilizado"}
 		        ],

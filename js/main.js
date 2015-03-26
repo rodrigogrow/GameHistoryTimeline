@@ -23,7 +23,8 @@ $(document).ready(function(){
         bgcolor: '#83a300',         // default: '#fff'
         titleattr: 'data-title',    // default: 'title'
         numeratio: true,            // default: false
-        infinigall: true            // default: false
+        infinigall: true,            // default: false
+        titleattr: "data-title"
     });
 
 });

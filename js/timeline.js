@@ -28,8 +28,6 @@
 		if (this.parentElem) {
 			this.parentElem.innerHTML = html;
 		}
-
-
 	}
 
 	/**
@@ -105,11 +103,7 @@
 		html += '<div class="media">';
 
 		// add main image
-		if (item.main_img) {
-
-			var image_name = (item['main_img'].name) ? item['main_img'].name : item['main_img']; // temp
-			html += '<img src="'+ this.getBaseImagePath(item) + image_name + '" alt="">';
-		}
+		html += this.addImages(item);
 
 		html += '</div>';
 		
@@ -138,6 +132,40 @@
 
 		html += '<br class="clear">';
 		html += '</dd>';
+
+		return html;
+	}
+
+	/**
+	 * Create HTML for all images of item.
+	 *
+	 * @item {Object} game/console item
+	 */
+	TimeLine.prototype.addImages = function (item) {
+
+		var html = '';
+		var image_name = ''; // full image name
+		var image_item = null; // image object aux, to iterate in loop
+
+
+		if (!item.main_img) {
+			return '';
+		}
+
+		if (item.main_img) {
+			image_name = this.getBaseImagePath(item) + item['main_img'].name;
+			html += '<a class="venobox" title="'+item['main_img'].caption+'" data-gall="'+item.name+'" href="'+image_name+'"><img src="'+image_name+'" /></a>';
+		}
+
+		if (item.images && item.images.length > 0) {
+			for (var i=0, amount=item.images.length; i < amount; i++) {
+
+				image_item = item.images[i];
+
+				image_name = this.getBaseImagePath(item) + image_item.name;
+				html += '<a style="display:none;" class="venobox" title="'+image_item.caption+'" data-gall="'+item.name+'" href="'+image_name+'"><img src="'+image_name+'" /></a>';
+			}
+		}
 
 		return html;
 	}

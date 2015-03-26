@@ -10,7 +10,7 @@
 		'decade': '1960',
 		'games': [
 			{
-		        'type': ' Game', // game or console
+		        'type': 'game', // game or console
 		        'name': 'Space War',
 		        'authors': ['Steve Russel', 'Dan Edwards','Alan Kotok','Peter Sampson','Wayne Wiitanen Graetz'],
 		        'company': [' Massachusetts Institute of Technology(MIT)'],  
@@ -44,11 +44,9 @@
 					'- mas isso não quer dizer que outros não lucrariam com ele.'
 		        ].join(''),
 		        'thumbnail': 'thumbnail_example.png',
-		        'main_img': {'name': 'main_picture.png', 'caption': "description"},
+		        'main_img': {'name': '025p.jpg', 'caption': "description"},
 		        'images': [
-		            {'name': 'picture1.png', 'caption': "description1"},
-		            {'name': 'picture2.png', 'caption': "description2"},
-		            {'name': 'picture3.png', 'caption': "description3"}
+		            {'name': '026p.jpg', 'caption': "description1"}
 		        ],
 		        'video_gameplay': [
 		            {'url': 'http://www.youtu.be/UP2OaKHaDxM', 'caption': "video gameplay old classic retro game", 'type': "youtube"} // type: youtube or vimeo

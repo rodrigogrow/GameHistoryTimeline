@@ -39,7 +39,7 @@ body{
     top:50%; 
     margin-left:-16px; 
     margin-top:-16px;
-    background-image: url(preload-circle.png);
+    background-image: url(venobox_imgs/preload-circle.png);
     text-indent: -100px;
     overflow: hidden;
     -webkit-animation: playload 1.4s steps(18) infinite;
@@ -200,7 +200,7 @@ body{
     height: 40px;
     padding: 10px 20px 10px 0;
     display: block;
-    background: url(close.gif) no-repeat #161617;
+    background: url(venobox_imgs/close.gif) no-repeat #161617;
     background-position:10px center;
     color: #fff;
     text-indent: -100px;
@@ -222,23 +222,23 @@ body{
 .vbox-prev{
     left: 0;
     border-width: 0 30px 0 10px;
-    background: url(prev.gif) center center no-repeat;
+    background: url(venobox_imgs/prev.gif) center center no-repeat;
 }
 .vbox-next{
     right: 0;
     border-width: 0 10px 0 30px;
-    background: url(next.gif) center center no-repeat;
+    background: url(venobox_imgs/next.gif) center center no-repeat;
 }
 
 .vbox-title{
     width: 100%;
-    height: 40px;
+    height: 60px;
     float: left;
     text-align: center;
     line-height: 28px;
-    font-size: 12px;
+    font-size: 20px;
     color: #fff;
-    padding: 6px 40px;
+    padding: 15px 40px;
     overflow: hidden;
     background: #161617;
     position: fixed;

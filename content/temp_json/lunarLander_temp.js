@@ -31,9 +31,9 @@
     'thumbnail': 'thumbnail_example.png',
     'main_img': {'name': 'main_picture.png', 'caption': "description"},
     'images': [
-        {'name': 'picture1.png', 'caption': "description1"},
-        {'name': 'picture2.png', 'caption': "description2"},
-        {'name': 'picture3.png', 'caption': "description3"}
+        {'name': 'picture1.png', 'caption': "Lunar Lander Gameplay"},
+        {'name': 'picture2.png', 'caption': "Lunar Lander Arcade"},
+        {'name': 'picture3.png', 'caption': "Demo Game"}
     ],
     'video_gameplay': [
         {'url': 'https://www.youtube.com/watch?v=McAhSoAEbhM', 'caption': "gameplay Lunar Lander", 'type': "youtube"} // type: youtube or vimeo

@@ -57,7 +57,7 @@
 		            {'url': 'http://www.archimedes-lab.org/game_nim/play_nim_game.html', 'caption': "Jogar agora"}
 		        ],
 		        'references': [
-		        	{'url': 'http://pt.slideshare.net/gabrielalonso927/nim-first-videogame', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides"},
+		        	{'url': 'http://pt.slideshare.net/gabrielalonso927/nim-first-videogame', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
 		            {'url': 'http://en.wikipedia.org/wiki/Nimrod_(computing)', 'caption': "Wikipédia"},
 		            {'url': 'http://www.historyofinformation.com/expanded.php?id=4471', 'caption': "History of Information"}
 		        ]

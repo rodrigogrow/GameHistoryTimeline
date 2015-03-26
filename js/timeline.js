@@ -261,7 +261,11 @@
 			for (var i=0, amount=item.references.length; i < amount; i++) {
 				if (item.references[i].url && item.references[i].caption) {
 					html += '<li>'; 
-					html += '<i class="fa fa-link">';
+					if (item.references[i].type === 'slides') {
+						html += '<i class="fa fa-slideshare">';
+					} else {
+						html += '<i class="fa fa-link">';
+					}
 					html += '<a class="link_reference" target="_blank" href="'+item.references[i].url+'">' + Utils.capitalizeFirstLetter(item.references[i].caption) + '</a>'; 
 					html += '</i>';
 					html += '</li>';

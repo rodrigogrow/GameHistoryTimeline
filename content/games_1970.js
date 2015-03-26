@@ -88,7 +88,7 @@
 			        {'url': 'https://atari.com/arcade#!/arcade/pong/play', 'caption': "Jogue agora!"}
 			    ],
 			    'references': [
-			    	{'url': 'http://pt.slideshare.net/TSantosFigueira/pong-the-game', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides"},
+			    	{'url': 'http://pt.slideshare.net/TSantosFigueira/pong-the-game', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
 			        {'url': 'http://origemdascoisas.com/a-origem-do-pong/', 'caption': "A Origem das Coisas: A Origem do Pong"},
 			        {'url': 'http://pt.wikipedia.org/wiki/Pong', 'caption': "Pong"},
 			    ]
@@ -232,7 +232,7 @@
 			        {'url': 'http://www.atari2600.com.br/Atari/Roms/0154/Breakout', 'caption': "Um simulador de breakout"}
 			    ],
 			    'references': [
-			    	{'url': 'http://pt.slideshare.net/gabrielalonso927/breakout-1976', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides"},
+			    	{'url': 'http://pt.slideshare.net/gabrielalonso927/breakout-1976', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
 			        {'url': 'http://en.wikipedia.org/wiki/Breakout_%28video_game%29', 'caption': "Wikipédia"}
 			    ]
 			},
@@ -339,7 +339,7 @@
 			       {'url': 'http://moonlander.seb.ly/', 'caption': "demo Lunar Lander"}
 			    ],
 			    'references': [
-			    	{'url': 'http://pt.slideshare.net/TSantosFigueira/lunar-lander-the-game', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides"},
+			    	{'url': 'http://pt.slideshare.net/TSantosFigueira/lunar-lander-the-game', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
 			        {'url': 'http://en.wikipedia.org/wiki/Lunar_Lander_(1979_video_game)&prev=search', 'caption': "wikipedia"},
 			        {'url': 'http://www.arcade-museum.com/game_detail.php?game_id=8465', 'caption': "arcade museum"}
 			    ]

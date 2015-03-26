@@ -31,9 +31,9 @@
         'thumbnail': 'thumbnail_example.png',
         'main_img': {'name': 'DeathRaceArcade.png', 'caption': "description"},
         'images': [
-            {'name': 'DeathRaceArcade.png', 'caption': "jogo"},
-            {'name': 'DeathRace3.png', 'caption': "interface"},
-            {'name': 'DeathRaceTela.png', 'caption': "Tela do jogo"}
+            {'name': 'main_picture.png', 'caption': "jogo"},
+            {'name': 'picture1.png', 'caption': "interface"},
+            {'name': 'picture2.png', 'caption': "Tela do jogo"}
         ],
         'video_gameplay': [
             { 'url' : 'https://www.youtube.com/watch?v=aBBtt72aJLA' , "caption"  : "Gameplay do jogo "

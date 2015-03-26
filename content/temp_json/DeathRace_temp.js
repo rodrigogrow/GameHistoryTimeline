@@ -36,7 +36,7 @@
             {'name': 'DeathRaceTela.png', 'caption': "Tela do jogo"}
         ],
         'video_gameplay': [
-            { 'url' : 'https://www.youtube.com/watch?v=aBBtt72aJLA' , "caption"  : "Gameplay do jogo "// type: youtube or vimeo
+            { 'url' : 'https://www.youtube.com/watch?v=aBBtt72aJLA' , "caption"  : "Gameplay do jogo "
         ],
        
         ],

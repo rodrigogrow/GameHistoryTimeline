@@ -33,7 +33,7 @@
 					'gratuitamente no local para concentrar a atenção na exposição do jogo'
         ].join(''),
         'thumbnail': 'thumbnail_example.png',
-        'main_img': {'name': 'main_picture.png', 'caption': "description"},
+        'main_img': {'name': 'main_picture.png', 'caption': "NIMROD"},
         'images': [
             {'name': 'img1.png', 'caption': "Máquina completa"},
             {'name': 'img2.png', 'caption': "Apresentação do jogo feita no Festival da Grã-Bretanha"},

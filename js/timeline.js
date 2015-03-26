@@ -275,15 +275,19 @@
 	TimeLine.prototype.getBaseImagePath = function(item) {
 
 		var path = '';
-		var nameLowerTrimmed = '';
+		var name_dir = '';
 
 		if (!item) {
 			return '';
 		}
 
-		nameLowerTrimmed = item.name.replace(/ /g,'').toLowerCase();
+		if (item.image_dir) {
+			name_dir = item.image_dir;
+		} else {
+			name_dir = item.name.replace(/ /g,'').toLowerCase();
+		}
 
-		path = 'images/' + item.type + '/' + item.year +'/'+ nameLowerTrimmed + '/';
+		path = 'images/' + item.type + '/' + item.year +'/'+ name_dir + '/';
 
 		return path;
 

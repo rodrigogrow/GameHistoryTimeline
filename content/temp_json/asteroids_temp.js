@@ -38,7 +38,7 @@
             'E nem os funcionários da Atari deixavam de jogar ',
             'dentro da empresa quando tinham um momento de folga. '.
         ].join(''),
-        'thumbnail': 'thumbnail_example.png',
+        'thumbnail': 'thumbnail.png',
         'main_img': {'name': 'mainimage.png', 'caption': "Asteroids"},
         'images': [
             {'name': 'picture.png', 'caption': "Gameplay"},

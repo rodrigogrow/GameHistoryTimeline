@@ -1,6 +1,6 @@
 {
         'type': 'game', // game or console
-        'name': 'Game Name',
+        'name': 'Frogger',
         'authors': ['Fulano de tal', 'Ciclano'],
         'company': ['CompanyX'],  
         'year': '1951',

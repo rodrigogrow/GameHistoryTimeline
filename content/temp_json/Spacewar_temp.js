@@ -33,7 +33,7 @@
 '- mas isso não quer dizer que outros não lucrariam com ele.'
         ].join(''),
         'thumbnail': 'thumbnail_example.png',
-        'main_img': {'name': 'main_picture.png', 'caption': "description"},
+        'main_img': {'name': 'main_picture.png', 'caption': "Tela Inicial de SpaceWar"},
         'images': [
             {'name': 'picture1.png', 'caption': "Russel e seu companheiro jogando Space War"},
             {'name': 'picture2.png', 'caption': "SpaceWar no computador PDP-1"},

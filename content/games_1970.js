@@ -338,7 +338,7 @@
 		        'references': [
 		        	{'url': 'https://pt.slideshare.net/mattizinho/asteroids-46340603', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
 		            {'url': 'http://www.gameblast.com.br/2014/04/relembre-o-classico-asteroids-um.html', 'caption': "Game Blast"},
-		            {'url': 'http://en.wikipedia.org/wiki/Asteroids_(video_game)', 'caption': "Wikipedia"},
+		            {'url': 'http://en.wikipedia.org/wiki/Asteroids_(video_game)', 'caption': "Historia do Asteroids"},
 		            {'url': 'http://pt.wikipedia.org/wiki/Asteroids', 'caption': "Wikipedia"}
 		        ]
 			},

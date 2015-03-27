@@ -61,7 +61,7 @@
         		 'de tênis para dois jogadores em uma televisão preto e branco. O objetivo ',
         		 'é derrotar o adversário obtendo uma pontuação superior à dele.',
         		 'Ainda hoje é possível encontá-lo em diversos sites destinados a jogos como',
-        		 'um de seus destaques.',
+        		 'um de seus destaques.'
     		].join(''),
     		'full_text': [
         		'Lançado em 1972 pela Atari, foi sem dúvida o jogo que mais contribuiu',
@@ -90,11 +90,11 @@
         		'teve o que se pode considerar uma ideia genial: lançou a versão caseira do Pong em 1975 ',
         		'através de diversas lojas da Sears, em época de Natal. Nascia então o Home Pong.',
         		'A versão doméstica do jogo teve aproximadamente quatro vezes mais receita que a das máquinas',
-        		'Arcade já distribuidas. Somente no Natal de 1975, venderam-se mais de 150.000 unidades.',
+        		'Arcade já distribuidas. Somente no Natal de 1975, venderam-se mais de 150.000 unidades.'
     		].join(''),
 		 'thumbnail': 'http://ts3.mm.bing.net/th?id=HN.608005174475620362&pid=1.7',
     		 'main_img': {'name': 'Pong' , 'caption': "Pong for Atari"},
-    		'images': [
+    		 'images': [
         		{'name': 'main_picture.png', 'caption': "Máquina de Pong em 1972"},
         		{'name': 'picture1.png', 'caption': "Versão doméstica do Pong Picture 1"},
         		{'name': 'picture2.png', 'caption': "Versão doméstica do Pong"},

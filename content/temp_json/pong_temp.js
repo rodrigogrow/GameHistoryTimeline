@@ -47,7 +47,7 @@
     'images': [
         {'name': 'http://origemdascoisas.com/wp-content/uploads/2012/03/Maquina-de-Pong-1972-Pong-Machine-1972.jpg', 'caption': "Máquina de Pong em 1972"},
         {'name': 'http://ts1.mm.bing.net/th?id=HN.608054072673043784&pid=1.7', 'caption': "Versão doméstica do Pong"},
-        {'name': 'picture3.png', 'caption': "description3"}
+        {'name': 'picture3.png', 'caption': "Atari's Pong"}
     ],
     'video_gameplay': [
         {'url': 'https://www.youtube.com/watch?v=hl9uZF-vP0U', 'caption': "Jogabilidade do clássico Pong", 'type': "youtube"} // type: youtube or vimeo

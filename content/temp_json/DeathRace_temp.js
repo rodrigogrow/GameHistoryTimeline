@@ -1,7 +1,7 @@
 {
-        'type': 'game', // game or console
+        'type': 'arcade ', // game or console
         'name': 'DeathRace',
-        'authors': ['Howell Ivy', 
+        'authors': ['Exidy  . Designed by : Howell Ivy. ', 
         'company': ['Exidy'],  
         'year': '1976',
         'date': '1976', // Day, Month, Year
@@ -36,12 +36,13 @@
             {'name': 'picture2.png', 'caption': "Tela do jogo"}
         ],
         'video_gameplay': [
-            { 'url' : 'https://www.youtube.com/watch?v=aBBtt72aJLA' , "caption"  : "Gameplay do jogo "}
+            { 'url' : 'https://www.youtube.com/watch?v=aBBtt72aJLA' , "caption"  : "Gameplay do jogo "
         ],
        
         ],
         'references': [
-            {'url': "http://www.kotaku.com.br" , 'caption': " Death Race, the World\'s First Scandalous Video Game "},
-            {'url': "http://omelete.uol.com.br", 'caption': " Omelete"}
+            {'url': "http://kotaku.com/5889166/death-race-the-first-scandalous-video-gamer" , 'caption': " Death Race, the World's First Scandalous Video Game "},
+          
+            {'url': "http://omelete.uol.com.br/games/artigo/os-games-mais-polemicos-ja-criados/", 'caption': " OS GAMES MAIS POLÊMICOS DA HISTÓRIA"},
             
         ]

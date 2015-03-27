@@ -251,8 +251,9 @@
 		        'demos': [
 		        ],
 		        'references': [
-		            {'url': "http://www.kotaku.com.br" , 'caption': " Death Race, the World\'s First Scandalous Video Game "},
-		            {'url': "http://omelete.uol.com.br", 'caption': " Omelete"}
+		        	{'url': 'http://pt.slideshare.net/jpagini/death-race-46342403', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
+		            {'url': "http://kotaku.com/5889166/death-race-the-first-scandalous-video-game" , 'caption': " Death Race, the World\'s First Scandalous Video Game "},
+		            {'url': "http://omelete.uol.com.br/games/artigo/os-games-mais-polemicos-ja-criados/", 'caption': " OS GAMES MAIS POLÊMICOS DA HISTÓRIA"}
 		            
 		        ]
 			},

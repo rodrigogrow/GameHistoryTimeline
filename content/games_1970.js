@@ -49,9 +49,9 @@
 		        ]
 			},
 			{
-			'type': 'game', // game or console
-			'name': 'Pong',
-			'authors': ['Allan Alcorn'],
+				'type': 'game', // game or console
+				'name': 'Pong',
+				'authors': ['Allan Alcorn'],
     			'company': ['Atari'],
     			'year': '1972',
     			'date': '29-11-1972', // Day, Month, Year
@@ -65,9 +65,9 @@
     			].join(''),
     			'full_text': [
         			'Lançado em 1972 pela Atari, foi sem dúvida o jogo que mais contribuiu',
-			 	'para a explosão da indústria dos videogames, mas além disso foi o ',
+			 		'para a explosão da indústria dos videogames, mas além disso foi o ',
         			'primeiro jogo lucrativo da história. O fundador da Atari, Nolan Bushnell',
-			 	'atribuiu a tarefa a Allan Alcorn, o criador do jogo, como um exercício de treino.',
+			 		'atribuiu a tarefa a Allan Alcorn, o criador do jogo, como um exercício de treino.',
         			'Segundo Bushnell, a ideia baseou-se no jogo de ping-pong eletrônico do primeiro',
         			'console de jogos, o Magnavox Odyssey. Allan, contudo, levou a tarefa a sério e', 
         			'desenvolveu características novas e interessantes para seu jogo, com maior',
@@ -78,7 +78,7 @@
         			'uma cabine de madeira com um 1,20 mt de altura onde inseriu',
         			'a televisão e os demais circuitos necessários ao funcionamento',
         			'do jogo. A fase pública de testes iniciou-se em Setembro de 1972 e o local',
-				'escolhido foi o bar de um amigo, o Andy Capp’s Tavern. O protótipo',
+					'escolhido foi o bar de um amigo, o Andy Capp’s Tavern. O protótipo',
         			'foi posicionado junto a outras máquinas de entretenimento: uma jukebox, uma',
         			'máquina de flippers e uma máquina com o Computer Space. Logo na primeira',
         			'noite o jogo teve uma recepção muito positiva e o foi obtendo sucesso cada vez ',
@@ -92,26 +92,26 @@
         			'A versão doméstica do jogo teve aproximadamente quatro vezes mais receita que a das máquinas',
         			'Arcade já distribuidas. Somente no Natal de 1975, venderam-se mais de 150.000 unidades.'
     			].join(''),
-		 	'thumbnail': 'http://ts3.mm.bing.net/th?id=HN.608005174475620362&pid=1.7',
-    		 	'main_img': {'name': 'Pong' , 'caption': "Pong for Atari"},
+		 		'thumbnail': 'http://ts3.mm.bing.net/th?id=HN.608005174475620362&pid=1.7',
+    		 	'main_img': {'name': 'main_picture.png' , 'caption': "Pong for Atari"},
     		 	'images': [
-        			{'name': 'main_picture.png', 'caption': "Máquina de Pong em 1972"},
-        			{'name': 'picture1.png', 'caption': "Versão doméstica do Pong Picture 1"},
-        			{'name': 'picture2.png', 'caption': "Versão doméstica do Pong"},
-        			{'name': 'picture3.png', 'caption': "Atari's Pong"}
+        			//{'name': 'main_picture.png', 'caption': "Máquina de Pong em 1972"},
+        			{'name': 'picture1.jpg', 'caption': "Versão doméstica do Pong Picture 1"},
+        			{'name': 'picture2.jpg', 'caption': "Versão doméstica do Pong"},
+        			{'name': 'picture3.jpg', 'caption': "Atari's Pong"}
     			],
     			'video_gameplay': [
         			{'url': 'https://www.youtube.com/watch?v=hl9uZF-vP0U', 'caption': "Jogabilidade do clássico Pong", 'type': "youtube"} // type: youtube or vimeo
     			],
     			'demos': [
-			  	{'url': 'https://atari.com/arcade#!/arcade/pong/play', 'caption': "Demo Pong da Atari"}
-		 	],
+			  		{'url': 'https://atari.com/arcade#!/arcade/pong/play', 'caption': "Demo Pong da Atari"}
+		 		],
     			'references': [
-			 	{'url': 'http://pt.slideshare.net/TSantosFigueira/pong-the-game', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
+			 		{'url': 'http://pt.slideshare.net/TSantosFigueira/pong-the-game', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
         		 	{'url': 'http://origemdascoisas.com/a-origem-do-pong/', 'caption': "A Origem das Coisas: A Origem do Pong"},
         			{'url': 'http://pt.wikipedia.org/wiki/Pong', 'caption': "Wikipedia - Pong"},
         		 	{'url': 'http://www.ponggame.org/', 'caption': "Pong Game"}
-			]
+				]
 			},
 			{
 		        'type': 'game', // game or console
@@ -253,7 +253,7 @@
 		        'references': [
 		        	{'url': 'http://pt.slideshare.net/jpagini/death-race-46342403', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
 		            {'url': "http://kotaku.com/5889166/death-race-the-first-scandalous-video-game" , 'caption': " Death Race, the World\'s First Scandalous Video Game "},
-		            {'url': "http://omelete.uol.com.br/games/artigo/os-games-mais-polemicos-ja-criados/", 'caption': " OS GAMES MAIS POLÊMICOS DA HISTÓRIA"}
+		            {'url': "http://omelete.uol.com.br/games/artigo/os-games-mais-polemicos-ja-criados/", 'caption': " Os Games mais polêmicos da história"}
 		            
 		        ]
 			},

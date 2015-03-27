@@ -173,6 +173,7 @@
 		        ],
 		        'demos': [],
 		        'references': [
+		            {'url': 'http://pt.slideshare.net/lukebrag/tennis-for-two', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
 		            {'url': 'http://videogamehistory.wikia.com/wiki/Tennis_for_Two', 'caption': "Video Game History Wiki"},
 		            {'url': 'http://www.youtube.com/watch?v=6QSHZ20MQfE', 'caption': "When Games Went Click: The Story of Tennis for Two"},
 		            {'url': 'http://www.bnl.gov/bnlweb/history/higinbotham.asp', 'caption': "When Games Went Click: The Story of Tennis for Two"}

@@ -44,11 +44,11 @@
 					'- mas isso não quer dizer que outros não lucrariam com ele.'
 		        ].join(''),
 		        'thumbnail': 'thumbnail_example.png',
-		        'main_img': {'name': 'main_picture.png', 'caption': "description"},
+		        'main_img': {'name': 'main_picture.png', 'caption': "Menu de SpaceWar"},
 		        'images': [
-		            {'name': 'picture1.png', 'caption': "description1"},
-		            {'name': 'picture2.jpg', 'caption': "description1"},
-		            {'name': 'picture3.jpg', 'caption': "description1"}
+		            {'name': 'picture1.png', 'caption': "Tela inicial do jogo"},
+		            {'name': 'picture2.jpg', 'caption': "Visão do jogo sendo rodado pelo monitor"},
+		            {'name': 'picture3.jpg', 'caption': "SpaceWar sendo jogado durante uma demostração no MIT"}
 		        ],
 		        'video_gameplay': [
 		            {'url': 'http://www.youtu.be/UP2OaKHaDxM', 'caption': "video gameplay old classic retro game", 'type': "youtube"} // type: youtube or vimeo
@@ -57,7 +57,7 @@
 		            {'url': 'http://www.masswerk.at/spacewar/', 'caption': "Space war online"}
 		        ],
 		        'references': [
-		          {'url': 'http://pt.slideshare.net/gabrielalonso927/nim-first-videogame', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
+		          {'url': 'http://pt.slideshare.net/IamPedroVictor/space-wars-1961', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - SpaceWar", 'type': 'slides'},
 		            {'url': 'http://pt.wikipedia.org/wiki/Spacewar!', 'caption': "Wikipedia"},
 		            {'url': 'http://www.computerhistory.org/revolution/computer-games/16/189/2213', 'caption': "Detalhes sobre space war"},
 		            {'url': 'http://pdp-1.computerhistory.org/pdp-1/index.php?f=theme&s=4&ss=3', 'caption': "Mais sobre o projeto space war"}

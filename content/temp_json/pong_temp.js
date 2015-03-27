@@ -56,6 +56,7 @@
         {'url': 'https://atari.com/arcade#!/arcade/pong/play', 'caption': "Jogue!"}
     ],
     'references': [
+        {'url': 'http://pt.slideshare.net/TSantosFigueira/pong-the-game', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
         {'url': 'http://origemdascoisas.com/a-origem-do-pong/', 'caption': "A Origem das Coisas: A Origem do Pong"},
         {'url': 'http://pt.wikipedia.org/wiki/Pong', 'caption': "Pong"},
     ]

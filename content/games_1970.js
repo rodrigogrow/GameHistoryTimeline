@@ -105,7 +105,7 @@
         			{'name': 'picture3.jpg', 'caption': "Imagem de Gameplay do Pong"}
     			],
     			'video_gameplay': [
-        			{'url': 'https://www.youtube.com/watch?v=hl9uZF-vP0U', 'caption': "Jogabilidade do clássico Pong", 'type': "youtube"} // type: youtube or vimeo
+        			{'url': 'https://youtu.be/-vbGBlxVxcQ?t=1m6s', 'caption': "Jogabilidade do clássico Pong", 'type': "youtube"} // type: youtube or vimeo
     			],
     			'demos': [
 			  	{'url': 'https://atari.com/arcade#!/arcade/pong/play', 'caption': "Demo Pong da Atari"}
@@ -406,7 +406,7 @@
 			        {'name': 'picture3.png', 'caption': "description3"}
 			    ],
 			    'video_gameplay': [
-			        {'url': 'http://www.youtu.be/McAhSoAEbhM', 'caption': "gameplay Lunar Lander", 'type': "youtube"} // type: youtube or vimeo
+			        {'url': 'https://www.youtube.com/watch?v=tyqFdJ7a6R0', 'caption': "gameplay Lunar Lander", 'type': "youtube"} // type: youtube or vimeo
 			    ],
 			    'demos': [
 			       {'url': 'http://moonlander.seb.ly/', 'caption': "demo Lunar Lander"}

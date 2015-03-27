@@ -44,9 +44,11 @@
 					'- mas isso não quer dizer que outros não lucrariam com ele.'
 		        ].join(''),
 		        'thumbnail': 'thumbnail_example.png',
-		        'main_img': {'name': '025p.jpg', 'caption': "description"},
+		        'main_img': {'name': 'main_picture.png', 'caption': "description"},
 		        'images': [
-		            {'name': '026p.jpg', 'caption': "description1"}
+		            {'name': 'picture1.png', 'caption': "description1"},
+		            {'name': 'picture2.jpg', 'caption': "description1"},
+		            {'name': 'picture3.jpg', 'caption': "description1"}
 		        ],
 		        'video_gameplay': [
 		            {'url': 'http://www.youtu.be/UP2OaKHaDxM', 'caption': "video gameplay old classic retro game", 'type': "youtube"} // type: youtube or vimeo

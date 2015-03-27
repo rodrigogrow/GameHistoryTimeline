@@ -75,11 +75,11 @@
 			        'funcionamento do jogo.'
 			    ].join(''),
 			    'thumbnail': 'http://ts3.mm.bing.net/th?id=HN.608005174475620362&pid=1.7',
-			    'main_img': {'name': 'pong_img_1.png' , 'caption': "Pong for Atari"},
+			    'main_img': {'name': 'main_picture.png' , 'caption': "Pong for Atari"},
 			    'images': [
-			        {'name': 'http://origemdascoisas.com/wp-content/uploads/2012/03/Maquina-de-Pong-1972-Pong-Machine-1972.jpg', 'caption': "Máquina de Pong em 1972"},
-			        {'name': 'http://ts1.mm.bing.net/th?id=HN.608054072673043784&pid=1.7', 'caption': "Versão doméstica do Pong"},
-			        {'name': 'picture3.png', 'caption': "description3"}
+			        {'name': 'picture1.jpg', 'caption': "Máquina de Pong em 1972"},
+			        {'name': 'picture2.jpg', 'caption': "Versão doméstica do Pong"},
+			        {'name': 'picture3.jpg', 'caption': "description3"}
 			    ],
 			    'video_gameplay': [
 			        {'url': 'http://www.youtu.be/RKF-yoX3V4k', 'caption': "Jogabilidade do clássico Pong", 'type': "youtube"} // type: youtube or vimeo
@@ -173,10 +173,10 @@
 		            'que disponibilizava a mudança de aviões para OVNI\'s .'
 		        ].join(''),
 		        'thumbnail': 'thumbnail_example.png',
-		        'main_img': {'name': 'AA2_MAIN_IMAGE.png', 'caption': "Tela Frontal do Game"},
+		        'main_img': {'name': 'main_picture.png', 'caption': "Tela Frontal do Game"},
 		        'images': [
-		            {'name': 'AA2_IMAGE_1.png', 'caption': "Maquina"},
-		            {'name': 'AA2_IMAGE_2.png', 'caption': "Tela Frontal do Game"}
+		            {'name': 'picture1.png', 'caption': "Maquina"},
+		            {'name': 'picture2.png', 'caption': "Tela Frontal do Game"}
 		        ],
 		        'video_gameplay': [
 		            {'url': 'http://www.youtu.be/bOyH_D_XLWU','caption': "Versão Original", 'type': "youtube"},
@@ -280,8 +280,7 @@
 		        'main_img': {'name': 'main_picture.png', 'caption': "description"},
 		        'images': [
 		            {'name': 'picture1.png', 'caption': "description1"},
-		            {'name': 'picture2.png', 'caption': "description2"},
-		            {'name': 'picture3.png', 'caption': "description3"}
+		            {'name': 'picture2.png', 'caption': "description2"}
 		        ],
 		        'video_gameplay': [
 		            {'url': 'http://www.youtu.be/cZfsnA7dAHI', 'caption': "Asteroids - Arcade (1979)", 'type': "youtube"} // type: youtube or vimeo
@@ -298,7 +297,7 @@
 			{
 			    'type': 'game', // Atari
 			    'name': 'Lunar Lander',
-			    'authors': ['Atari inc'],
+			    'authors': [],
 			    'company': ['Atari.inc'],
 			    'year': '1979',
 			    'date': '', // 1979
@@ -326,10 +325,10 @@
 			        'Microsoft Game Room.',
 			    ].join(''),
 			    'thumbnail': 'thumbnail_example.png',
-			    'main_img': {'name': 'Lunar_Lander.png', 'caption': "description"},
+			    'main_img': {'name': 'main_picture.png', 'caption': "description"},
 			    'images': [
-			        {'name': 'picture1.png', 'caption': "description1"},
-			        {'name': 'picture2.png', 'caption': "description2"},
+			        {'name': 'picture1.jpg', 'caption': "description1"},
+			        {'name': 'picture2.jpg', 'caption': "description2"},
 			        {'name': 'picture3.png', 'caption': "description3"}
 			    ],
 			    'video_gameplay': [
@@ -368,7 +367,10 @@
 		        'thumbnail': 'thumbnail_example.png',
 		        'main_img': {'name': 'main_picture.png', 'caption': "description"},
 		        'images': [
-		            {'name': 'picture1.png', 'caption': "description1"}
+		            {'name': 'picture1.png', 'caption': "description1"},
+		            {'name': 'picture2.png', 'caption': "description1"},
+		            {'name': 'picture3.png', 'caption': "description1"},
+		            {'name': 'picture4.png', 'caption': "description1"}
 		        ],
 		        'video_gameplay': [
 		            {'url': 'http://www.youtu.be/qKm8UnFCmeg', 'caption': "Gameplay", 'type': "youtube"} // type: youtube or vimeo

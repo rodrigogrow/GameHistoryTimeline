@@ -160,7 +160,7 @@
 		            'infelizmente, descontinuado.'
 		        ].join(''),
 		        'thumbnail': 'thumbnail_example.png',
-		        'main_img': {'name': 'main_picture.png', 'caption': "Imagem Principal"},
+		        'main_img': {'name': 'main_picture.png', 'caption': "Gameplay"},
 		        'images': [
 		            {'name': 'picture1.png', 'caption': "Plataforma"},
 		            {'name': 'picture2.png', 'caption': "Joysticks"},

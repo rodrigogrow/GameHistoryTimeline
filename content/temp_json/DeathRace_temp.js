@@ -1,7 +1,7 @@
 {
-        'type': 'arcade ', // game or console
+        'type': 'game', // game or console
         'name': 'DeathRace',
-        'authors': ['Exidy  . Designed by : Howell Ivy. ', 
+        'authors': ['Howell Ivy', 
         'company': ['Exidy'],  
         'year': '1976',
         'date': '1976', // Day, Month, Year
@@ -36,12 +36,12 @@
             {'name': 'picture2.png', 'caption': "Tela do jogo"}
         ],
         'video_gameplay': [
-            { 'url' : 'https://www.youtube.com/watch?v=aBBtt72aJLA' , "caption"  : "Gameplay do jogo "
+            { 'url' : 'https://www.youtube.com/watch?v=aBBtt72aJLA' , "caption"  : "Gameplay do jogo "}
         ],
        
         ],
         'references': [
-            {'url': "http://www.kotaku.com.br" , 'caption': " Kotaku "},
-            {'url': "http://omelete.uol.com.br", 'caption': " Omelete"},
+            {'url': "http://www.kotaku.com.br" , 'caption': " Death Race, the World\'s First Scandalous Video Game "},
+            {'url': "http://omelete.uol.com.br", 'caption': " Omelete"}
             
         ]

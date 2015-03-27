@@ -95,20 +95,22 @@
 		 'thumbnail': 'http://ts3.mm.bing.net/th?id=HN.608005174475620362&pid=1.7',
     		 'main_img': {'name': 'Pong' , 'caption': "Pong for Atari"},
     		'images': [
-        		{'name': 'http://origemdascoisas.com/wp-content/uploads/2012/03/Maquina-de-Pong-1972-Pong-Machine-1972.jpg', 'caption': "Máquina de Pong em 1972"},
-        		{'name': 'http://ts1.mm.bing.net/th?id=HN.608054072673043784&pid=1.7', 'caption': "Versão doméstica do Pong"},
+        		{'name': 'main_picture.png', 'caption': "Máquina de Pong em 1972"},
+        		{'name': 'picture1.png', 'caption': "Versão doméstica do Pong Picture 1"},
+        		{'name': 'picture2.png', 'caption': "Versão doméstica do Pong"},
         		{'name': 'picture3.png', 'caption': "Atari's Pong"}
     		],
     		'video_gameplay': [
         		{'url': 'https://www.youtube.com/watch?v=hl9uZF-vP0U', 'caption': "Jogabilidade do clássico Pong", 'type': "youtube"} // type: youtube or vimeo
     		],
     		'demos': [
-			  {'url': 'https://atari.com/arcade#!/arcade/pong/play', 'caption': "Jogue!"}
+			  {'url': 'https://atari.com/arcade#!/arcade/pong/play', 'caption': "Demo Pong da Atari"}
 		 ],
     		'references': [
-			  {'url': 'http://pt.slideshare.net/TSantosFigueira/pong-the-game', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
+			 {'url': 'http://pt.slideshare.net/TSantosFigueira/pong-the-game', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
         		 {'url': 'http://origemdascoisas.com/a-origem-do-pong/', 'caption': "A Origem das Coisas: A Origem do Pong"},
         		 {'url': 'http://pt.wikipedia.org/wiki/Pong', 'caption': "Wikipedia - Pong"},
+        		 {'url': 'http://www.ponggame.org/', 'caption': "Pong Game"},
 		 ]
 } ,
 			{

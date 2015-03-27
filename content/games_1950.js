@@ -66,7 +66,8 @@
 				'type': 'game',
 		        'name': 'OxO - Naughts and Crosses',
 		        'image_dir': 'oxo',
-		        'authors': ['Alexander Shafto Douglas, University of Cambridge'],
+		        'authors': ['Alexander Shafto Douglas'],
+		        'company': ['University of Cambridge'],
 		        'year': '1952',
 		        'headline': 'OxO - O primeiro jogo digital.',
 		        'resume': [

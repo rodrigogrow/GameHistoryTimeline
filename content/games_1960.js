@@ -57,7 +57,7 @@
 		            {'url': 'http://www.masswerk.at/spacewar/', 'caption': "Space war online"}
 		        ],
 		        'references': [
-		          {'url': 'http://pt.slideshare.net/IamPedroVictor/space-wars-1961', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - SpaceWar", 'type': 'slides'},
+		          	{'url': 'http://pt.slideshare.net/IamPedroVictor/space-wars-1961', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - SpaceWar", 'type': 'slides'},
 		            {'url': 'http://pt.wikipedia.org/wiki/Spacewar!', 'caption': "Wikipedia"},
 		            {'url': 'http://www.computerhistory.org/revolution/computer-games/16/189/2213', 'caption': "Detalhes sobre space war"},
 		            {'url': 'http://pdp-1.computerhistory.org/pdp-1/index.php?f=theme&s=4&ss=3', 'caption': "Mais sobre o projeto space war"}

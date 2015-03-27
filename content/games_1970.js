@@ -60,8 +60,10 @@
 			 	'Um dos primeiros videogames chama-se Pong e representava um jogo ',
         		 	'de tênis para dois jogadores em uma televisão preto e branco. O objetivo ',
         		 	'é derrotar o adversário obtendo uma pontuação superior à dele. ',
-        		 	'Ainda hoje é possível encontá-lo em diversos sites destinados a jogos como ',
-        		 	'um de seus destaques.'
+        		 	'Ainda hoje é possível encontrá-lo em diversos sites destinados a jogos como ',
+        		 	'um de seus destaques, principalmente devido à importância deste jogo para o atual ',
+        		 	'cenário de desenvolvimento de jogos, uma vez que inovou em sua mecânica de retorno ',
+        		 	'da bola, além das variações de som. '
     			].join(''),
     			'full_text': [
         			'Lançado em 1972 pela Atari, foi sem dúvida o jogo que mais contribuiu ',

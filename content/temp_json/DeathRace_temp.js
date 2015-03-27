@@ -28,9 +28,20 @@
             'A Exidy já faliu a muitos e muitos anos, mas sua franquia de death race Sobreviveu por muito tempo  o, ' ,
             'game foi relançado para NES e mais de 20 anos depois Ganhou sua versão para PCs .'
         ].join(''),
-        'thumbnail': 'thumbnail_example.png'
-        'main_img': 'DeathRaceArcade.jpeg',
-        'images': ['DeathRaceTela.jpeg', 'DeathRace3.jpeg', 'picture3.png'],
-        'video_gameplay': ['https://www.youtube.com/watch?v=aBBtt72aJLA'
-        'demos': ['demo_url1'],
-        'references': ['http://www.kotaku.com.br/', 'http://omelete.uol.com.br/']
+        'thumbnail': 'thumbnail_example.png',
+        'main_img': {'name': 'DeathRaceArcade.png', 'caption': "description"},
+        'images': [
+            {'name': 'main_picture.png', 'caption': "jogo"},
+            {'name': 'picture1.png', 'caption': "interface"},
+            {'name': 'picture2.png', 'caption': "Tela do jogo"}
+        ],
+        'video_gameplay': [
+            { 'url' : 'https://www.youtube.com/watch?v=aBBtt72aJLA' , "caption"  : "Gameplay do jogo "
+        ],
+       
+        ],
+        'references': [
+            {'url': "http://www.kotaku.com.br" , 'caption': " Kotaku "},
+            {'url': "http://omelete.uol.com.br", 'caption': " Omelete"},
+            
+        ]

@@ -5,7 +5,7 @@
         'company': [' Massachusetts Institute of Technology(MIT)'],  
         'year': '1961',
         'date': '30-07-1961', // Day, Month, Year
-        'headline': 'First Game about space',
+        'headline': 'primeiro jogo sobre espaço',
         'resume': [
             'Tendo o grosso de seu programa feito por Steve "Slug" (Lesma) Russell1 2 , com o auxílio de seus colegas Dan Edwards, Alan  ',
             ' Kotok, Peter Sampson, Wayne Wiitanen e Martin Graetz3 , eles se inspiraram nos livros do autor E. E. "Doc" Smith para criar seu',
@@ -33,10 +33,10 @@
 '- mas isso não quer dizer que outros não lucrariam com ele.'
         ].join(''),
         'thumbnail': 'thumbnail_example.png',
-        'main_img': {'name': 'main_picture.png', 'caption': "description"},
+        'main_img': {'name': 'main_picture.png', 'caption': "Tela Inicial de SpaceWar"},
         'images': [
-            {'name': 'picture1.png', 'caption': "description1"},
-            {'name': 'picture2.png', 'caption': "description2"},
+            {'name': 'picture1.png', 'caption': "Russel e seu companheiro jogando Space War"},
+            {'name': 'picture2.png', 'caption': "SpaceWar no computador PDP-1"},
             {'name': 'picture3.png', 'caption': "description3"}
         ],
         'video_gameplay': [

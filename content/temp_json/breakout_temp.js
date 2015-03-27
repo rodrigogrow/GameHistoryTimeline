@@ -28,11 +28,11 @@
             'para cima, mantendo-a no jogo. O breakout foi baseado no Pong, mudando apenas a mecânica do jogo' 
             ].join(''),
         'thumbnail': 'thumbnail_example.png',
-        'main_img': {'name': 'main_picture.png', 'caption': "description"},
+        'main_img': {'name': 'main_picture.png', 'caption': "Flyer Breakout"},
         'images': [
-            {'name': 'picture1.png', 'caption': "description1"},
-            {'name': 'picture2.png', 'caption': "description2"},
-            {'name': 'picture3.png', 'caption': "description3"}
+            {'name': 'picture1.png', 'caption': "Gameplay do Breakout"},
+            {'name': 'picture2.png', 'caption': "Arcade do Breakout"},
+            {'name': 'picture3.png', 'caption': "Cartucho para Atari 2600"}
         ],
          'video_gameplay': [
             {'url': 'https://www.youtube.com/watch?v=JRAPnuwnpRs', 'caption': "Um vídeo de gameplay do Breakout", 'type': "youtube"} // type: youtube or vimeo

@@ -2,16 +2,19 @@
         'type': 'game', // game or console
         'name': 'Frogger',
         'authors': ['Fulano de tal', 'Ciclano'],
-        'company': ['CompanyX'],  
-        'year': '1951',
+        'company': ['Konami'],  
+        'year': '1981',
         'date': '20-06-1951', // Day, Month, Year
-        'headline': 'First Game about sport',
+        'headline': 'Frogger',
         'resume': [
-            'Lorem ipsum dolor sit amet, ut viverra vestibulum odio, ',
-            'aliquam in massa, velit rutrum pede ipsum mauris duis, ',
-            'congue massa sem elit, integer risus. Faucibus in lacus, ',
-            'ligula ornare nibh, elit suspendisse tortor sed volutpat, ',
-            'etiam tempus wisi semper montes odio, lorem vitae vel eu '
+            'O título foi lançado pela Konami em 1981 para os arcades ',
+            'e um ano depois em 1982 foi lançado para o Atari 2600 ',
+            'com algumas pequenas alterações gráficas devido às limitações ',
+            'de cada plataforma.O objetivo do jogo era muito simples: ',
+            'o jogador controlava um sapo, movendo-se para os lados, frente e trás ',
+            'que precisa atravessar uma rua repleta de veículos e em seguida ',
+            'um riacho, passando por cima de troncos que boiavam. Se o sapo ',
+            'fosse atropelado por qualquer veículo ou caísse na água, Acabava o jogo.'.
         ].join(''),
         'full_text': [
             'Lorem ipsum dolor sit amet, ut viverra vestibulum odio, ',

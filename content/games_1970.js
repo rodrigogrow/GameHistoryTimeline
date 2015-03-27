@@ -48,10 +48,10 @@
 		            {'url': 'https://gamesample.wordpress.com/tag/computer-space/', 'caption': "A historia dos jogos eletrônicos parte 2 – O nascimento dos Arcades e consoles"}
 		        ]
 			},
-		{
-		 'type': 'game', // game or console
-		 'name': 'Pong',
-		 'authors': ['Allan Alcorn'],
+	{
+		'type': 'game', // game or console
+		'name': 'Pong',
+		'authors': ['Allan Alcorn'],
     		'company': ['Atari'],
     		'year': '1972',
     		'date': '29-11-1972', // Day, Month, Year
@@ -109,7 +109,7 @@
 			  {'url': 'http://pt.slideshare.net/TSantosFigueira/pong-the-game', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
         		 {'url': 'http://origemdascoisas.com/a-origem-do-pong/', 'caption': "A Origem das Coisas: A Origem do Pong"},
         		 {'url': 'http://pt.wikipedia.org/wiki/Pong', 'caption': "Pong"},
-    ]
+		 ]
 } ,
 			{
 		        'type': 'game', // game or console

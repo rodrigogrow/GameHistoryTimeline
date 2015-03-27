@@ -63,7 +63,9 @@
         		 	'Ainda hoje é possível encontrá-lo em diversos sites destinados a jogos como ',
         		 	'um de seus destaques, principalmente devido à importância deste jogo para o atual ',
         		 	'cenário de desenvolvimento de jogos, uma vez que inovou em sua mecânica de retorno ',
-        		 	'da bola, além das variações de som. '
+        		 	'da bola, além das variações de som. Por estas e outras razões, o Pong tornou-se tão ',
+        		 	'logo um sucesso mundial, superando seus competidores e imitadores de maneira estrondosa ',
+        		 	'e tal fato é atribuído, deve-se ressaltar, à versão doméstica do Pong, o Home Pong. '
     			].join(''),
     			'full_text': [
         			'Lançado em 1972 pela Atari, foi sem dúvida o jogo que mais contribuiu ',

@@ -111,7 +111,7 @@
         		 	{'url': 'http://origemdascoisas.com/a-origem-do-pong/', 'caption': "A Origem das Coisas: A Origem do Pong"},
         			{'url': 'http://pt.wikipedia.org/wiki/Pong', 'caption': "Wikipedia - Pong"},
         		 	{'url': 'http://www.ponggame.org/', 'caption': "Pong Game"}
-				 ]
+			]
 			},
 			{
 		        'type': 'game', // game or console

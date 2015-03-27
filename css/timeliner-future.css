@@ -285,6 +285,16 @@ a:visited {
   padding: 0 30px;
   width: 400px;
 }
+.timeline-event-content a {
+  margin-left: 10px;
+  font-size: 18px;
+  font-family: "Josefin Sans", arial, sans serif;
+}
+.timeline-event-content li a {
+  margin-left: 10px;
+  font-size: 18px;
+  font-family: "Josefin Sans", arial, sans serif;
+}
 .timeline-event-content h4 {
   clear: left;
   float: left;

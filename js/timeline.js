@@ -230,7 +230,8 @@
 			if (item.video_gameplay[0].url) { // get only first item
 				html += '<p>'+'<b>';
 				html += '<i class="fa fa-youtube-play">';
-				html += '<a class="link_reference" href="'+item.video_gameplay[0].url+'" class="venobox_custom" data-type="youtube" data-overlay="rgba(0,0,0,0.5)">Gameplay Video</a>';
+				html += '<a href="'+item.video_gameplay[0].url+'" class="venobox_custom" data-type="youtube" data-overlay="rgba(0,0,0,0.5)">Gameplay Video</a>';
+				//html += '<a href="'+item.video_gameplay[0].url+'" class="venobox_custom" data-type="youtube" data-overlay="rgba(0,0,0,0.5)">Gameplay Video</a>';
 				html += '</i>';
 				html += '</b>'+'</p>';
 			}
@@ -259,7 +260,7 @@
 				if (item.demos[i].url && item.demos[i].caption) {
 					html += '<li>';
 					html += '<i class="fa fa-gamepad">';
-					html += '<a class="link_reference" target="_blank" href="'+item.demos[i].url+'">' + Utils.capitalizeFirstLetter(item.demos[i].caption) + '</a>';
+					html += '<a target="_blank" href="'+item.demos[i].url+'">' + Utils.capitalizeFirstLetter(item.demos[i].caption) + '</a>';
 					html += '</i>';
 					html += '</li>';
 				}
@@ -294,7 +295,7 @@
 					} else {
 						html += '<i class="fa fa-link">';
 					}
-					html += '<a class="link_reference" target="_blank" href="'+item.references[i].url+'">' + Utils.capitalizeFirstLetter(item.references[i].caption) + '</a>'; 
+					html += '<a target="_blank" href="'+item.references[i].url+'">' + Utils.capitalizeFirstLetter(item.references[i].caption) + '</a>'; 
 					html += '</i>';
 					html += '</li>';
 				}

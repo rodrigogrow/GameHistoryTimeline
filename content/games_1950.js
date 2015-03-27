@@ -160,11 +160,11 @@
 		            'infelizmente, descontinuado.'
 		        ].join(''),
 		        'thumbnail': 'thumbnail_example.png',
-		        'main_img': {'name': 'main_picture.png', 'caption': "description"},
+		        'main_img': {'name': 'main_picture.png', 'caption': "Imagem Principal"},
 		        'images': [
-		            {'name': 'picture1.png', 'caption': "description1"},
-		            {'name': 'picture2.png', 'caption': "description2"},
-		            {'name': 'picture3.png', 'caption': "description3"}
+		            {'name': 'picture1.png', 'caption': "Plataforma"},
+		            {'name': 'picture2.png', 'caption': "Joysticks"},
+		            {'name': 'picture3.png', 'caption': "Criador: William Higinbotham"}
 		        ],
 		        'video_gameplay': [
 		            {'url': 'http://www.youtu.be/s2E9iSQfGdg', 'caption': "Tennis For Two - The second ever computer game"} // type: youtube or vimeo

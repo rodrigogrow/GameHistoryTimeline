@@ -115,6 +115,7 @@
 		            {'url': 'https://www.youtube.com/watch?v=Pkiwn7u8i8s', 'caption': "Gameplay do jogo OXO", 'type': "youtube"} // type: youtube or vimeo
 		        ],
 		        'references': [
+		        	{'url': 'http://pt.slideshare.net/jpagini/oxo-apresentao', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
 		            {'url': 'http://en.wikipedia.org/wiki/OXO', 'caption': "Game history"},
 		            {'url': 'http://contembits.com.br/historia/jogos/1952-OXO.aspx', 'caption': "História dos jogos eletrônicos"},
 		            {'url': 'http://www.nintendoblast.com.br/2010/01/historia-dos-video-games-1-o-comeco-de.html', 'caption': "O começo dos vídeos games"},

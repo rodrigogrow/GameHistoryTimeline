@@ -412,7 +412,7 @@
 					'in the next stage. A plain and repetitive starfield scrolls in the background.'
 				].join(''),
 		        'thumbnail': 'thumbnail_example.png',
-		        'main_img': {'name': 'main_picture.png', 'caption': "description"},
+		        'main_img': {'name': 'main_picture.png', 'caption': "Imagem Principal"},
 		        'images': [
 		            {'name': 'picture1.png', 'caption': "Pôster de lançamemto"},
 		            {'name': 'picture2.png', 'caption': "Fliperama do jogo"},

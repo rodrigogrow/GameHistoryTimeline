@@ -245,31 +245,32 @@
 			    'date': '13-05-1976', // Day, Month, Year
 			    'headline': 'Break blocks!',
 			    'resume': [
-			        'Breakout é um jogo eletrônico para Arcade desenvolvido ',
-			      	'pela Atari, Inc. Influenciado pelo pong, seu objetivo ',
-			      	'é destruir todos os blocos da parte de cima ',
-			      	'com uma bola, sem deixá-la cair, controlando uma barra na ',
-				    'parte de baixo da tela. Uma curiosidade é que o protótipo ',
+			        'Breakout é um jogo eletrônico para Arcade desenvolvido',
+			      	'pela Atari, Inc. Influenciado pelo pong, seu objetivo',
+			      	'é destruir todos os blocos da parte de cima',
+			      	'com uma bola, sem deixá-la cair, controlando uma barra na',
+				    'parte de baixo da tela. Uma curiosidade é que o protótipo',
 			      	'foi feito por Steve Jobs e Woz, mais tarde, fundadores da apple.'
 			    ].join(''),
 			    'full_text': [
-			        'Breakout é um jogo eletrônico para Arcade desenvolvido pela Atari, ',
-			        'Inc e lançado em 13 de maio de 1976. Foi idealizado por Nolan Bushnell ',
-			        'e Steve Bristow e influenciado pelo jogo de arcade de 1972 Pong, também da Atari. ',
-			        'O jogo foi convertido para os consoles e atualizado como Super Breakout. ',
+			        'Breakout é um jogo eletrônico para Arcade desenvolvido pela Atari,',
+			        'Inc e lançado em 13 de maio de 1976. Foi idealizado por Nolan Bushnell',
+			        'e Steve Bristow e influenciado pelo jogo de arcade de 1972 Pong, também da Atari.',
+			        'O jogo foi convertido para os consoles e atualizado como Super Breakout.',
 			        'Além disso, Breakout foi a base e inspiração para livros, ',
-			        'jogos, e o computador Apple II. No jogo, uma camada de tijolos são alinhados no topo da tela. ',
-			        'A bola passa pela tela, rebatendo nas paredes laterais e superiores da tela. ',
-			        'Quando um tijolo é atingido, a bola rebate de volta e o tijolo é destruído. ',
-			        'O jogador perde uma vida quando a bola toca a parte inferior da tela. ',
-			        'Para prevenir que isso aconteça, o jogador move uma paleta para rebater a bola ',
-			        'para cima, mantendo-a no jogo. O breakout foi baseado no Pong, mudando apenas a mecânica do jogo ' 
+			        'jogos, e o computador Apple II. No jogo, uma camada de tijolos são alinhados no topo da tela.',
+			        'A bola passa pela tela, rebatendo nas paredes laterais e superiores da tela.',
+			        'Quando um tijolo é atingido, a bola rebate de volta e o tijolo é destruído.',
+			        'O jogador perde uma vida quando a bola toca a parte inferior da tela.',
+			        'Para prevenir que isso aconteça, o jogador move uma paleta para rebater a bola',
+			        'para cima, mantendo-a no jogo. O breakout foi baseado no Pong, mudando apenas a mecânica do jogo' 
 			        ].join(''),
-			    'main_img': {'name': 'main_picture.png', 'caption': "Flyer Breakout"},
+			    'thumbnail': 'thumbnail_example.png',
+			    'main_img': {'name': 'main_picture.png', 'caption': "description"},
 			    'images': [
-			        {'name': 'picture1.png', 'caption': "Gameplay do Breakout"},
-			        {'name': 'picture2.png', 'caption': "Arcade do Breakout"},
-			        {'name': 'picture3.png', 'caption': "Cartucho para Atari 2600"}
+			        {'name': 'picture1.png', 'caption': "description1"},
+			        {'name': 'picture2.png', 'caption': "description2"},
+			        {'name': 'picture3.png', 'caption': "description3"}
 			    ],
 			     'video_gameplay': [
 			        {'url': 'http://www.youtu.be/JRAPnuwnpRs', 'caption': "Gameplay do Breakout", 'type': "youtube"} // type: youtube or vimeo
@@ -291,7 +292,7 @@
 		        'headline': 'A história do jogo asteroids',
 		        'resume': [
 		            'Asteroids é um jogo de arcade com gráficos vetoriais ',
-		            'muito popular lançado em 1981 pela Atari. ',
+		            'muito popular lançado em 1979 pela Atari. ',
 		            'O objetivo do jogo é destruir asteroides ',
 		            'sem se deixar ser atingido por seus fragmentos. ',
 		            'O jogo apresentava visual simples, sem cores ',
@@ -323,10 +324,10 @@
 		            'dentro da empresa quando tinham um momento de folga. '
 		        ].join(''),
 		        'thumbnail': 'thumbnail_example.png',
-		        'main_img': {'name': 'main_picture.png', 'caption': "description"},
+		        'main_img': {'name': 'main_picture.png', 'caption': "Jogo Asteroids"},
 		        'images': [
-		            {'name': 'picture1.png', 'caption': "description1"},
-		            {'name': 'picture2.png', 'caption': "description2"}
+		            {'name': 'picture1.png', 'caption': "Gameplay"},
+		            {'name': 'picture2.png', 'caption': "Arcade do Asteroids"}
 		        ],
 		        'video_gameplay': [
 		            {'url': 'http://www.youtu.be/cZfsnA7dAHI', 'caption': "Asteroids - Arcade (1979)", 'type': "youtube"} // type: youtube or vimeo
@@ -335,6 +336,7 @@
 		            {'url': 'http://mrjogos.uol.com.br/jogo/asteroids.jsp', 'caption': "Arcade Asteroid"}
 		        ],
 		        'references': [
+		        	{'url': 'https://pt.slideshare.net/mattizinho/asteroids-46340603', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
 		            {'url': 'http://www.gameblast.com.br/2014/04/relembre-o-classico-asteroids-um.html', 'caption': "Game Blast"},
 		            {'url': 'http://en.wikipedia.org/wiki/Asteroids_(video_game)', 'caption': "Wikipedia"},
 		            {'url': 'http://pt.wikipedia.org/wiki/Asteroids', 'caption': "Wikipedia"}

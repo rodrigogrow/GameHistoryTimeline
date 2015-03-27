@@ -43,8 +43,9 @@
         ],
         'demos': [],
         'references': [
-            {'url': 'www.armchairarcade.com/neo/node/577&prev=search', 'caption': "description"},
-            {'url': 'en.wikipedia.org/wiki/Anti-Aircraft_(video_game)&prev=search', 'caption': "description"},
-            {'url': 'www.arcade-museum.com/game_detail.php%3Fgame_id%3D6892&prev=search', 'caption': "description"}
+            {'url': 'http://www.armchairarcade.com/neo/node/577&prev=search', 'caption': "description"},
+            {'url': 'http://en.wikipedia.org/wiki/Anti-Aircraft_(video_game)&prev=search', 'caption': "description"},
+            {'url': 'http://www.arcade-museum.com/game_detail.php%3Fgame_id%3D6892&prev=search', 'caption': "description"},
+            {'url': 'http://pt.slideshare.net/RickoBraz/antiaircraft2', 'caption': "description"}
         ]
 }

@@ -57,14 +57,14 @@
     			'date': '29-11-1972', // Day, Month, Year
     			'headline': 'The Newest 2 Player Video Skill Game',
     			'resume': [
-			 	'Um dos primeiros videogames chama-se Pong e representava um jogo ',
+			 	'Um dos primeiros videogames chamava-se Pong e representava um jogo ',
         		 	'de tênis para dois jogadores em uma televisão preto e branco. O objetivo ',
-        		 	'é derrotar o adversário obtendo uma pontuação superior à dele. ',
-        		 	'Ainda hoje é possível encontrá-lo em diversos sites destinados a jogos como ',
-        		 	'um de seus destaques, principalmente devido à importância deste jogo para o atual ',
-        		 	'cenário de desenvolvimento de jogos, uma vez que inovou em sua mecânica de retorno ',
-        		 	'da bola, além das variações de som. Por estas e outras razões, o Pong tornou-se tão ',
-        		 	'logo um sucesso mundial, superando seus competidores e imitadores de maneira estrondosa ',
+        		 	'era derrotar o adversário obtendo uma pontuação superior à dele. ',
+        		 	'Ainda hoje é possível encontrá-lo em diversos sites especializados em jogos como ',
+        		 	'um de seus destaques, principalmente devido à sua importância para o atual ',
+        		 	'cenário de desenvolvimento de games, uma vez que inovou em sua mecânica de retorno ',
+        		 	'da bola, além das variações de som. Por estas e outras razões, o Pong logo tornou-se  ',
+        		 	'um sucesso mundial, superando seus competidores e imitadores de maneira estrondosa ',
         		 	'e tal fato é atribuído, deve-se ressaltar, à versão doméstica do Pong, o Home Pong. '
     			].join(''),
     			'full_text': [

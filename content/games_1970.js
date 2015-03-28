@@ -251,7 +251,7 @@
 		            {'name': 'picture2.jpg', 'caption': "Tela do jogo"}
 		        ],
 		        'video_gameplay': [
-		            { 'url' : 'https://www.youtube.com/watch?v=aBBtt72aJLA' , "caption"  : "Gameplay do jogo "}
+		            { 'url' : 'http://www.youtu.be/aBBtt72aJLA' , "caption"  : "Gameplay do jogo "}
 		        ],
 		        'demos': [
 		        ],
@@ -416,7 +416,7 @@
 			        //{'name': 'picture3.png', 'caption': "Description3"}
 			    ],
 			    'video_gameplay': [
-			        {'url': 'https://www.youtube.com/watch?v=tyqFdJ7a6R0', 'caption': "gameplay Lunar Lander", 'type': "youtube"} // type: youtube or vimeo
+			        {'url': 'http://www.youtu.be/tyqFdJ7a6R0', 'caption': "gameplay Lunar Lander", 'type': "youtube"} // type: youtube or vimeo
 			    ],
 			    'demos': [
 			       {'url': 'https://atari.com/arcade#!/arcade/lunarlander/play', 'caption': "demo Lunar Lander"}

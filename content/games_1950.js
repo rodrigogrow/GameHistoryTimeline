@@ -113,7 +113,7 @@
 		            {'name': 'edsac.jpg', 'caption': "Computador utilizado"}
 		        ],
 		        'video_gameplay': [
-		            {'url': 'https://www.youtube.com/watch?v=Pkiwn7u8i8s', 'caption': "Gameplay do jogo OXO", 'type': "youtube"} // type: youtube or vimeo
+		            {'url': 'http://www.youtu.be/Pkiwn7u8i8s', 'caption': "Gameplay do jogo OXO", 'type': "youtube"} // type: youtube or vimeo
 		        ],
 		        'references': [
 		        	{'url': 'http://pt.slideshare.net/jpagini/oxo-apresentao', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},

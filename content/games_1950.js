@@ -54,7 +54,7 @@
 		            {'url': 'http://www.youtu.be/yJZlozoQ4jI', 'caption': "Gameplay Nimrod", 'type': "youtube"} // type: youtube or vimeo
 		        ],
 		        'demos': [
-		            {'url': 'http://www.archimedes-lab.org/game_nim/play_nim_game.html', 'caption': "Jogar agora"}
+		            {'url': 'http://www.archimedes-lab.org/game_nim/play_nim_game.html', 'caption': "Demo HTML5 do NIMROD"}
 		        ],
 		        'references': [
 		        	{'url': 'http://pt.slideshare.net/gabrielalonso927/nim-first-videogame', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},

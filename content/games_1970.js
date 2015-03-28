@@ -377,10 +377,20 @@
 			    'date': '', // 1979
 			    'headline': 'Primeiro jogo comercial com graficos vetorias.',
 			    'resume': [
-			        'Jogo inspirado na década de 60 pela ida do homem a lua.,',
-			        'A primeira versão foi feita por Jim Storer,mas foi pela a Atari, ',
-			        'que o jogo teve mais notariedade.Pelo fato de ser o primeiro jogo , ',
-			        'comercial com gráficos vetorias.,',
+			        'O Lunar Lander foi inspirado na década de 60 pela ida do homem a lua e ',
+			        'contou com três versões, sendo a mais expressiva a versão da Atari de ',
+			        '1979. Consiste, em poucas palavras, no desafio de pousar um módulo lunar ',
+			        'na íngreme superfície da Lua. A primeira versão (1969) foi feita por Jim Storer,',
+			        'era baseada em texto e não contava com interface animada. Basicamente o ',
+			        'jogador deveria inserir dados como a aceleração do módulo e o resultado ',
+			        'indicava o gasto de combustível dentre outros dados. A segunda versão (1973) ',
+			        'foi desenvolvida para demonstrar o poder de processamento do DEC-GT40, ',
+			        'a aceleração era feita através da \'light pen\', bem como o ajuste da angulação. ',
+			        'Esta versão já fazia uso de gráficos vetoriais. A versão da Atari (1979) trazia ',
+			        'duas importantes novidades: o gasto de combustível proporcional à aceleração, o ',
+			        'que permitia maior controle sobre aquele. Além da possibilidade de compra de mais ',
+			        'combustível d#16 urante o jogo, modelo atualmente utilizado atualmente como os \'in-app ',
+			        'purchases\' '
 			    ].join(''),
 			    'full_text': [
 			        'Lunar Lander é um jogo de arcade lançado pela Atari.inc em 1979 e é o, ',
@@ -399,23 +409,23 @@
 			        'Microsoft Game Room.',
 			    ].join(''),
 			    'thumbnail': 'thumbnail_example.png',
-			    'main_img': {'name': 'main_picture.png', 'caption': "description"},
+			    'main_img': {'name': 'main_picture.png', 'caption': "Gameplay Lunar Lander"},
 			    'images': [
-			        {'name': 'picture1.jpg', 'caption': "description1"},
-			        {'name': 'picture2.jpg', 'caption': "description2"},
-			        {'name': 'picture3.png', 'caption': "description3"}
+			        {'name': 'picture1.jpg', 'caption': "Máquina de Pong"},
+			        {'name': 'picture2.jpg', 'caption': "Versão remasterizada do Lunar Lander pela Atari"},
+			        //{'name': 'picture3.png', 'caption': "Description3"}
 			    ],
 			    'video_gameplay': [
 			        {'url': 'https://www.youtube.com/watch?v=tyqFdJ7a6R0', 'caption': "gameplay Lunar Lander", 'type': "youtube"} // type: youtube or vimeo
 			    ],
 			    'demos': [
-			       {'url': 'http://moonlander.seb.ly/', 'caption': "demo Lunar Lander"}
+			       {'url': 'https://atari.com/arcade#!/arcade/lunarlander/play', 'caption': "demo Lunar Lander"}
 			    ],
 			    'references': [
 			    	{'url': 'http://pt.slideshare.net/TSantosFigueira/lunar-lander-the-game', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
 			        {'url': 'http://en.wikipedia.org/wiki/Lunar_Lander_(1979_video_game)&prev=search', 'caption': "wikipedia"},
 			        {'url': 'http://www.arcade-museum.com/game_detail.php?game_id=8465', 'caption': "arcade museum"}
-			    ]
+			]
 			},
 			{
 				'type': 'game', // game or console

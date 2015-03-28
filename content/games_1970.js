@@ -49,15 +49,15 @@
 		        ]
 			},
 			{
-			'type': 'game', // game or console
-			'name': 'Pong',
-			'authors': ['Allan Alcorn'],
-    			'company': ['Atari'],
+				'type': 'game', // game or console
+				'name': 'Pong',
+				'authors': ['Allan Alcorn'],
+	    		'company': ['Atari'],
     			'year': '1972',
     			'date': '29-11-1972', // Day, Month, Year
     			'headline': 'The Newest 2 Player Video Skill Game',
     			'resume': [
-			 	'Um dos primeiros videogames chamava-se Pong e representava um jogo ',
+			 		'Um dos primeiros videogames chamava-se Pong e representava um jogo ',
         		 	'de tênis para dois jogadores em uma televisão preto e branco. O objetivo ',
         		 	'era derrotar o adversário obtendo uma pontuação superior à dele. ',
         		 	'Ainda hoje é possível encontrá-lo em diversos sites especializados em jogos como ',
@@ -69,9 +69,9 @@
     			].join(''),
     			'full_text': [
         			'Lançado em 1972 pela Atari, foi sem dúvida o jogo que mais contribuiu ',
-			 	'para a explosão da indústria dos videogames, mas além disso foi o ',
+			 		'para a explosão da indústria dos videogames, mas além disso foi o ',
         			'primeiro jogo lucrativo da história. O fundador da Atari, Nolan Bushnell ',
-			 	'atribuiu a tarefa a Allan Alcorn, o criador do jogo, como um exercício de treino.',
+			 		'atribuiu a tarefa a Allan Alcorn, o criador do jogo, como um exercício de treino.',
         			'Segundo Bushnell, a ideia baseou-se no jogo de ping-pong eletrônico do primeiro ',
         			'console de jogos, o Magnavox Odyssey. Allan, contudo, levou a tarefa a sério e ', 
         			'desenvolveu características novas e interessantes para seu jogo, com maior ',
@@ -82,7 +82,7 @@
         			'uma cabine de madeira com um 1,20 mt de altura onde inseriu ',
         			'a televisão e os demais circuitos necessários ao funcionamento ',
         			'do jogo. A fase pública de testes iniciou-se em Setembro de 1972 e o local ',
-				'escolhido foi o bar de um amigo, o Andy Capp’s Tavern. O protótipo ',
+					'escolhido foi o bar de um amigo, o Andy Capp’s Tavern. O protótipo ',
         			'foi posicionado junto a outras máquinas de entretenimento: uma jukebox, uma ',
         			'máquina de flippers e uma máquina com o Computer Space. Logo na primeira ',
         			'noite o jogo teve uma recepção muito positiva e o foi obtendo sucesso cada vez ',
@@ -108,14 +108,14 @@
         			{'url': 'https://youtu.be/-vbGBlxVxcQ?t=1m6s', 'caption': "Jogabilidade do clássico Pong", 'type': "youtube"} // type: youtube or vimeo
     			],
     			'demos': [
-			  	{'url': 'https://atari.com/arcade#!/arcade/pong/play', 'caption': "Demo Pong da Atari"}
+			  		{'url': 'https://atari.com/arcade#!/arcade/pong/play', 'caption': "Demo Pong da Atari"}
 		 		],
     			'references': [
-			 	{'url': 'http://pt.slideshare.net/TSantosFigueira/pong-the-game', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
+			 		{'url': 'http://pt.slideshare.net/TSantosFigueira/pong-the-game', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
         		 	{'url': 'http://origemdascoisas.com/a-origem-do-pong/', 'caption': "A Origem das Coisas: A Origem do Pong"},
         			{'url': 'http://pt.wikipedia.org/wiki/Pong', 'caption': "Wikipedia - Pong"},
         		 	{'url': 'http://www.ponggame.org/', 'caption': "Pong Game"}
-			]
+				]
 			},
 			{
 		        'type': 'game', // game or console

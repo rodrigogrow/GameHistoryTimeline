@@ -372,7 +372,7 @@
 			    'type': 'game', // Atari
 			    'name': 'Lunar Lander',
 			    'authors': [],
-			    'company': ['Atari.inc'],
+			    'company': ['Atari'],
 			    'year': '1979',
 			    'date': '', // 1979
 			    'headline': 'Primeiro jogo comercial com graficos vetorias.',
@@ -396,15 +396,15 @@
 			        'Lunar Lander é um jogo de arcade lançado pela Atari em 1979 e foi o primeiro a ',
 			        'utilizar gráficos vetorias. Apesar de não ter sido particularmente bem sucedido ',
 			        'o vetor-gerador de gráficos do Lunar foi o impulso para o sucesso de outro jogo, ',
-			        'o Asteroids. No Lunar Lander o jogador controla um nave e deve pousar na superfície da lua. ',
+			        'o Asteroids. No Lunar Lander o jogador controla um módulo lunar e deve pousar na superfície da lua. ',
 			        'O terreno é muito irregular e tem apenas algumas áreas planas apropriadas para o pouso. Estas ',
-			        'áreas são destacadas com um multiplicador de bônus que pisca, especialmente em áreas ',
+			        'áreas são destacadas por um multiplicador de bônus que pisca, especialmente em áreas ',
 			        'menores. Se o jogador pousa com sucesso ele é premiado com pontos baseado na localidade ',
-			        'e dificuldade de se chegar lá, se ele falha o módulo explode, devido, especialmente, à ',
-			        'sua fragilidade. O jogador também tem a chance de comprar combustível, em qualquer momento ',
-			        'no jogo, depositando moedas adicionais. Perdendo ou ganhando, o jogo recomeça em um terreno distinto ',
+			        'e dificuldade de se chegar lá, se ele falha o módulo explode devido à sua fragilidade. ',
+			        'O jogador também tem a chance de comprar combustível em qualquer momento no jogo, simplesmente ',
+			        'depositando moedas adicionais. Perdendo ou ganhando, o jogo recomeça em um terreno distinto ',
 			        'com o restante de combustível do jogador. O jogo termina quando o jogador ficar sem combustível ',
-			        'e falha ao aterrissar na lua. A versão caseira de Lunar Lander foi lançada em 1981. No final de março',
+			        'ou falha ao aterrissar na lua. A versão caseira de Lunar Lander foi lançada em 1981. No final de março ',
 			        'de 2010, o Lunar foi oferecido como um título disponível para Microsoft Game Room. '
 			    ].join(''),
 			    'thumbnail': 'thumbnail_example.png',
@@ -418,7 +418,8 @@
 			        {'url': 'https://www.youtube.com/watch?v=tyqFdJ7a6R0', 'caption': "gameplay Lunar Lander", 'type': "youtube"} // type: youtube or vimeo
 			    ],
 			    'demos': [
-			       {'url': 'https://atari.com/arcade#!/arcade/lunarlander/play', 'caption': "demo Lunar Lander"}
+			       {'url': 'https://atari.com/arcade#!/arcade/lunarlander/play', 'caption': "demo remasterizado do Lunar Lander"},
+			       {'url': 'http://chrome.atari.com/lunarlander/', 'caption': "demo Lunar Lander"}
 			    ],
 			    'references': [
 			    	{'url': 'http://pt.slideshare.net/TSantosFigueira/lunar-lander-the-game', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},

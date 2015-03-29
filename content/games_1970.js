@@ -197,7 +197,6 @@
 		            'Existiu posteriormente, uma opção não documentada ', 
 		            'que disponibilizava a mudança de aviões para OVNI\'s .'
 		        ].join(''),
-		        'thumbnail': 'thumbnail_example.png',
 		        'main_img': {'name': 'main_picture.png', 'caption': "Tela Frontal do Game"},
 		        'images': [
 		            {'name': 'picture1.png', 'caption': "Maquina"},
@@ -209,7 +208,8 @@
 		        ],
 		        'demos': [],
 		        'references': [
-		            {'url': 'http://www.armchairarcade.com/neo/node/577&prev=search', 'caption': "armchairarcade"},
+		            {'url': 'http://pt.slideshare.net/RickoBraz/antiaircraft2', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
+		            {'url': 'http://www.armchairarcade.com/neo/node/577&prev=search', 'caption': "armchair arcade"},
 		            {'url': 'http://en.wikipedia.org/wiki/Anti-Aircraft_(video_game)&prev=search', 'caption': "wikipedia"},
 		            {'url': 'http://www.arcade-museum.com/game_detail.php%3Fgame_id%3D6892&prev=search', 'caption': "arcade-museum"}
 		        ]

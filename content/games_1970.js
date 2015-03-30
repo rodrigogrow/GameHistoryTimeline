@@ -31,11 +31,10 @@
 		            'Bushnell transformou o quarto da sua filha em uma oficina para poder criar uma máquina que devido ao espaço que os computadores da época ocupavam, serviria apenas para jogar o SpaceWar!, e essa máquina foi chamada de Computer Space. O Computer Space foi o primeiro arcade do mundo e também o primeiro jogo eletrônico a ser comercializado no mundo. Como a experiência deu certo, a Nutting Associates contrata Bushnell temporariamente para montar os arcades Computer Space. Mais tarde Bushnell sai da empresa e funda a Atari.'
 		        ].join(''),
 		        'thumbnail': 'thumbnail_example.png',
-		        'main_img': {'name': 'main_picture.png', 'caption': "description"},
+		        'main_img': {'name': 'main_picture.jpg', 'caption': "description"},
 		        'images': [
-		            {'name': 'picture1.png', 'caption': "description1"},
-		            {'name': 'picture2.png', 'caption': "description2"},
-		            {'name': 'picture3.png', 'caption': "description3"}
+		            {'name': 'picture1.jpg', 'caption': "description1"},
+		            {'name': 'picture2.jpg', 'caption': "description2"}
 		        ],
 		        'video_gameplay': [
 		            {'url': 'http://www.youtu.be/Nhdu2Jh9cuc', 'caption': "Computer Space gameplay", 'type': "youtube"} // type: youtube or vimeo

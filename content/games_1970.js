@@ -127,10 +127,7 @@
 		        'headline': 'primeiro jogo sobre tanques',
 		        'resume': [
 		            'Tank foi um jogo de arcade de dois jogadores desenvolvido pela Atari.Inc através ',
-		            'subsidiaria Kee Games originalmente lançado em 05 de novembro de 1974 e foi desenhado por Steve Bristow e Lyle Rains  ',
-		            '
-		            
-		           
+		            'subsidiaria Kee Games originalmente lançado em 05 de novembro de 1974 e foi desenhado por Steve Bristow e Lyle Rains.'
 		        ].join(''),
 		        'full_text': [
 		            'O painel de controle é composto por quatro joysticks estilo  militar, um para cada jogador com um botão de fogo montado ',
@@ -142,9 +139,7 @@
 		            'passa sobre uma mina,o jogador com maior pontuação no final do prazo de tempo,ganha o jogo.',
 		        	'Os tanques são controlados por dois joysticks numa configuração dupla.Empurrando os dois irá mover o tanque para frente',
 		            'e,ao mpuxar os joystiks para trás faz o tanque parar.Movendo o joystick direito para a frente enquanto puxa a parte de trás ',
-		            'do joystick para a esquerda fará com que o tanque vire a direita enquanto inverte o joystick fará com o tanque vire a esquerda. ',
-		            
-		            
+		            'do joystick para a esquerda fará com que o tanque vire a direita enquanto inverte o joystick fará com o tanque vire a esquerda. '
 		        ].join(''),
 		        'thumbnail': 'thumbnail_example.png',
 		        'main_img': {'name': 'main_picture.png', 'caption': "description"},

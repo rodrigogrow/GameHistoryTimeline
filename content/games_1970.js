@@ -41,6 +41,7 @@
 		        ],
 		        'demos': [],
 		        'references': [
+		        	{'url': 'http://pt.slideshare.net/BRgabriel/computer-space', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
 		            {'url': 'http://www.technologizer.com/2011/12/11/computer-space-and-the-dawn-of-the-arcade-video-game/', 'caption': "Computer Space and the Dawn of the Arcade Video Game"},
 		            {'url': 'http://blablagames.net/?p=910', 'caption': "BLA…Bla…Games"},
 		            {'url': 'http://en.wikipedia.org/wiki/Computer_Space', 'caption': "Computer Space"},

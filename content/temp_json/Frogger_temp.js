@@ -60,8 +60,8 @@
             {'url': 'http://www.ojogos.com.br/jogo/frogger', 'caption': "Jogar frogger!"}
         ],
         'references': [
-            {'url': 'reference_url1', 'caption': "description"},
-            {'url': 'reference_url2', 'caption': "description"},
-            {'url': 'reference_url3', 'caption': "description"}
+            {'url': 'https://baudovideogame.wordpress.com/2010/05/04/frogger-atari/', 'caption': "Frogger, seu legado e história"},
+            {'url': 'http://contemgames.com.br/historia/jogos/1981-Frogger.aspx', 'caption': "História do jogo Frogger"},
+            {'url': 'http://en.wikipedia.org/wiki/Frogger', 'caption': "Frogger Wiki"}
         ]
 }

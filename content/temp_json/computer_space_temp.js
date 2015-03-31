@@ -16,28 +16,27 @@
         ].join(''),
         'full_text': [
             'Em 1971  os Estados Unidos da América começavam a retirar suas tropas do Vietnã e a geração paz '
-            'e amor aos poucos dava espaço para o pessoal da discoteca.'
+            'e amor aos poucos dava espaço para o pessoal da discoteca.',
             'Em meio a este cenário de transição do protesto para a era da tecnologia e eletrônica, Nolan Bushnell,'
             'o então engenheiro-chefe da  Nutting Associates em parceiria com Ted Dabney , lança o Arcade Computer Space.'
             'Computer Space tem clara inspiração no game SpaceWar e foi o primeiro arcade produzido em grande escala. '
             'Bushnell transformou o quarto da sua filha em uma oficina para poder criar uma máquina que, devido ao espaço '
             'que os computadores da época ocupavam, serviria apenas para jogar o SpaceWar!, e essa máquina foi chamada de '
-            'Computer Space.'
+            'Computer Space.',
             'O Computer Space foi o primeiro arcade da história a aceitar fichas como modo de pagamento por uma nova partida. '
             'Um fato interessante sobre esse arcade é que ele não foi um sucesso comercial pela sua dificuldade de entender '
             'como se jogar antes de você morrer. Foi o primeiro jogo eletrônico a ser comercializado no mundo. '
             'Como a experiência deu certo, a Nutting Associates contrata Bushnell temporariamente para montar os arcades '
-            'Computer Space. Mais tarde Bushnell sai da empresa e funda a Atari.'
+            'Computer Space. Mais tarde Bushnell sai da empresa e funda a Atari.',
             'Um segundo modelo foi lançado em função da dificuldade de se jogar na primeira versão. Este contém alavancas '
             'para a movimentação da nave e o diferencial é que pode ser jogado por duas pessoas, deixando o jogo mais '
             'divertido e popular.'
         ].join(''),
         'thumbnail': 'thumbnail_example.png',
-        'main_img': {'name': 'main_picture.png', 'caption': "description"},
+        'main_img': {'name': 'main_picture.png', 'caption': "Tela do arcade Computer Space"},
         'images': [
-            {'name': 'picture1.png', 'caption': "description1"},
-            {'name': 'picture2.png', 'caption': "description2"},
-            {'name': 'picture3.png', 'caption': "description3"}
+            {'name': 'picture1.png', 'caption': "1ª geração do Computer Space (sigle player)"},
+            {'name': 'picture2.png', 'caption': "2ª geração do Computer Space (Multiplayer)"},
         ],
         'video_gameplay': [
             {'url': 'https://www.youtube.com/watch?feature=player_embedded&v=Nhdu2Jh9cuc', 'caption': "Computer Space gameplay", 'type': "youtube"} // type: youtube or vimeo

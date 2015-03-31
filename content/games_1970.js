@@ -479,7 +479,7 @@
         		 'authors': ['Toru Iwatani'],
         		 'company': ['Namco'],  
         		 'year': '1979',
-        		 'date': '20-06-1951', // Day, Month, Year
+        		 'date': '01-01-1979', // Day, Month, Year
         		 'headline': 'Pacman o mascote amarelo, rechonchudo e guloso da Namco',
 			 'resume': [
             			'Nem Street Fighter, nem Space Invaders.Pac-Man é o arcade  ',
@@ -517,7 +517,7 @@
             			{'url': 'video_url', 'caption': "description", 'type': "youtube"} // type: youtube or vimeo
         		],
         		'demos': [
-            			{'url': 'demonstration_url', 'caption': "description"}
+            			{'url': 'https://www.google.com/maps/@33.4677085,-112.0869616,17z/data=!1e3', 'caption': "Demo PacMan Google Maps"}
         		],
         		'references': [
             			{'url': 'reference_url1', 'caption': "description"},

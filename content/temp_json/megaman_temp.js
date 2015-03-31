@@ -51,7 +51,7 @@
             'Esse esquema de adquirir a arma do inimigo é muito legal, pois cada Robot Master possui '
             'sua fraqueza, por exemplo: a arma que melhor funciona contra o Ice Man é o Elec Beam que '
             'você obtém ao derrotar o Elec Man, já a fraqueza de Elec Man é a Cut Blade que você descola '
-            'ao destruir o Cut Man, e assim por diante.</p>
+            'ao destruir o Cut Man, e assim por diante.</p>'
             '<p>Algumas curiosidades:</p>'
             '<p>Os nomes de Rock e Roll são mesmo uma homenagem ao estilo musical rock'n'roll.</p>'
             '<p>Nos Estados Unidos, o vice-presidente da Capcom Joseph Marici mudou o nome de '

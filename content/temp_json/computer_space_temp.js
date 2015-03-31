@@ -45,9 +45,9 @@
             {'url': 'demonstration_url', 'caption': "description"}
         ],
         'references': [
-            {'url': 'http://www.technologizer.com/2011/12/11/computer-space-and-the-dawn-of-the-arcade-video-game/', 'caption': "Computer Space and the Dawn of the Arcade Video Game"},
+            {'url': 'http://www.technologizer.com/2011/12/11/computer-space-and-the-dawn-of-the-arcade-video-game/', 'caption': "Technologizer"},
             {'url': 'http://blablagames.net/?p=910', 'caption': "BLA…Bla…Games"},
-            {'url': 'http://en.wikipedia.org/wiki/Computer_Space', 'caption': "Computer Space"},
-            {'url': 'https://gamesample.wordpress.com/tag/computer-space/', 'caption': "A historia dos jogos eletrônicos parte 2 – O nascimento dos Arcades e consoles"}
+            {'url': 'http://en.wikipedia.org/wiki/Computer_Space', 'caption': "Wikipedia"},
+            {'url': 'https://gamesample.wordpress.com/tag/computer-space/', 'caption': "Game Sample"}
         ]
 }

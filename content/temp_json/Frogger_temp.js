@@ -2,7 +2,7 @@
         'type': 'game', // game or console
         'name': 'Frogger',
         'authors': [],
-        'company': ['Konami'],  
+        'company': ['Konami/SEGA'],  
         'year': '1981',
         'headline': 'Frogger',
         'resume': [

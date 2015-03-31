@@ -476,17 +476,22 @@
 			{
 			 'type': 'Pac-man', // game or console
         		 'name': 'Game Name',
-        		 'authors': ['Fulano de tal', 'Ciclano'],
-        		 'company': ['CompanyX'],  
-        		 'year': '1951',
+        		 'authors': ['Toru Iwatani'],
+        		 'company': ['Namco'],  
+        		 'year': '1979',
         		 'date': '20-06-1951', // Day, Month, Year
-        		 'headline': 'First Game about sport',
+        		 'headline': 'Pacman o mascote amarelo, rechonchudo e guloso da Namco',
 			 'resume': [
-            			'Lorem ipsum dolor sit amet, ut viverra vestibulum odio, ',
-            			'aliquam in massa, velit rutrum pede ipsum mauris duis, ',
-        			'congue massa sem elit, integer risus. Faucibus in lacus, ',
-            			'ligula ornare nibh, elit suspendisse tortor sed volutpat, ',
-            			'etiam tempus wisi semper montes odio, lorem vitae vel eu '
+            			'Nem Street Fighter, nem Space Invaders.Pac-Man é o arcade  ',
+            			'mais vendido da história com 400 mil unidades (o dobro de Street ',
+        			'Fighter II). Em valores atualizados estas máquinas renderam  ',
+            			'7,6 bilhões de dólares,foi um dos maiores marcos na história  ',
+            			'dos videogames nos anos 80 e provavelmente foi a principal ponte ',
+            			'entre fliperamas como Space Invaders e os consoles caseiros como',
+            			'conhecemos hoje.A mecânica do game era simples:Pac-Man comia pastilhas',
+            			'fugindo de fantasmas em um labirinto.O objetivo era comer todas as',
+            			'sem ser alcançado pelos fantasmas,aumentando progressivamente a',
+            			'dificuldade.'
         		].join(''),
         		'full_text': [
             			'Lorem ipsum dolor sit amet, ut viverra vestibulum odio, ',

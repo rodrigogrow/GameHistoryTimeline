@@ -168,7 +168,7 @@
 		        'references': [
 		        	{'url': 'http://pt.slideshare.net/IamPedroVictor/tank1974', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
 		            {'url': 'http://en.wikipedia.org/wiki/Tank_(video_game)', 'caption': "Wikipedia 19-03-2015"},
-		            {'url': 'http://www.skooldays.com/categories/arcade/ag1148.htm', 'caption': "mais informações"}
+		            {'url': 'http://www.skooldays.com/categories/arcade/ag1148.htm', 'caption': "Historia do Tank(Ingles)"}
 		        ]
 			},
 			{

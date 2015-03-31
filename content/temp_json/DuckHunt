@@ -1,0 +1,47 @@
+{ 
+        'type': 'Console', // game or console 
+        'name': 'Duck Hunt', 
+         'authors': ['Gunpei Yokoi', 'Masayuki Uemura', 'Takehiro Izushi'], 
+         'company': ['Nitendo'], 
+         'year': '1984', 
+         'date': '21-04-1984', // Day, Month, Year 
+         'headline': 'Caça aos patos', 
+         'resume': [ 
+             'Duck Hunt é um jogo de console lançado em 21 de abril de 1984 pela Nitendo para o NES.' 
+             'O jogador tem três tiros para tentar eliminar os patos que apacerem voando na tela e aparecem em três cores diferentes', 
+             '[preto, azul e vermelho] e tem diferentes valores de pontuação [500, 1000, 3000].'
+             'Existem 3 modos no jogo, A, B e o Clay Shooting.' 
+             'No modo A aparce um pato, enquanto no modo B são dois patos e no modo Clay Shotting os patos são substituídos por pratos e a pontuação muda de 1000 pontos por prato.' 
+             'É um dos 200 melhores jogos da Nitendo segundo a Nitendo Power.'
+         ].join(''), 
+         'full_text': [ 
+             'Duck Hunt é um jogo de tiro desenvolvido e publicado pela Nintendo para o Nintendo Entertainment System consola de jogos (NES). Primeiro lançado no Japão em 21 de abril de 1984, ' 
+             'Entertainment System consola de jogos (NES). Primeiro lançado no Japão em 21 de abril.', 
+             'que mais tarde foi lançado em 18 de outubro de 1985 na América do Norte como um jogo de lançamento para o NES, e em 15 de agosto de 1987 na Europa.', 
+             'O jogo foi lançado como um título Virtual Console para o Wii U.', 
+             'Em Duck Hunt, os jogadores usam o NES Zapper para caçar patos que aparecem na tela da televisão.', 
+             'Os patos aparecer um ou dois de cada vez, e ao jogador é dado três tiros para derrubá-los. ', 
+             'Existem 3 modos no jogo, A, B e o Clay Shooting.', 
+             'No modo A aparce um pato, enquanto no modo B são dois patos e no modo Clay Shotting os patos são substituídos por pratos e a pontuação muda de 1000 pontos por prato.', 
+             'O jogador recebe diferentes pontos em atirar os patos com cores diferentes.', 
+             'Se o jogador atira o número necessário de patos em uma única rodada, o jogador vai avançar para a próxima rodada; caso contrário, o jogador receberá um game over.'
+         ].join(''), 
+         'thumbnail': 'thumbnail_example.png', 
+         'main_img': {'name': 'main_picture.jpeg', 'caption': "Tela do console NES Duck Hunt"},
+         'images': [ 
+             {'name': 'picture1.png', 'caption': "Virtual console do Wii U"}, 
+             {'name': 'picture2.png', 'caption': "Modo C do jogo Duck Hunt - Clay Shooting"}, 
+         ], 
+         'video_gameplay': [ 
+             {'url': 'https://youtu.be/x-daxzVxrQI', 'caption': "Duck Hunt NES gameplay", 'type': "youtube"} // type: youtube or vimeo 
+         ], 
+         'demos': [ 
+             {'url': 'http://www.gamesbomb.com/games/duck-hunt-demo', 'caption': "Demo do jogo com modificações: sem NES Zapper e efeitos meta"} 
+         ], 
+         'references': [ 
+             {'url': 'http://www.giantbomb.com/duck-hunt/3030-2758/', 'caption': "Giantbomb"}, 
+             {'url': 'http://www.gamesbomb.com/games/duck-hunt-demo', 'caption': "GamesBomb"}, 
+             {'url': 'http://pt.wikipedia.org/wiki/Duck_Hunt', 'caption': "Wikipedia"}, 
+
+         ] 
+} 

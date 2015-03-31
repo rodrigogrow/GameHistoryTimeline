@@ -51,7 +51,7 @@
             {'name': 'picture3.png', 'caption': "description3"}
         ],
         'video_gameplay': [
-            {'url': 'video_url', 'caption': "description", 'type': "youtube"} // type: youtube or vimeo
+            {'url': 'https://www.youtube.com/watch?v=l9fO-YuWPSk', 'caption': "Frogger arcade game", 'type': "youtube"} // type: youtube or vimeo
         ],
         'demos': [
             {'url': 'demonstration_url', 'caption': "description"}

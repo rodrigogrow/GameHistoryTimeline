@@ -86,12 +86,12 @@
             {'url': 'https://www.youtube.com/watch?v=slD8IzS5kOA', 'caption': "Gameplay Mega Man - NESguide.com", 'type': "youtube"} // type: youtube or vimeo
         ],
         'demos': [
-            {'url': 'demonstration_url', 'caption': "description"}
+            {'url': 'http://game-oldies.com/play-online/mega-man-nintendo-nes#', 'caption': "Game Oldies"}
         ],
         'references': [
-            {'url': 'reference_url1', 'caption': "description"},
-            {'url': 'reference_url2', 'caption': "description"},
-            {'url': 'reference_url3', 'caption': "description"}
+            {'url': 'http://www.memoriabit.com.br/review-mega-man-nes/#', 'caption': "Memoria BIT"},
+            {'url': 'https://baudovideogame.wordpress.com/2010/02/28/a-saga-principal-de-mega-man-do-1-ao-9/', 'caption': "Bau do Videogame"},
+            {'url': 'http://garotodeprogramaupe.blogspot.com.br/2012/03/linha-do-tempo-megaman.html', 'caption': "Garoto de Programa"}
         ]
 }
 

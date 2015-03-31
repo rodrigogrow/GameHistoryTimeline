@@ -44,11 +44,12 @@
             'Entre os consoles atuais, somente o Xbox 360 disponibiliza-o para baixar.'.
         ].join(''),
         'thumbnail': 'thumbnail_example.png',
-        'main_img': {'name': 'main_picture.png', 'caption': "description"},
+        'main_img': {'name': 'main_image.jpg', 'caption': "description"},
         'images': [
-            {'name': 'picture1.png', 'caption': "description1"},
-            {'name': 'picture2.png', 'caption': "description2"},
-            {'name': 'picture3.png', 'caption': "description3"}
+            {'name': 'picture_1.jpg', 'caption': "description1"},
+            {'name': 'picture_2.png', 'caption': "description2"},
+            {'name': 'picture_3.png', 'caption': "description3"},
+            {'name': 'picture_4.jpg', 'caption': "description4"}
         ],
         'video_gameplay': [
             {'url': 'https://www.youtube.com/watch?v=l9fO-YuWPSk', 'caption': "Frogger arcade game", 'type': "youtube"} // type: youtube or vimeo

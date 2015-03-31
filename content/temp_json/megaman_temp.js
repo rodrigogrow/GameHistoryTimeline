@@ -83,7 +83,7 @@
             {'name': 'picture3.png', 'caption': "description3"}
         ],
         'video_gameplay': [
-            {'url': 'https://www.youtube.com/watch?v=slD8IzS5kOA', 'caption': "Gameplay Mega Man - NESguide.com", 'type': "youtube"} // type: youtube or vimeo
+            {'url': 'http://www.youtube.com/watch?v=slD8IzS5kOA', 'caption': "Gameplay Mega Man - NESguide.com", 'type': "youtube"} // type: youtube or vimeo
         ],
         'demos': [
             {'url': 'http://game-oldies.com/play-online/mega-man-nintendo-nes#', 'caption': "Game Oldies"}

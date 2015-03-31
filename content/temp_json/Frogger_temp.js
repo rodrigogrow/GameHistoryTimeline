@@ -34,7 +34,8 @@
             'a cidade com um fliperama original de Frogger, parodiando a própria ',
             'travessia de avenidas do título, Constanza fez um recorde ficcional de ',
             '863,050 pontos. A única pontuação real registrada que supera a de Seinfield ',
-            'é do norte-americano Pat Laffaye, com 896,980 pontos. Além disso, ',
+            'é de Michael Smith, de Springfield, em 2012, com 970,440 de pontos.'
+            'Superando o norte-americano Pat Laffaye, com 896,980 pontos. Além disso, ',
             'o Frogger original, ou conversões similares da versão arcade, foi lançado ',
             'para mais de 10 plataformas, desde as mais conhecidas às mais raras. ',
             'Consoles como o Playstation ganharam uma versão 3D, que retomava ',

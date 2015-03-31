@@ -252,7 +252,7 @@
 		            'game foi relançado para NES e mais de 20 anos depois Ganhou sua versão para PCs .'
 		        ].join(''),
 		        'thumbnail': 'thumbnail_example.png',
-		        'main_img': {'name': 'main_picture.jpeg', 'caption': "description"},
+		        'main_img': {'name': 'main_picture.jpeg', 'caption': "Arte do jogo"},
 		        'images': [
 		            {'name': 'picture1.jpg', 'caption': "interface"},
 		            {'name': 'picture2.jpg', 'caption': "Tela do jogo"}

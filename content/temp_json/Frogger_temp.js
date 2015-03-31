@@ -52,6 +52,8 @@
         ],
         'video_gameplay': [
             {'url': 'https://www.youtube.com/watch?v=l9fO-YuWPSk', 'caption': "Frogger arcade game", 'type': "youtube"} // type: youtube or vimeo
+            'video_gameplay': [
+            {'url': 'https://www.youtube.com/watch?v=vEsq-PGRJ5I', 'caption': "Frogger Atari 2600", 'type': "youtube"} // type: youtube or vimeo
         ],
         'demos': [
             {'url': 'demonstration_url', 'caption': "description"}

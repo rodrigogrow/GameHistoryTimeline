@@ -56,7 +56,7 @@
             {'url': 'https://www.youtube.com/watch?v=vEsq-PGRJ5I', 'caption': "Frogger Atari 2600", 'type': "youtube"} // type: youtube or vimeo
         ],
         'demos': [
-            {'url': 'demonstration_url', 'caption': "description"}
+            {'url': 'http://www.ojogos.com.br/jogo/frogger', 'caption': "Jogar frogger!"}
         ],
         'references': [
             {'url': 'reference_url1', 'caption': "description"},

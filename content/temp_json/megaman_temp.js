@@ -2,10 +2,10 @@
         'type': 'game', // game or console
         'name': 'Mega Man',
         'authors': [],
-        'company': ['CAPCOM'],  
+        'company': ['Capcom'],  
         'year': '1987',
-        'date': '20-06-1951', // Day, Month, Year
-        'headline': 'Frogger',
+        'date': '17-12-1987', // Day, Month, Year
+        'headline': 'Dificuldade extrema',
         'resume': [
             'O título foi lançado pela Konami em 1981 para os arcades ',
             'e um ano depois em 1982 foi lançado para o Atari 2600 ',

@@ -44,12 +44,12 @@
             'Entre os consoles atuais, somente o Xbox 360 disponibiliza-o para baixar.'.
         ].join(''),
         'thumbnail': 'thumbnail_example.png',
-        'main_img': {'name': 'main_image.jpg', 'caption': "description"},
+        'main_img': {'name': 'main_image.jpg', 'caption': "Arcade Frogger!"},
         'images': [
-            {'name': 'picture_1.jpg', 'caption': "description1"},
-            {'name': 'picture_2.png', 'caption': "description2"},
-            {'name': 'picture_3.png', 'caption': "description3"},
-            {'name': 'picture_4.jpg', 'caption': "description4"}
+            {'name': 'picture_1.jpg', 'caption': "Logo do jogo Frogger"},
+            {'name': 'picture_2.png', 'caption': "Gameplay para Arcade"},
+            {'name': 'picture_3.png', 'caption': "Gameplay para Atari 2600"},
+            {'name': 'picture_4.jpg', 'caption': "Capa do Frogger pra XBOX"}
         ],
         'video_gameplay': [
             {'url': 'https://www.youtube.com/watch?v=l9fO-YuWPSk', 'caption': "Frogger arcade game", 'type': "youtube"} // type: youtube or vimeo

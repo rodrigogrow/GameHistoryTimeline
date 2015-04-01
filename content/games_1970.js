@@ -520,9 +520,9 @@
             			{'url': 'https://www.google.com/maps/@33.4677085,-112.0869616,17z/data=!1e3', 'caption': "Demo PacMan Google Maps"}
         		],
         		'references': [
-            			{'url': 'reference_url1', 'caption': "description"},
-            			{'url': 'reference_url2', 'caption': "description"},
-            			{'url': 'reference_url3', 'caption': "description"}
+            			{'url': 'http://www.techtudo.com.br/noticias/noticia/2014/11/pac-man-conheca-curiosidades-mais-interessantes-sobre-franquia.html', 'caption': "PacMan: Curiosidades - TechTudo"},
+            			{'url': 'http://www.hardmob.com.br/content/1068-10-coisas-que-voce-talvez-nao-saiba-sobre-pac-man.html', 'caption': "10 coisas sobre o PacMan"},
+            			{'url': 'http://www.historiadetudo.com/pac-man.html', 'caption': "História de tudo - PacMan"}
 			 ]
 		}
 		]

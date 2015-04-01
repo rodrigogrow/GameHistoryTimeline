@@ -509,7 +509,7 @@
         		'thumbnail': 'thumbnail_example.png',
         		'main_img': {'name': 'main_picture.png', 'caption': "Gameplay Pacman"},
         		'images': [
-        			 {'name': 'picture1.png', 'caption': "Personagens do PacMan"},
+        			 {'name': 'picture1.png', 'caption': "Personagens PacMan"},
             			 {'name': 'picture2.png', 'caption': "Inimigos do PacMan"},
             			 {'name': 'picture3.png', 'caption': "Ms.PacMan"}
         		],

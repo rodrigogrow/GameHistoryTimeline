@@ -474,8 +474,8 @@
 		        ]
 			},
 			{
-			 'type': 'Pac-man', // game or console
-        		 'name': 'Game Name',
+			 'type': 'Game', // game or console
+        		 'name': 'PacMan',
         		 'authors': ['Toru Iwatani'],
         		 'company': ['Namco'],  
         		 'year': '1979',

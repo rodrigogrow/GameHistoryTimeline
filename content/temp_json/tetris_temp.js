@@ -1,17 +1,17 @@
 {
         'type': 'game', // game or console
-        'name': 'Game Name',
-        'authors': ['Fulano de tal', 'Ciclano'],
-        'company': ['CompanyX'],  
-        'year': '1951',
-        'date': '20-06-1951', // Day, Month, Year
-        'headline': 'First Game about sport',
+        'name': 'Tetris',
+        'authors': ['Alexey Pajitnov', ' Dmitry Pavlovsky','Vadim Gerasimov'],
+        'company': ['Academia Russa de Ciência'],  
+        'year': '1984',
+        'date': '06-1984', // Day, Month, Year
+        'headline': 'First Game about Quebra Cabeça ',
         'resume': [
-            'Lorem ipsum dolor sit amet, ut viverra vestibulum odio, ',
-            'aliquam in massa, velit rutrum pede ipsum mauris duis, ',
-            'congue massa sem elit, integer risus. Faucibus in lacus, ',
-            'ligula ornare nibh, elit suspendisse tortor sed volutpat, ',
-            'etiam tempus wisi semper montes odio, lorem vitae vel eu '
+            'Tetris (em russo: Тетрис) é um jogo electrónico muito popular, desenvolvido por Alexey Pajitnov ',
+            'Dmitry Pavlovsky e Vadim Gerasimov, e lançado em Junho de 1984. Pajitnov e  ',
+            'Pavlovsky eram engenheiros informáticos no Centro de Computadores da Academia Russa das Ciências e Vadim era um aluno com 16 anos. ',
+            'Tetris foi um dos primeiros itens de exportação de sucesso da União Soviética',
+            'e um dos primeiros a ser visto como um tipo de vício.Atingiu um público alvo inédito na história dos videogames. '
         ].join(''),
         'full_text': [
             'Lorem ipsum dolor sit amet, ut viverra vestibulum odio, ',

@@ -511,7 +511,7 @@
         		'images': [
         			 {'name': 'picture1.png', 'caption': "Personagens PacMan"},
             			 {'name': 'picture2.png', 'caption': "Inimigos do PacMan"},
-            			 {'name': 'picture3.png', 'caption': "Ms. PacMan"}
+            			 {'name': 'picture3.png', 'caption': "Ms.PacMan"}
         		],
         		'video_gameplay': [
             			{'url': 'video_url', 'caption': "description", 'type': "youtube"} // type: youtube or vimeo

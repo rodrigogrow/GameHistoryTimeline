@@ -7,14 +7,15 @@
         'date': '17-12-1987', // Day, Month, Year
         'headline': 'Dificuldade extrema',
         'resume': [
-            '<p>Mega Man (Rockman) é uma franquia criada por Keiji Inafune pela empresa Capcom.'
+            '<p>Mega Man (Rockman) é uma franquia criada por Keiji Inafune pela empresa Capcom. '
             'A série é bem conhecida, tendo mais de cinquenta versões lançadas, o que a torna '
-            'a série mais produtiva da Capcom. A franquia teve início em 1987 com o primeiro '
-            'Mega Man, que foi lançado para o Nintendo Entertainment System, também conhecido '
-            'como Famicom. Este jogo e suas sequências compõe a série original de jogos, mas '
-            'foram criadas várias sub-série spinoffs que se passam no mesmo universo fictício.',
-            'O primeiro jogo Mega Man veio de cara trazendo a marca registrada da série: '
-            'dificuldade extrema. O jogo era tão absorvente que, mesmo a quantidade absurda de'
+            'a série mais produtiva da Capcom.</p>' 
+            '<p>A franquia teve início em 1987 com o primeiro Mega Man, que foi lançado para o '
+            'Nintendo Entertainment System, também conhecido como Famicom. Este jogo e suas '
+            'sequências compõe a série original de jogos, mas foram criadas várias sub-série '
+            'spinoffs que se passam no mesmo universo fictício.</p>',
+            '<p>O primeiro jogo Mega Man veio de cara trazendo a marca registrada da série: '
+            'dificuldade extrema. O jogo era tão absorvente que, mesmo a quantidade absurda de '
             'continues, não fez os jogadores deixarem o robô de lado. Após frustrações iniciais '
             'com o sistema de controle, dificuldade desonesta e quedas do Mega Man, quem joga '
             'este game é recompensado com paciência e aprendizagem, principalmente através de '
@@ -26,17 +27,17 @@
             'do lançamento.</p>'
         ].join(''),
         'full_text': [
-            '<p>Na série, dois gênios da robótica, Dr. Albert Wily e Dr. Thomas Light, criam'
-            'uma nova geração de robôs superior a quaisquer outros já criados (Robot Masters).'
-            'Então, Wily, ex-sócio de Dr. Light (criador de Mega Man), vendo o incrível'
-            'potencial dos robôs, começa a imaginar que, com eles sob seu comando, poderia'
-            'ter um enorme poder nas mãos. Ao compartilhar seus planos de domínio com Light'
-            'e ter retorno negativo, rouba seu projeto inicial, Protoman (Blues, no original),'
+            '<p>Na série, dois gênios da robótica, Dr. Albert Wily e Dr. Thomas Light, criam '
+            'uma nova geração de robôs superior a quaisquer outros já criados (Robot Masters). '
+            'Então, Wily, ex-sócio de Dr. Light (criador de Mega Man), vendo o incrível '
+            'potencial dos robôs, começa a imaginar que, com eles sob seu comando, poderia '
+            'ter um enorme poder nas mãos. Ao compartilhar seus planos de domínio com Light '
+            'e ter retorno negativo, rouba seu projeto inicial, Protoman (Blues, no original), '
             'para servi-lo, junto com outros robôs.</p>',
-            '<p>Dr. Light, então, cria Rock, um robô ajudante de laboratório e Roll, uma ajudante'
-            'doméstica. Quando Wily resolve usar os Robôs para cometer terrorismo, Rock não'
-            'entende por que seus irmãos estariam cometendo tais barbaridades e pede para'
-            'Dr. Thomas Light torná-lo num robô de batalha para deter Wily. Surge então Mega Man,'
+            '<p>Dr. Light, então, cria Rock, um robô ajudante de laboratório e Roll, uma ajudante '
+            'doméstica. Quando Wily resolve usar os Robôs para cometer terrorismo, Rock não '
+            'entende por que seus irmãos estariam cometendo tais barbaridades e pede para '
+            'Dr. Thomas Light torná-lo num robô de batalha para deter Wily. Surge então Mega Man, '
             'o robô azul que sempre estraga os planos malignos de Wily.</p>',
             '<p>Mega Man é um jogo de plataforma clássico, side-scrolling, e um dos elementos que '
             'chama atenção é sua jogabilidade não-linear, onde o jogador pode escolher começar '
@@ -47,7 +48,7 @@
             'ao contrário do Mega Buster, tem munição limitada que pode, felizmente, ser recarregada '
             'coletando os Weapon Energies, que são deixados por inimigos destruídos durante as fases '
             'do game.</p>',
-            '<p>A barra de life do robozinho azul também pode ser recarregada coletando o item Life Energy.'
+            '<p>A barra de life do robozinho azul também pode ser recarregada coletando o item Life Energy. '
             'Esse esquema de adquirir a arma do inimigo é muito legal, pois cada Robot Master possui '
             'sua fraqueza, por exemplo: a arma que melhor funciona contra o Ice Man é o Elec Beam que '
             'você obtém ao derrotar o Elec Man, já a fraqueza de Elec Man é a Cut Blade que você descola '

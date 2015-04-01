@@ -155,11 +155,11 @@
 		            'do joystick para a esquerda fará com que o tanque vire a direita enquanto inverte o joystick fará com o tanque vire a esquerda. '
 		        ].join(''),
 		        'thumbnail': 'thumbnail_example.png',
-		        'main_img': {'name': 'main_picture.png', 'caption': "description"},
+		        'main_img': {'name': 'main_picture.png', 'caption': "Tela do jogo e seu arcade"},
 		        'images': [
-		            {'name': 'picture1.png', 'caption': "description1"},
-		            {'name': 'picture2.png', 'caption': "description2"},
-		            {'name': 'picture3.png', 'caption': "description3"}
+		            {'name': 'picture1.png', 'caption': "Arcade do jogo Tank"},
+		            {'name': 'picture2.png', 'caption': "Arcade do jogo Tank"},
+		            {'name': 'picture3.png', 'caption': "Distribuidora e Desevolvedora"}
 		        ],
 		        'video_gameplay': [
 		            {'url': 'http://www.youtu.be/3OsBUzYBJgU', 'caption': "1974 Atari Tank Arcade Game", 'type': "youtube"} // type: youtube or vimeo
@@ -168,7 +168,7 @@
 		        'references': [
 		        	{'url': 'http://pt.slideshare.net/IamPedroVictor/tank1974', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
 		            {'url': 'http://en.wikipedia.org/wiki/Tank_(video_game)', 'caption': "Wikipedia 19-03-2015"},
-		            {'url': 'http://www.skooldays.com/categories/arcade/ag1148.htm', 'caption': "mais informações"}
+		            {'url': 'http://www.skooldays.com/categories/arcade/ag1148.htm', 'caption': "Mais informações sobre tank (Ingles)"}
 		        ]
 			},
 			{

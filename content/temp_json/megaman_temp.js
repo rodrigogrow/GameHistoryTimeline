@@ -79,9 +79,9 @@
         'thumbnail': 'thumbnail_example.png',
         'main_img': {'name': 'main_picture.png', 'caption': "description"},
         'images': [
-            {'name': 'picture1.png', 'caption': "description1"},
-            {'name': 'picture2.png', 'caption': "description2"},
-            {'name': 'picture3.png', 'caption': "description3"}
+            {'name': 'picture1.png', 'caption': "Rockman (Mega Man)"},
+            {'name': 'picture2.png', 'caption': "gameplay1"},
+            {'name': 'picture3.png', 'caption': "gameplay2"}
         ],
         'video_gameplay': [
             {'url': 'http://www.youtube.com/watch?v=slD8IzS5kOA', 'caption': "Gameplay Mega Man - NESguide.com", 'type': "youtube"} // type: youtube or vimeo

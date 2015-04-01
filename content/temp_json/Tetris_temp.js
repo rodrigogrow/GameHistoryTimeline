@@ -34,10 +34,11 @@
             {'name': 'picture3.png', 'caption': "description3"}
         ],
         'video_gameplay': [
+        {'url':'https://www.youtube.com/watch?v=NhwNTo_Yr3k','caption': "documentario sobre o Tetris",'type': "MR.Havoc"}
             {'url': 'video_url', 'caption': "description", 'type': "youtube"} // type: youtube or vimeo
         ],
         'demos': [
-            {'url': 'demonstration_url', 'caption': "description"}
+            {'url': 'https://www.youtube.com/watch?v=NhwNTo_Yr3k', 'caption': "Jogue Tetris"}
         ],
         'references': [
             {'url': 'reference_url1', 'caption': "description"},

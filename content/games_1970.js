@@ -507,7 +507,7 @@
             			'mauris dis lectus amet, nascetur ipsum, hac suspendisse blandit eros.'
         		].join(''),
         		'thumbnail': 'thumbnail_example.png',
-        		'main_img': {'name': 'main_picture.png', 'caption': "Gameplay do Pacman"},
+        		'main_img': {'name': 'main_picture.png', 'caption': "Gameplay Pacman"},
         		'images': [
         			 {'name': 'picture1.png', 'caption': "Personagens PacMan"},
             			 {'name': 'picture2.png', 'caption': "Inimigos do PacMan"},

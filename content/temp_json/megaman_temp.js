@@ -5,9 +5,9 @@
         'company': ['Capcom'],  
         'year': '1987',
         'date': '17-12-1987', // Day, Month, Year
-        'headline': 'Dificuldade extrema',
+        'headline': 'Dificuldade extrema!',
         'resume': [
-            '<p>Mega Man (Rockman) é uma franquia criada por Keiji Inafune pela empresa Capcom. '
+            '<p>Mega Man (Rockman no Japão) é uma franquia criada por Keiji Inafune pela empresa Capcom. '
             'A série é bem conhecida, tendo mais de cinquenta versões lançadas, o que a torna '
             'a série mais produtiva da Capcom.</p>' 
             '<p>A franquia teve início em 1987 com o primeiro Mega Man, que foi lançado para o '

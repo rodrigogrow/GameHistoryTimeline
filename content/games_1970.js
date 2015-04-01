@@ -482,7 +482,7 @@
         		 'date': '01-01-1979', // Day, Month, Year
         		 'headline': 'Pacman o mascote amarelo, rechonchudo e guloso da Namco',
 			 'resume': [
-            			'Nem Street Fighter, nem Space Invaders.Pac-Man é o arcade  ',
+            			'Nem Street Fighter, nem Space Invaders. PacMan é o arcade  ',
             			'mais vendido da história com 400 mil unidades (o dobro de Street ',
         			'Fighter II). Em valores atualizados estas máquinas renderam  ',
             			'7,6 bilhões de dólares,foi um dos maiores marcos na história  ',
@@ -521,7 +521,7 @@
         		],
         		'references': [
             			{'url': 'http://www.techtudo.com.br/noticias/noticia/2014/11/pac-man-conheca-curiosidades-mais-interessantes-sobre-franquia.html', 'caption': "PacMan: Curiosidades - TechTudo"},
-            			{'url': 'http://www.hardmob.com.br/content/1068-10-coisas-que-voce-talvez-nao-saiba-sobre-pac-man.html', 'caption': "10 coisas sobre o PacMan"},
+            			{'url': 'http://www.hardmob.com.br/content/1068-10-coisas-que-voce-talvez-nao-saiba-sobre-pac-man.html', 'caption': "10 coisas sobre PacMan"},
             			{'url': 'http://www.historiadetudo.com/pac-man.html', 'caption': "História de tudo - PacMan"}
 			 ]
 		}

@@ -488,10 +488,10 @@
             			'7,6 bilhões de dólares,foi um dos maiores marcos na história  ',
             			'dos videogames nos anos 80 e provavelmente foi a principal ponte ',
             			'entre fliperamas como Space Invaders e os consoles caseiros como',
-            			'conhecemos hoje.A mecânica do game era simples:Pac-Man comia pastilhas',
-            			'fugindo de fantasmas em um labirinto.O objetivo era comer todas as',
-            			'sem ser alcançado pelos fantasmas,aumentando progressivamente a',
-            			'dificuldade.'
+            			'conhecemos hoje. A mecânica do game era simples: Pac-Man comia pastilhas',
+            			'fugindo de fantasmas (Pink,Clyde,Blinky,Inky) em um labirinto.',
+            			'O objetivo era comer todas as pastilhas sem ser alcançado pelos',
+            			'fantasmas,aumentando progressivamente a dificuldade.'
         		].join(''),
         		'full_text': [
             			'Lorem ipsum dolor sit amet, ut viverra vestibulum odio, ',

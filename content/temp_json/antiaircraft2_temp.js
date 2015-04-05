@@ -46,6 +46,6 @@
             {'url': 'http://www.armchairarcade.com/neo/node/577&prev=search', 'caption': "ArmChair Arcade"},
             {'url': 'http://en.wikipedia.org/wiki/Anti-Aircraft_(video_game)&prev=search', 'caption': "Wikipédia"},
             {'url': 'http://www.arcade-museum.com/game_detail.php%3Fgame_id%3D6892&prev=search', 'caption': "Arcade Museum"},
-            {'url': 'http://pt.slideshare.net/RickoBraz/antiaircraft2', 'caption': "Slides"}
+            {'url': 'http://pt.slideshare.net/RickoBraz/antiaircraft2', 'caption': "Slides" }
         ]
 }

@@ -38,13 +38,15 @@
         ],
         'video_gameplay': [
             {'url': 'http://www.youtube.com/watch?v=bOyH_D_XLWU','caption': "Versão Original", 'type': "youtube"},
-            {'url': 'http://www.youtube.com/watch?v=GgH7-aFQWQo','caption': "Versão Modificada", 'type': "youtube"} // type: youtube or vimeo
+            {'url': 'http://www.youtube.com/watch?v=mJcR7Tw8S9U','caption': "Nostalgia Zelda", 'type': "youtube"} // type: youtube or vimeo
         ],
-        'demos': [],
+        'demos': [
+                {'url': 'http://www.letsplaysnes.com/play-legend-of-zeldaonline-nes/','caption': "Demo On-line", 'type': "Demo"}
+        ],
         'references': [
             {'url': 'http://www.armchairarcade.com/neo/node/577&prev=search', 'caption': "ArmChair Arcade"},
-            {'url': 'http://en.wikipedia.org/wiki/Anti-Aircraft_(video_game)&prev=search', 'caption': "Wikipédia"},
-            {'url': 'http://www.arcade-museum.com/game_detail.php%3Fgame_id%3D6892&prev=search', 'caption': "Arcade Museum"},
+            {'url': 'http://www.zelda.com.br/tloz', 'caption': "Site Oficial do Jogo"},
+            {'url': 'http://zeldawiki.org/The_Legend_of_Zelda_%28Game%29', 'caption': "Zelda Wiki"},
             {'url': 'http://pt.slideshare.net/RickoBraz/antiaircraft2', 'caption': "Slides"}
         ]
 }

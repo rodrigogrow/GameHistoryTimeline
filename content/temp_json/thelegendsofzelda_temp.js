@@ -1,11 +1,11 @@
 {
-        'type': 'Arcade', // game or console
-        'name': 'Anti-Aircraft 2',
+        'type': 'Console', // game or console
+        'name': 'The Legend of Zelda',
         'authors': [],
-        'company': ['Atari'],  
-        'year': '1975',
-        'date': '06-06-1975', // Day, Month, Year
-        'headline': 'O primeiro jogo a possuir um MOD',
+        'company': ['Nintendo'],  
+        'year': '1986',
+        'date': '21/02/1986', // Day, Month, Year
+        'headline': 'O primeiro jogo a possuir um CHIP para se salvar já incluso no game',
         'resume': [
             'Anti-Aircraft 2 foi um jogo de um ou dois jogadores, ',
             'onde Aviões passam de um lado para o outro ',

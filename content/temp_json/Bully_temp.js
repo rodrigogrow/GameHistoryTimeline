@@ -1,11 +1,11 @@
 {
         'type': 'game', // game or console
         'name': 'Bully',
-        'authors': ['Fulano de tal', 'Ciclano'],
-        'company': ['CompanyX'],  
-        'year': '1951',
-        'date': '20-06-1951', // Day, Month, Year
-        'headline': 'First Game about sport',
+        'authors': [],
+        'company': ['Rockstar Games'],  
+        'year': '2006',
+        'date': '17-10-2006', // Day, Month, Year
+        'headline': 'Bully - Scholarship Edition',
         'resume': [
             'Lorem ipsum dolor sit amet, ut viverra vestibulum odio, ',
             'aliquam in massa, velit rutrum pede ipsum mauris duis, ',

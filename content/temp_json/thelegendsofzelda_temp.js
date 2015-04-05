@@ -44,9 +44,8 @@
                 {'url': 'http://www.letsplaysnes.com/play-legend-of-zeldaonline-nes/','caption': "Demo On-line", 'type': "Demo"}
         ],
         'references': [
-            {'url': 'http://www.armchairarcade.com/neo/node/577&prev=search', 'caption': "ArmChair Arcade"},
+            {'url': 'http://pt.slideshare.net/marcohenrique3954/the-legend-of-zelda-46649789', 'caption': "ArmChair Arcade"},
             {'url': 'http://www.zelda.com.br/tloz', 'caption': "Site Oficial do Jogo"},
-            {'url': 'http://zeldawiki.org/The_Legend_of_Zelda_%28Game%29', 'caption': "Zelda Wiki"},
-            {'url': 'http://pt.slideshare.net/RickoBraz/antiaircraft2', 'caption': "Slides"}
+            {'url': 'http://zeldawiki.org/The_Legend_of_Zelda_%28Game%29', 'caption': "Zelda Wiki"}
         ]
 }

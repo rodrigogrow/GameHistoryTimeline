@@ -60,6 +60,7 @@
             {'url': 'http://www.ojogos.com.br/jogo/frogger', 'caption': "Jogar frogger!"}
         ],
         'references': [
+                {'url': 'http://pt.slideshare.net/mattizinho/jogo-frogger', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
             {'url': 'https://baudovideogame.wordpress.com/2010/05/04/frogger-atari/', 'caption': "Frogger, seu legado e história"},
             {'url': 'http://contemgames.com.br/historia/jogos/1981-Frogger.aspx', 'caption': "História do jogo Frogger"},
             {'url': 'http://en.wikipedia.org/wiki/Frogger', 'caption': "Frogger Wiki"}

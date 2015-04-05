@@ -5,7 +5,7 @@
         'company': ['Rockstar Games'],  
         'year': '2006',
         'date': '17-10-2006', // Day, Month, Year
-        'headline': 'Bully - Scholarship Edition',
+        'headline': 'Bully',
         'resume': [
             'Lorem ipsum dolor sit amet, ut viverra vestibulum odio, ',
             'aliquam in massa, velit rutrum pede ipsum mauris duis, ',

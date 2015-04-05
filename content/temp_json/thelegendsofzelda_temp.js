@@ -1,7 +1,7 @@
 {
         'type': 'Console', // game or console
         'name': 'The Legend of Zelda',
-        'authors': [],
+        'authors': ['Shigeru Miyamoto'],
         'company': ['Nintendo'],  
         'year': '1986',
         'date': '21-02-1986', // Day, Month, Year
@@ -30,7 +30,7 @@
             'a ultrapassar a marca de 1 milhão de unidades vendidas na América', 
             '(cerca de 6,5 milhões de unidades pelo mundo todo).'
         ].join(''),
-        'thumbnail': 'thumbnail_example.png',
+        'thumbnail': 'thumbnail_triforce.png',
         'main_img': {'name': 'main_picture.png', 'caption': "Menu Principal do Game"},
         'images': [
             {'name': 'picture1.png', 'caption': "Console da Nintendo"},
@@ -41,6 +41,7 @@
             {'name': 'picture6.png', 'caption': "Caixa do Board Game Criado do Jogo"},
             {'name': 'picture7.png', 'caption': "As cartas do Board Game"},
             {'name': 'picture8.png', 'caption': "O Mapa do Board game"},
+            {'name': 'picture9.png', 'caption': "Shigeru Miyamoto"},
         ],
         'video_gameplay': [
             {'url': 'http://www.youtube.com/watch?v=RQ6hgzzk_o8','caption': "Gameplay Completo do Jogo", 'type': "youtube"},

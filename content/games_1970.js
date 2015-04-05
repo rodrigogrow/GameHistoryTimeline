@@ -248,7 +248,7 @@
 		            'um impacto psicológico que o game causava na mente de seus jogadores. ',
 		            'E com isso um ex funcionário da Exidy afirmou que nessa polemica sobre o jogo fez que suas vendas , ',
 		            'Triplicassem o Próprio presidente afirmou que quanto mais controvérsia existia  mais suas vendas aumentavam, ',
-		            'A Exidy já faliu a muitos e muitos anos, mas sua franquia de death race Sobreviveu por muito tempo  o, ' ,
+		            'A Exidy já faliu a muitos e muitos anos, mas sua franquia de death race Sobreviveu por muito tempo o, ' ,
 		            'game foi relançado para NES e mais de 20 anos depois Ganhou sua versão para PCs .'
 		        ].join(''),
 		        'thumbnail': 'thumbnail_example.png',

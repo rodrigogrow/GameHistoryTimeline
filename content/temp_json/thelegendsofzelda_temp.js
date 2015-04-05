@@ -37,14 +37,14 @@
             {'name': 'picture2.png', 'caption': "Tela Frontal do Game"}
         ],
         'video_gameplay': [
-            {'url': 'http://www.youtube.com/watch?v=bOyH_D_XLWU','caption': "Versão Original", 'type': "youtube"},
-            {'url': 'http://www.youtube.com/watch?v=mJcR7Tw8S9U','caption': "Nostalgia Zelda", 'type': "youtube"} // type: youtube or vimeo
+            {'url': 'http://www.youtube.com/watch?v=RQ6hgzzk_o8','caption': "Gameplay Completo do Jogo", 'type': "youtube"},
+            {'url': 'http://www.youtube.com/watch?v=wHaZrYX0kAU','caption': "Speed Run do Jogo", 'type': "youtube"} // type: youtube or vimeo
         ],
         'demos': [
                 {'url': 'http://www.letsplaysnes.com/play-legend-of-zeldaonline-nes/','caption': "Demo On-line", 'type': "Demo"}
         ],
         'references': [
-            {'url': 'http://pt.slideshare.net/marcohenrique3954/the-legend-of-zelda-46649789', 'caption': "ArmChair Arcade"},
+            {'url': 'http://pt.slideshare.net/marcohenrique3954/the-legend-of-zelda-46649789', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
             {'url': 'http://www.zelda.com.br/tloz', 'caption': "Site Oficial do Jogo"},
             {'url': 'http://zeldawiki.org/The_Legend_of_Zelda_%28Game%29', 'caption': "Zelda Wiki"}
         ]

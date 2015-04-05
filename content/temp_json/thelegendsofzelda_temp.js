@@ -31,10 +31,16 @@
             '(cerca de 6,5 milhões de unidades pelo mundo todo).'
         ].join(''),
         'thumbnail': 'thumbnail_example.png',
-        'main_img': {'name': 'main_picture.png', 'caption': "Tela Frontal do Game"},
+        'main_img': {'name': 'main_picture.png', 'caption': "Menu Principal do Game"},
         'images': [
-            {'name': 'picture1.png', 'caption': "Maquina"},
-            {'name': 'picture2.png', 'caption': "Tela Frontal do Game"}
+            {'name': 'picture1.png', 'caption': "Console da Nintendo"},
+            {'name': 'picture2.png', 'caption': "Console da Famicom"},
+            {'name': 'picture3.png', 'caption': "Cartucho de Edição Especial"},
+            {'name': 'picture4.png', 'caption': "Capa Americana"},
+            {'name': 'picture5.png', 'caption': "Mapa Inteiro do Jogo"},
+            {'name': 'picture6.png', 'caption': "Caixa do Board Game Criado do Jogo"},
+            {'name': 'picture7.png', 'caption': "As cartas do Board Game"},
+            {'name': 'picture8.png', 'caption': "O Mapa do Board game"},
         ],
         'video_gameplay': [
             {'url': 'http://www.youtube.com/watch?v=RQ6hgzzk_o8','caption': "Gameplay Completo do Jogo", 'type': "youtube"},

@@ -479,7 +479,7 @@
         		 'authors': ['Toru Iwatani'],
         		 'company': ['Namco'],  
         		 'year': '1979',
-        		 'date': '01-01-1979', // Day, Month, Year
+        		 'date': '22-05-1979', // Day, Month, Year
         		 'headline': 'Pacman o mascote amarelo, rechonchudo e guloso da Namco',
 			 'resume': [
             			'Nem Street Fighter, nem Space Invaders. PacMan é o arcade  ',
@@ -494,7 +494,7 @@
             			'fantasmas,aumentando progressivamente a dificuldade.'
         		].join(''),
         		'full_text': [
-            			'Ele estreou no dia 22 de maio de 1980 nos fliperamas japoneses',
+            			'Ele estreou no dia 22 de maio de 1979 nos fliperamas japoneses',
             			'com o nome de Puckman e se tornou rapidamente um sucesso, afinal ele',
             			'era algo totalmente inédito e se destacava nos fliperamas da época',
             			'que eram dominados por jogos de tiro espaciais como Space Invaders,',
@@ -527,7 +527,7 @@
             			 {'name': 'picture3.png', 'caption': "Ms.PacMan"}
         		],
         		'video_gameplay': [
-            			{'url': 'video_url', 'caption': "description", 'type': "youtube"} // type: youtube or vimeo
+            			{'url': 'https://www.youtube.com/watch?v=i_OjztdQ8iw', 'caption': "Pacman de Fliperama", 'type': "youtube"} // type: youtube or vimeo
         		],
         		'demos': [
             			{'url': 'https://www.google.com/maps/@33.4677085,-112.0869616,17z/data=!1e3', 'caption': "Demo PacMan Google Maps"}

@@ -52,6 +52,31 @@
             'que podem acertar os oponentes de longe.</p>', 
             '<p>Donkey Kong: Forte porem lento, Donkey Kong veio neste jogo para esbanjar '
             'sua força, isso torna seus golpes engraçados, pois é muito desajeitado.</p>',
+            '<p>Link: Sem duvidas o melhor dos melhores, Link além de rápido é forte e pode '
+            'usar suas armas para agarrar seus oponentes e puxá-los para perto ou afastá-los '
+            'bem de pressa permitindo que ele use seus combos que causam vários Hit’s nos '
+            'rivais e podendo derrubá-los da arena.</p>',
+            '<p>Capitain/Capitão Falcon: seus ataques são legais, mas alguns se parecem '
+            'com os dos outros personagens seu ataque durante o pulo se parece muito com o '
+            'do Fox e seu Falcon Punch é bem parecido com o Super soco do Donkey Kong. '
+            'Jogabilidade média.'</p>,
+            '<p>Pikachu: rápido ágil, porem seu ataque durante o pulo e muito perigoso '
+            'se o jogador não tiver muita pratica pode acabar caindo nos “buracos da '
+            'morte”, o mais legal do Pikachu é quando ele usa seus ataques ThunderShock '
+            'e ThunderBolt fazendo com que ele pronuncie seu nome.</p>',
+            '<p>Jigglypuff: esse é um rival chato de se enfrentar seu golpe especial faz '
+            'com que ele cante uma musica que faz quem estiver perto dormir permitindo '
+            'que ele use seus ataques de socos rápidos tirando muito dano.</p>',
+            '<p>Samus: a segunda melhor do game, ela tem um pulo especial que a arremessa '
+            'longe e tira um certo dano de seus oponentes e seu Super canhão que se '
+            'carregado ao máximo lança uma grande bola de energia nos oponentes.</p>',
+            '<p>Kirby: assim como em seu jogo, quando ele abre a boca os outros precisam '
+            'tomar cuidado, pois ele suga os poderes deles e fica com uma aparência deles '
+            'como, por exemplo, quando o Kirby suga o Mario ele pode lançar bolas de fogo '
+            'pelas mãos e fica com uma boina/chapéu igual a do encanador.</p>',
+            '<p>Ness: ele é muito complicado de jogar, possui poderes especiais que fazem '
+            'com que ele flutue por um curto período de tempo, está sempre com seu Ioiô '
+            'que o ajuda muito nas batalhas.</p>',
         ].join(''),
         'thumbnail': 'thumbnail_example.png',
         'main_img': {'name': 'main_picture.png', 'caption': "description"},

@@ -86,14 +86,13 @@
             {'name': 'picture3.png', 'caption': "gameplay2"}
         ],
         'video_gameplay': [
-            {'url': 'http://www.youtube.com/watch?v=slD8IzS5kOA', 'caption': "Gameplay Mega Man - NESguide.com", 'type': "youtube"} // type: youtube or vimeo
+            {'url': 'www.youtube.com/watch?v=VoeFzkyG02Q', 'caption': "Gameplay Super Smash Bros n64 - N64GUIDE.com", 'type': "youtube"} // type: youtube or vimeo
         ],
-        'demos': [
-            {'url': 'http://game-oldies.com/play-online/mega-man-nintendo-nes#', 'caption': "Game Oldies"}
+        
         ],
         'references': [
-            {'url': 'http://www.memoriabit.com.br/review-mega-man-nes/#', 'caption': "Memoria BIT"},
-            {'url': 'https://baudovideogame.wordpress.com/2010/02/28/a-saga-principal-de-mega-man-do-1-ao-9/', 'caption': "Bau do Videogame"},
-            {'url': 'http://garotodeprogramaupe.blogspot.com.br/2012/03/linha-do-tempo-megaman.html', 'caption': "Garoto de Programa"}
+            {'url': 'http://pt.wikipedia.org/wiki/Super_Smash_Bros.', 'caption': "Wikipedia"},
+            {'url': 'http://www.literafics.com.br/2012/12/coluna-literajogos-1-resenha-super.html', 'caption': "Literafics"},
+            {'url': 'http://www.smashbros.com/pt/', 'caption': "Smasbros - Site oficial"}
         ]
 }

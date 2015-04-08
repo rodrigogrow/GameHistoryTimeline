@@ -25,6 +25,7 @@
             'jogo</p>'.
 '
         ].join(''),
+        [
         'full_text': 
             '<p>Este game fez muito sucesso no mundo inteiro, pois além de ser um dos '
             'primeiros jogos de luta da Nintendo que envolviam personagens de diversos '

@@ -77,7 +77,7 @@
 
         ].join(''),
         'thumbnail': 'thumbnail_example.png',
-        'main_img': {'name': 'main_picture.png', 'caption': "Rockman (Mega Man)"},
+        'main_img': {'name': 'main_picture.png', 'caption': "Rockman (Mega Man - JP)"},
         'images': [
             {'name': 'picture1.jpeg', 'caption': "gameplay1"},
             {'name': 'picture2.png', 'caption': "gameplay2"},

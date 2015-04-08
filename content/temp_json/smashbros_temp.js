@@ -23,9 +23,7 @@
             'do jogo no qual o personagem é o protagonista. Cada arena possui um diferencial. '
             'No modo de um jogador são feitas batalhas contra cada personagem disponível no '
             'jogo</p>'.
-
         ].join(''),
-        
         'full_text': [
             '<p>Este game fez muito sucesso no mundo inteiro, pois além de ser um dos '
             'primeiros jogos de luta da Nintendo que envolviam personagens de diversos '
@@ -89,8 +87,6 @@
         'video_gameplay': [
             {'url': 'www.youtube.com/watch?v=VoeFzkyG02Q', 'caption': "Gameplay Super Smash Bros n64 - N64GUIDE.com", 'type': "youtube"} // type: youtube or vimeo
         ],
-        
-
         'references': [
             {'url': 'http://pt.wikipedia.org/wiki/Super_Smash_Bros.', 'caption': "Wikipedia"},
             {'url': 'http://www.literafics.com.br/2012/12/coluna-literajogos-1-resenha-super.html', 'caption': "Literafics"},

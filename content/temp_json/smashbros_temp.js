@@ -79,11 +79,11 @@
             'que o ajuda muito nas batalhas.</p>',
         ].join(''),
         'thumbnail': 'thumbnail_example.png',
-        'main_img': {'name': 'main_picture.png', 'caption': "description"},
+        'main_img': {'name': 'main_picture.png', 'caption': "Capa Super Smash Bros Norte Americana"},
         'images': [
-            {'name': 'picture1.png', 'caption': "Rockman (Mega Man)"},
-            {'name': 'picture2.png', 'caption': "gameplay1"},
-            {'name': 'picture3.png', 'caption': "gameplay2"}
+            {'name': 'picture1.png', 'caption': "Kirby's Stage"},
+            {'name': 'picture2.jpeg', 'caption': "Yoshi's Stage"},
+            {'name': 'picture3.jpeg', 'caption': "Character menu"}
         ],
         'video_gameplay': [
             {'url': 'www.youtube.com/watch?v=VoeFzkyG02Q', 'caption': "Gameplay Super Smash Bros n64 - N64GUIDE.com", 'type': "youtube"} // type: youtube or vimeo

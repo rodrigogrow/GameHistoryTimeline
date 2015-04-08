@@ -161,10 +161,10 @@
             ''
         ].join(''),
         'thumbnail': 'thumbnail_example.png',
-        'main_img': {'name': 'main_picture.png', 'caption': "description"},
+        'main_img': {'name': 'main_picture.png', 'caption': "Logo"},
         'images': [
-            {'name': 'picture1.png', 'caption': "description1"},
-            {'name': 'picture2.png', 'caption': "description2"},
+            {'name': 'picture1.png', 'caption': "Interface do jogo"},
+            {'name': 'picture2.png', 'caption': "Alfabeto base para o jogo"},
             {'name': 'picture3.png', 'caption': "description3"}
         ],
         'video_gameplay': [
@@ -175,6 +175,7 @@
             {'url': 'https://www.youtube.com/watch?v=NhwNTo_Yr3k', 'caption': "Jogue Tetris"}
         ],
         'references': [
+                {'url': 'http://pt.slideshare.net/IamPedroVictor/tetris-46769593', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Tetris", 'type': 'slides'},
             {'url': 'http://meiobit.com/289280/tetris-30-anos-uma-historia-de-roubos-trapacas-e-muito-mais/', 'caption': "Tetris 30 anos"},
             {'url': 'reference_url2', 'caption': "description"},
             {'url': 'reference_url3', 'caption': "description"}

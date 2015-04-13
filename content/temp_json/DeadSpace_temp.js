@@ -31,7 +31,7 @@
             'para se manter vivo e além de tudo encontrar Nicole.',
             'O jogo apresenta uma mira \'sobre o ombro\' na perspectiva de terceira pessoa',
             'além disso Isaac pode andar, correr, atirar, socar e pisar',
-            'A interface não possui um HUD tradicional. Em vez disso, 1,
+            'A interface não possui um HUD tradicional. Em vez disso, ',
             'a informação é retransmitida para o jogador via luzes e',
             'telas translúcidas que pairam sobre armas e armaduras de Isaac.',
             'De acordo com a profissão de Isaac como engenheiro em vez de um soldado,',

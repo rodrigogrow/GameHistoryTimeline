@@ -56,7 +56,7 @@
             {'name': 'picture5.png', 'caption': "USG Ishimura"},
             {'name': 'picture6.png', 'caption': "Inventário"},
             {'name': 'picture7.png', 'caption': "Área de Gravidade Zero"},
-            {'name': 'picture8.png', 'caption': "Demonstrativo de Combate"},
+            {'name': 'picture8.png', 'caption': "Combate"},
             {'name': 'picture9.png', 'caption': "Warren Ellis"},
         ],
         'video_gameplay': [

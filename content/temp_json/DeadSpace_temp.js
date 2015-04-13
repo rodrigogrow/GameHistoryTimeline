@@ -42,8 +42,9 @@
             'Em vez disso, eles devem ser desmembrado que é a melhor maneira mata-los. ',
             'Mesmo assim, eles podem adotar novas posturas e táticas, ',
             'e até mesmo crescer novos membros, com base em onde eles foram feridos. ',
-            'Vendeu mais de 1 Milhão de cópias no seu mês de lançamento e ',
-            'Teve Nota média de 8.7 nas reviews mundiais.'
+            'O escritor britânico de histórias em quadrinho, Warren Ellis, ',
+            'foi um dos seus roteiristas de Dead Space, que Vendeu mais de 1 Milhão de cópias ',
+            'no seu mês de lançamento e Teve Nota média de 8.7 nas reviews mundiais.'
         ].join(''),
         'thumbnail': 'thumbnail_picture2.png',
         'main_img': {'name': 'main_picture.png', 'caption': "Capa do Game"},

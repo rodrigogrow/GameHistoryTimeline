@@ -65,8 +65,11 @@
         ],
         'demos': [],
         'references': [
-            {'url': 'http://pt.slideshare.net/marcohenrique3954/the-legend-of-zelda-46649789', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
-            {'url': 'http://www.zelda.com.br/tloz', 'caption': "Site Oficial do Jogo"},
-            {'url': 'http://zeldawiki.org/The_Legend_of_Zelda_%28Game%29', 'caption': "Zelda Wiki"}
+            {'url': 'http://pt.slideshare.net/marcohenrique3954/dead-space-46918783', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
+            {'url': 'http://www.ea.com/deadspace', 'caption': "Site Oficial do Jogo"},
+            {'url': 'http://deadspace.wikia.com/wiki/Dead_Space&usg=ALkJrhje8HL_fDAbRJwJasvvbP8A7mFtOQ', 'caption': "Dead Space Wiki"}
+            {'url': 'http://pt.wikipedia.org/wiki/Dead_Space', 'caption': "Wikipédia"}
+            {'url': 'http://www.ign.com/games/dead-space/ps3-850400&prev=search', 'caption': "IGN"}
+            {'url': 'http://www.youtube.com/watch?v=dVFiz3dFIKA', 'caption': "Saga Dead Space - Zangado Games"}
         ]
 }

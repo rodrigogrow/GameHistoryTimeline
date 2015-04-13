@@ -60,12 +60,10 @@
             {'name': 'picture9.png', 'caption': "Warren Ellis"},
         ],
         'video_gameplay': [
-            {'url': 'http://www.youtube.com/watch?v=RQ6hgzzk_o8','caption': "Gameplay Completo do Jogo", 'type': "youtube"},
-            {'url': 'http://www.youtube.com/watch?v=wHaZrYX0kAU','caption': "Speed Run do Jogo", 'type': "youtube"} // type: youtube or vimeo
+            {'url': 'http://www.youtube.com/watch?v=WWki99kvrWk','caption': "Gameplay Do Capitulo 1", 'type': "youtube"},
+            {'url': 'http://www.youtube.com/watch?v=aFbfbNQl6u0','caption': "Speed Run do Jogo - Record Mundial", 'type': "youtube"} // type: youtube or vimeo
         ],
-        'demos': [
-                {'url': 'http://www.letsplaysnes.com/play-legend-of-zeldaonline-nes/','caption': "Demo On-line", 'type': "Demo"}
-        ],
+        'demos': [],
         'references': [
             {'url': 'http://pt.slideshare.net/marcohenrique3954/the-legend-of-zelda-46649789', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
             {'url': 'http://www.zelda.com.br/tloz', 'caption': "Site Oficial do Jogo"},

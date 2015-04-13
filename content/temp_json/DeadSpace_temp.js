@@ -36,7 +36,7 @@
             'telas translúcidas que pairam sobre armas e armaduras de Isaac.',
             'De acordo com a profissão de Isaac como engenheiro em vez de um soldado,',
             'as armas do jogo são na maior parte improvisadas,',
-            'que consistem em uma matriz de um alicate, campos de STASIS e ',
+            'que consistem em uma matriz de um alicate, campos de STASIS e',
             'armas rudimentares de energia. O Combate no jogo é complicado ',
             'pelo fato de que a maioria dos Necromorphs não podem ser simplesmente mortos com tiros na cabeça.',
             'Em vez disso, eles devem ser desmembrado que é a melhor maneira mata-los. ',

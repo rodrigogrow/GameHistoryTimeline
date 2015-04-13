@@ -2,7 +2,7 @@
         'type': 'Console', // game or console
         'name': 'Dead Space',
         'authors': ['Visceral Games'],
-        'company': ['Eletronics Arts '],  
+        'company': ['Eletronics Arts'],  
         'year': '2008',
         'date': '13-10-2008', // Day, Month, Year
         'headline': 'Jogo mais violento que conseguiu passar pela censura australiana',

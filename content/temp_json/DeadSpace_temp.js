@@ -14,7 +14,7 @@
             'na qual estava sua namorada Nicole Brennan. ',
             'Ao chegar a nave não demora muito para que Isaac acorde para um pesadelo',
             'quando ele descobre que a tripulação da nave',
-            'foi devastada por uma infestação alienígena, os Necromorphs. ',
+            'foi devastada por uma infestação alienígena, os Necromorphs.',
             'Ele deve então lutar através do silêncio de morte e da escuridão do espaço profundo',
             'para se manter vivo e além de tudo encontrar Nicole.'
         ].join(''),

@@ -1,0 +1,50 @@
+{
+        'type': 'game', // game or console
+        'name': 'God of War I',
+        'authors': ['David Jaffe', 'Cory Barlog'],
+        'company': ['Sony'],  
+        'year': '2005',
+        'date': '22-03-2005', // Day, Month, Year
+        'headline': 'O primeir Hack n Slash de sucesso',
+        'resume': [
+            'God of War é um jogo em terceira pessoa de ação e aventura',
+            'desenvolvido pela Santa Monica Studio e publicado pela Sony',
+            'Computer Entertainment (SCE). Lançado pela primeira vez em 22',
+            'de março de 2005, para o console PlayStation 2 (PS2), é o primeiro',
+            'episódio da série de mesmo nome e o terceiro em ordem cronológica.',
+            'Baseado na mitologia grega, ele é definido na Grécia antiga com'.
+            'vingança como motivo central.',
+        ].join(''),
+        'full_text': [
+            'O jogador controla o protagonista Kratos, um guerreiro espartano que',
+            'serve os deuses do Olimpo. A deusa Atena dá a tarefa a Kratos de vencer',
+            'Ares, matando o deus da guerra, que enganou Kratos para matar sua própria',
+            'esposa e filho. Como Ares ataca Atenas por ódio à Athena, Kratos embarca em',
+            'uma missão para encontrar o objeto capaz de parar o deus: a Caixa de Pandora.',
+            'A jogabilidade de God of War centra-se em combate baseado em combos, conseguidos',
+            'através da principal arma do jogador, Blades of Chaos e uma das armas secundárias',
+            'adquiridas mais tarde no jogo. Ele apresenta eventos em tempo rápido que exigem o ',
+            'jogador para completar várias ações do controlador de jogo em uma seqüência programada',
+            'para derrotar inimigos e chefes mais fortes. O jogador pode usar até quatro ataques mágicos',
+            'e uma capacidade para aumentar o poder como opções de combate alternativos. Ele também possui'.
+            'puzzles e elementos de plataformas.','
+        ].join(''),
+        'thumbnail': 'thumbnail_example.png',
+        'main_img': {'name': 'main_picture.png', 'caption': "description"},
+        'images': [
+            {'name': 'picture1.png', 'caption': "description1"},
+            {'name': 'picture2.png', 'caption': "description2"},
+            {'name': 'picture3.png', 'caption': "description3"}
+        ],
+        'video_gameplay': [
+            {'url': 'https://www.youtube.com/watch?v=_20c_V2Er88', 'caption': "Gameplay completo de God of War 1", 'type': "youtube"} // type: youtube or vimeo
+        ],
+        'demos': [
+            {'url': 'Não há', 'caption': "description"}
+        ],
+        'references': [
+            {'url': 'http://en.wikipedia.org/wiki/God_of_War_%28video_game%29', 'caption': "Wikipédia"},
+            {'url': 'reference_url2', 'caption': "Slideshare"},
+            {'url': 'http://pt.slideshare.net/gabrielalonso927/god-of-war-2005', 'caption': "description"}
+        ]
+}

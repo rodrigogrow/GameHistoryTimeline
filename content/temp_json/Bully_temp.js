@@ -83,12 +83,11 @@
             {'url': 'video_url', 'caption': "description", 'type': "youtube"} // type: youtube or vimeo
         ],
         'links_uteis': [
-            {'url': 'demonstration_url', 'caption': "description"}
-            {'url': 'demonstration_url', 'caption': "description"}
+            {'url': 'http://www.rockstargames.com/bully/prospectus/', 'caption': "Várias curiosidades do game"}
+            {'url': 'http://www.rockstargames.com/bully/rules/', 'caption': "Página de regras de Bullworth Academy"}
         ],
         'references': [
-            {'url': 'reference_url1', 'caption': "description"},
-            {'url': 'reference_url2', 'caption': "description"},
-            {'url': 'reference_url3', 'caption': "description"}
+            {'url': 'http://pt.wikipedia.org/wiki/Bully_%28jogo_eletr%C3%B4nico%29', 'caption': "Bully Wiki"},
+            {'url': 'http://www.rockstargames.com/bully/home/', 'caption': "Página Oficial de Bully"},
         ]
 }

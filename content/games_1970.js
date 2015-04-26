@@ -556,7 +556,7 @@
 			 'resume': [
             			'Nem Street Fighter, nem Space Invaders. PacMan é o arcade  ',
             			'mais vendido da história com 400 mil unidades (o dobro de Street ',
-        			'Fighter II). Em valores atualizados estas máquinas renderam  ',
+        				'Fighter II). Em valores atualizados estas máquinas renderam  ',
             			'7,6 bilhões de dólares,foi um dos maiores marcos na história  ',
             			'dos videogames nos anos 80 e provavelmente foi a principal ponte ',
             			'entre fliperamas como Space Invaders e os consoles caseiros como',
@@ -592,16 +592,17 @@
             			'sendo é um jogo que inspira muitas gerações até hoje.'
         		].join(''),
         		'thumbnail': 'thumbnail_example.png',
-        		'main_img': {'name': 'main_picture.png', 'caption': "Gameplay Pacman"},
+        		'main_img': {'name': 'main_image.jpg', 'caption': "Gameplay Pacman"},
         		'images': [
-        			 {'name': 'picture1.png', 'caption': "Personagens PacMan"},
-            			 {'name': 'picture2.png', 'caption': "Inimigos do PacMan"},
-            			 {'name': 'picture3.png', 'caption': "Ms.PacMan"}
+        			{'name': 'picture1.jpg', 'caption': "Personagens PacMan"},
+            		{'name': 'picture2.jpg', 'caption': "Inimigos do PacMan"},
+            		{'name': 'picture3.png', 'caption': "Ms.PacMan"}
         		],
         		'video_gameplay': [
             			{'url': 'https://www.youtube.com/watch?v=i_OjztdQ8iw', 'caption': "Pacman de Fliperama", 'type': "youtube"} // type: youtube or vimeo
         		],
         		'demos': [
+        				{'url': 'http://pacman.platzh1rsch.ch/', 'caption': 'HTML5 Demo'},
             			{'url': 'https://www.google.com/maps/@33.4677085,-112.0869616,17z/data=!1e3', 'caption': "Demo PacMan Google Maps"}
         		],
         		'references': [

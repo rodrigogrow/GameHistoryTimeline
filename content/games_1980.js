@@ -85,9 +85,9 @@
                 'date': '11 de Junho de 1983', // Day, Month, Year
                 'headline': 'O primeiro game da série, que é referência em jogos de luta',
                 'resume': [
-                    'O primeiro game da série, que é referência em jogos de luta, , ',
-                    'foi lançado em 30 de agosto de 1987, lançado pela Capcom nos arcades japoneses, ',
-                    'O jogo, porém, começou de maneira um tanto restrita: o jogador não podia escolher um personagem, , ',
+                    'O primeiro game da série, que é referência em jogos de luta,',
+                    'foi lançado em 30 de agosto de 1987, lançado pela Capcom nos arcades japoneses. ',
+                    'O jogo, porém, começou de maneira um tanto restrita: o jogador só podia escolher um personagem ',
                     'e contava apenas com Ryu , representando o Japão. Se um segundo lutador entrasse na partida, ',
                     'ele automaticamente assumiria o comando de Ken, representando os Estados Unidos. '
                 ].join(''),
@@ -119,19 +119,17 @@
                     'Hiroshi Matsumoto, deixaram a Capcom após eles criaram SF1 e se juntou SNK onde eles projetaram Fatal Fury e Art of Fighting ' 
                 ].join(''),
                 'thumbnail': 'thumbnail_example.png',
-                'main_img': {'name': 'main_picture.png', 'caption': "description"},
+                'main_img': {'name': 'img1.jpg', 'caption': "Arte do jogo"},
                 'images': [
-                    {'name': 'img1.png', 'caption': "Arte do jogo "},
-                    {'name': 'img2.png', 'caption': " 1 maquina '"},
-                    {'name': 'img3.png', 'caption': "Maquina atualizada "},
+                    {'name': 'img2.jpg', 'caption': " 1 maquina '"},
+                    {'name': 'img3.jpg', 'caption': "Maquina atualizada "},
                     {'name': 'img4.png', 'caption': "Bonus Stage "},
-                    {'name': 'img5.png', 'caption': "Personagens do jogo"}
+                    {'name': 'img5.jpg', 'caption': "Personagens do jogo"}
                 ],
                 'video_gameplay': [
                     {'url': 'http://www.youtu.be/181bEWh0KqI', 'caption': "Gameplay do Jogo", 'type': "youtube"} // type: youtube or vimeo
                 ],
                 'demos': [
-                    {'url': 'demonstration_url', 'caption': "description"}
                 ],
                 'references': [
                     {'url': 'http://pt.slideshare.net/jpagini/street-fighter-46475822', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Street Fighter", 'type': 'slides'},

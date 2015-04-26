@@ -7,7 +7,7 @@ $(document).ready(function(){
 	$.timeliner({timelineContainer:'#timeline'});
 
 	// array of content
-	var content = [_content['games_1950'], _content['games_1960'], _content['games_1970']];
+	var content = [_content['games_1950'], _content['games_1960'], _content['games_1970'], _content['games_1980']];
 
 	var timeline = new TimeLine('timeline', content);
 

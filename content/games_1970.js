@@ -553,7 +553,7 @@
         		 'year': '1979',
         		 'date': '22-05-1979', // Day, Month, Year
         		 'headline': 'Pacman o mascote amarelo, rechonchudo e guloso da Namco',
-			 'resume': [
+			 	 'resume': [
             			'Nem Street Fighter, nem Space Invaders. PacMan é o arcade  ',
             			'mais vendido da história com 400 mil unidades (o dobro de Street ',
         				'Fighter II). Em valores atualizados estas máquinas renderam  ',
@@ -571,7 +571,7 @@
             			'era algo totalmente inédito e se destacava nos fliperamas da época',
             			'que eram dominados por jogos de tiro espaciais como Space Invaders,',
             			'Asteroids e seus inúmeros clones. Para o lançamento nos Estados Unidos ',
-        			'Namco achou melhor mudar o nome do personagem para Pac-Man,afinal ',
+        				'Namco achou melhor mudar o nome do personagem para Pac-Man,afinal ',
             			'dá para fazer um trocadilho indesejado apenas trocando o P do Puckman ',
             			'por um F. O fliperama Pac-Man foi em grande parte desenvolvido ',
             			'por um jovem empregado da Namco chamado Tōru Iwatani, que também contou  ',
@@ -592,7 +592,7 @@
             			'sendo é um jogo que inspira muitas gerações até hoje.'
         		].join(''),
         		'thumbnail': 'thumbnail_example.png',
-        		'main_img': {'name': 'main_image.jpg', 'caption': "Gameplay Pacman"},
+        		'main_img': {'name': 'main_picture.jpg', 'caption': "Gameplay Pacman"},
         		'images': [
         			{'name': 'picture1.jpg', 'caption': "Personagens PacMan"},
             		{'name': 'picture2.jpg', 'caption': "Inimigos do PacMan"},
@@ -609,8 +609,8 @@
             			{'url': 'http://www.techtudo.com.br/noticias/noticia/2014/11/pac-man-conheca-curiosidades-mais-interessantes-sobre-franquia.html', 'caption': "PacMan: Curiosidades - TechTudo"},
             			{'url': 'http://www.hardmob.com.br/content/1068-10-coisas-que-voce-talvez-nao-saiba-sobre-pac-man.html', 'caption': "10 coisas sobre PacMan"},
             			{'url': 'http://www.historiadetudo.com/pac-man.html', 'caption': "História de tudo - PacMan"}
-			 ]
-		}
+			 	]
+			}
 		]
 	}
 

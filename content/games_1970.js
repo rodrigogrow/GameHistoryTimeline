@@ -546,7 +546,7 @@
 		        ]
 			},
 			{
-			 'type': 'Game', // game or console
+			 'type': 'game', // game or console
         		 'name': 'PacMan',
         		 'authors': ['Toru Iwatani'],
         		 'company': ['Namco'],  

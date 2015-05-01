@@ -49,7 +49,7 @@
         ],
         'references': [
             {'url': 'http://pt.wikipedia.org/wiki/Super_Mario_Bros.', 'caption': "Wikipédia"}
-            {'url': 'http://pt.slideshare.net/gabrielalonso927/breakout-1976', 'caption': "Slides"}
+            {'url': 'http://pt.slideshare.net/gabrielalonso927/super-mario-1985-46518939', 'caption': "Slides"}
             {'url': 'https://www.youtube.com/watch?v=ZH2wGpEZVgE', 'caption': "Como foi feito o Level Design do jogo"}
         ]
 }

@@ -403,7 +403,7 @@
                     'o mundo. Derivado do primeiro jogo de Mario, que por sua vez',
                     'originou-se do jogo de Donkey Kong, esse jogo tinha uma',
                     'mecânica diferente e inovadora, revolucionando a indústria dos',
-                    'videogames e até salvando-a.',
+                    'videogames e até salvando-a.'
                 ].join(''),
                 'full_text': [
                     'O jogo é o mais vendido de toda a história dos videogames (contando-se aí',
@@ -426,10 +426,10 @@
                     'que irá salvar a princesa e assim libertar todos os habitantes do reino…"'
                     ].join(''),
                 'thumbnail': 'thumbnail_example.png',
-                'main_img': {'name': 'main_picture.png', 'caption': "Capa Super Mario Bros"},
+                'main_img': {'name': 'main.png', 'caption': "Capa Super Mario Bros"},
                 'images': [
-                    {'name': 'picture1.png', 'caption': "Gameplay do Super Mario Bros"},
-                    {'name': 'picture2.png', 'caption': "Cartucho do Super Mario Bros"},
+                    {'name': 'picture1.jpg', 'caption': "Gameplay do Super Mario Bros"},
+                    {'name': 'picture2.jpg', 'caption': "Cartucho do Super Mario Bros"},
                     {'name': 'picture3.png', 'caption': "Castelo do chefe do World 1"}
                 ],
                  'video_gameplay': [
@@ -439,8 +439,8 @@
                     {'url': 'http://www.letsplaysnes.com/play-super-mario-bros-online-nes/', 'caption': "Um emulador de Super Mario Bros online"}
                 ],
                 'references': [
-                    {'url': 'http://pt.wikipedia.org/wiki/Super_Mario_Bros.', 'caption': "Wikipédia"},
-                    {'url': 'http://pt.slideshare.net/gabrielalonso927/breakout-1976', 'caption': "Slides"},
+                    {'url': 'http://pt.slideshare.net/gabrielalonso927/super-mario-1985-46518939', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
+                    {'url': 'http://pt.wikipedia.org/wiki/Super_Mario_Bros.', 'caption': "Wikipédia"},                    
                     {'url': 'https://www.youtube.com/watch?v=ZH2wGpEZVgE', 'caption': "Como foi feito o Level Design do jogo"}
                 ]
             },

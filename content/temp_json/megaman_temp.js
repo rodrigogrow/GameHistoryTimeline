@@ -91,7 +91,8 @@
         'references': [
             {'url': 'http://www.memoriabit.com.br/review-mega-man-nes/#', 'caption': "Memoria BIT"},
             {'url': 'https://baudovideogame.wordpress.com/2010/02/28/a-saga-principal-de-mega-man-do-1-ao-9/', 'caption': "Bau do Videogame"},
-            {'url': 'http://garotodeprogramaupe.blogspot.com.br/2012/03/linha-do-tempo-megaman.html', 'caption': "Garoto de Programa"}
+            {'url': 'http://garotodeprogramaupe.blogspot.com.br/2012/03/linha-do-tempo-megaman.html', 'caption': "Garoto de Programa"},
+            {'url': 'http://pt.slideshare.net/BRgabriel/ijd-megaman', 'caption': "Link SlideShare"}
         ]
 }
 

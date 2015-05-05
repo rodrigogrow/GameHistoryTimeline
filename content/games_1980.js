@@ -603,6 +603,7 @@
                     {'url': 'http://game-oldies.com/play-online/mega-man-nintendo-nes#', 'caption': "Game Oldies"}
                 ],
                 'references': [
+                    {'url': 'http://www.slideshare.net/emiliandro/megaman-46516352', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},                
                     {'url': 'http://www.memoriabit.com.br/review-mega-man-nes/#', 'caption': "Memoria BIT"},
                     {'url': 'https://baudovideogame.wordpress.com/2010/02/28/a-saga-principal-de-mega-man-do-1-ao-9/', 'caption': "Bau do Videogame"},
                     {'url': 'http://garotodeprogramaupe.blogspot.com.br/2012/03/linha-do-tempo-megaman.html', 'caption': "Garoto de Programa"}

@@ -127,6 +127,7 @@
                     {'url': 'http://www.jogosdeatari.com.br/game/pitfall', 'caption': "Demo com java applet"}
                 ],
                 'references': [
+                    {'url': 'http://pt.slideshare.net/100000933314835/pitfall', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
                     {'url': 'http://en.wikipedia.org/wiki/Pitfall!', 'caption': "Wikipedia"},
                     {'url': 'http://www.atariage.com/software_page.html?SoftwareLabelID=360', 'caption': "AtariAge"}
                 ]

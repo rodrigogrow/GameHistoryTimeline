@@ -328,6 +328,8 @@
 
 		path = 'images/' + item.type + '/' + item.year +'/'+ name_dir + '/';
 
+		console.log("path: " + path);
+
 		return path;
 
 	}

@@ -609,73 +609,7 @@
                     {'url': 'http://garotodeprogramaupe.blogspot.com.br/2012/03/linha-do-tempo-megaman.html', 'caption': "Garoto de Programa"}
                 ]
             }
-		]
-		{
-        'type': 'game', // game or console
-        'name': 'Resident Evil (Biohazard).',
-        'authors': ['Capcom, Westwood Studios'],
-        'company': ['Capcom'],  
-        'year': '1996',
-        'date': '22 de março de 1996.', // Day, Month, Year
-        'headline': 'Game que revolucionou o genero terror em jogos ',
-        'resume': [
-            'Foi um marco na indústria dos games, especialmente dos games de terror, ',
-            'O jogo foi lançado em uma época em que a temática mais adulta, ',
-            'ainda não era tão explorada pelas empresas. Com essa temática adulta , ',
-            'e com cara de filme Resident Evil fez com que os jogadores , ',
-            'encarnassem os personagens que controlavam, tornando as angústias  '
-            'sustos e descobertas, algo muito maior do que simplesmente um acontecimento in game'
-        ].join(''),
-        'full_text': [
-            'Tudo colaborava para trazer o jogador pra dentro da história: ambientação , ',
-            'aterrorizante, sustos constantes, o fato de não saber o que ia encontrar atrás da próxima porta, , ',
-            'reviravoltas constantes e uma trama muito bem ancorada. A verdade é que Resident Evil , ',
-            'revolucionou o modo de se fazer jogos de terror de uma tal maneira que várias franquias , ',
-            'copiaram a sua fórmula. Silent Hill, Dino Crisis e Parasite Eve sao exemplos . ',
-            'O jogador luta contra os inimigos estando armado com armas de fogo. Ao atacar, o jogador permanece parado ',
-            'pode transformar sua natureza e finalidade em sua arma nível. Inicialmente, as únicas armas disponíveis são uma faca , ',
-            'combate e uma Beretta 92F, mas ao avançar no jogo, mais armas se tornarão acessíveis como uma Remington M870 , ',
-            'e uma Colt Python. Munições são severamente limitadas, o que aumenta a tensão do jogador, ',
-            'Antes de iniciar a jornada, o jogador é convidado a escolher entre Jill Valentine e Chris Redfield,, ',
-            'mas a escolha vai muito além da preferência por controlar uma mulher ou um homem, é aqui que você escolhe a dificuldade.' ,
-            'Jill representa o easy mode, e Chris o hard mode. .' ,
-            'A jogabilidade e todo o sistema de jogo foram concebidos por Shinji Mikami.' , 
-            'para que a experiência de se jogar Resident Evil fosse mais assustadora possível.' ,
-            'A jogabilidade ambiente consiste em poligonal 3D, caracteres colocados ao longo do 2D de origens, ',
-            'Como tal, o jogo baseia-se em ângulos de câmeras pré-determinados. Com a câmera posicionada dessa forma é, ',
-            'fácil transmitir um ar ameaçador, A forma de como o sistema de câmera fixa foi implantado , ',
-            'e o controle dos personagens tem muito a ver com isso Os corredores estreitos e os personagens , ',
-             'são dois dos traços mais característicos da jogabilidade, e aliando isso ao fato de nao poder andar e atirar ' , 
-             'ao mesmo tempo, tínhamos três elementos que eram a base de todo o clima de tensão e da atmosfera do jogo, ' ,
-             ' A jogabilidade possui sim alguns problemas. O sistema de colisão dos personagens que fazem com que você possa ser agarrado ' , 
-             'por um zumbi mesmo sem estar de fato ao alcance deles, os Hunters podem lhe acertar mesmo se você estiver escondido em uma esquina ' , 
-             'Alguns inimigos possuem “frames de invencibilidade”, os zumbis por exemplo não recebem dano se você atirar no momento ' , 
-             'em que eles estão levantando (eles precisam estar 100% de pé, ou 100% deitados para receber dano) os zombie dogs  ' , 
-             'também possuem algo parecido, quando pulam para atacar o personagem, eles não podem ser atingidos pelos disparos do jogador ' , 
-             'Resident Evil causou também uma pequena revolução no quesito gráfico na época em que foi lançado. Fazendo uso de cenários pré-renderizados '  
-        ].join(''),
-        'thumbnail': 'thumbnail_example.png',
-        'main_img': {'name': 'main_picture.png', 'caption': "description"},
-        'images': [
-            {'name': 'imagem2.pgn', 'caption': "Arte do jogo"},
-            {'name': 'imagem1.png', 'caption': "Personagens"},
-            {'name': 'imagem3.png', 'caption': "in game "}
-        ],
-        'video_gameplay': [
-            {'url': 'https://www.youtube.com/watch?v=n19H4sxhTCA', 'caption': "Gameplay do game ", 'type': "youtube"} // type: youtube or vimeo
-        ],
-        'demos': [
-            {'url': 'demonstration_url', 'caption': "description"}
-        ],
-        'references': [
-            {'url': '
-http://residentevil.com.br/site/jogos-2/serie-principal/residentevil/revil-retro-resident-evil-1
-', 'caption': "REVIL | Retrô – Resident Evil 1"},
-            {'url': 'http://pt.wikipedia.org/wiki/Resident_Evil_(jogo_eletr%C3%B4nico)#Outras_vers.C3.B5es_e_plataformas', 'caption': "Resident Evil (jogo eletrônico)"},
-        {'url': 'http://pt.slideshare.net/jpagini/resident-evil-biohazard-1996 ', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Resident Evil", 'type': 'slides'},
-        ]
-
-}
+		]		
 	}
 
 	if (!window._content) {

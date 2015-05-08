@@ -7,17 +7,23 @@
 	'date': 'October of 1979',
 	'headline': 'The evolution of the Space Invaders',
 	'resume': [
-		'Um jogo arcade segue a formula de Space Invaders, com um enredo ',
-		'simples e bastante objetivo de eliminar uma froto alienígena de ',
-		'uma raça chamada GALAXIAN.'
+		'Um jogo arcade que segue a formula de Space Invaders. Com um enredo ',
+		'simples e bastante objetivo de eliminar uma frota da raça alienígena ',
+		'GALAXIAN. Que provavelmente querem destruir, devorar, e escravizar ',
+		'todos na Terra.'
 	].join(''),
 	'full_text': [
-		'Sendo desenvolvido pela Namco em 1979 e lançado no mesmo no Japão,',
-		' sua jogabilidade consistia em atirar em uma frota de aliens que ',
-		'tentam periodicamente ataques kamikazes, os quais o jogador pode ',
-		'desviar se movendo pela vertical. Ademais, sua principal diferença',
-		' de sua inspiração é o fato de ser colorido na palheta RGB e ter',
-		' uma trilha sonora de fundo, além dos ataques Kamikazes.'
+		'Em 1978 todos os olhos estavam voltados para um pequeno fenômeno ',
+		'conhecido como Space Invaders. Enquanto isso a Namco estava testando ',
+		'seu próprio sucesso para fliperamas. Eles decidiram que não só podiam ',
+		'fazer um jogo como Space Invaders, como podiam fazer melhor. E assim, ',
+		'em 1979 o Galaxian chegou e arrancou montes de dinheiro do seu rival, ',
+		'graças às melhoras em tecnologia de cores e nos níveis de dificuldade. ',
+		'Foi o primeiro jogo da Namco a ser executado em um processador Zilog Z80. ',
+		'Galaxian é também oficialmente o primeiro video game arcade a produzir a ',
+		'verdadeira cor RGB, já que todos os que vieram antes falsificavam as cores ',
+		'com tiras coloridas em um monitor preto e branco.'
+		
 	].join(''),
         'thumbnail': 'thumbnail_example.png',
         'main_img': {'name': 'main_picture.png', 'caption': "description"}
@@ -32,6 +38,9 @@
         ],
         'references': [
             {'url': 'http://en.wikipedia.org/wiki/galaxian', 'caption': "Wikipedia"}
+            {'url': 'http://strategywiki.org/wiki/Galaxian', 'caption': "StrategyWiki"}
+            {'url': 'http://www.arcade-museum.com/game_detail.php?game_id=7885', 'caption': "The International Arcade Museum"}
+            {'url': 'http://pt.slideshare.net/emiliandro/galaxian', 'caption': "Link SlideShare"}
         ]
 }
 },

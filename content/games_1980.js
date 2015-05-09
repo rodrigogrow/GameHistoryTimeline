@@ -114,11 +114,11 @@
                     'hardware reconhecidamente primitivo.'
                 ].join(''),
                 'thumbnail': 'thumbnail_example.png',
-                'main_img': {'name': 'main_picture.png', 'caption': "description"},
+                'main_img': {'name': 'main_picture.jpg', 'caption': "Capa do jogo"},
                 'images': [
-                    {'name': 'picture1.png', 'caption': "description1"},
-                    {'name': 'picture2.png', 'caption': "description2"},
-                    {'name': 'picture3.png', 'caption': "description3"}
+                    {'name': 'picture1.png', 'caption': "gameplay"},
+                    {'name': 'picture2.jpg', 'caption': "gameplay"},
+                    {'name': 'picture3.jpg', 'caption': "gameplay"}
                 ],
                 'video_gameplay': [
                     {'url': 'http://www.youtu.be/MhXMYw1lXY0', 'caption': "Gameplay", 'type': "youtube"} // type: youtube or vimeo

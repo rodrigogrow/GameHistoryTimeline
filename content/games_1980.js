@@ -298,10 +298,10 @@
                      'Se o jogador atira o número necessário de patos em uma única rodada, o jogador vai avançar para a próxima rodada; caso contrário, o jogador receberá um game over.'
                  ].join(''), 
                  'thumbnail': 'thumbnail_example.png', 
-                 'main_img': {'name': 'main_picture.jpeg', 'caption': "Tela do console NES Duck Hunt"},
+                 'main_img': {'name': 'main_picture.jpg', 'caption': "Tela do console NES Duck Hunt"},
                  'images': [ 
-                     {'name': 'picture1.png', 'caption': "Virtual console do Wii U"}, 
-                     {'name': 'picture2.png', 'caption': "Modo C do jogo Duck Hunt - Clay Shooting"}, 
+                     {'name': 'picture_1.png', 'caption': "Tela de gameplay"}, 
+                     {'name': 'picture_2.png', 'caption': "Tela de gameplay"}
                  ], 
                  'video_gameplay': [ 
                      {'url': 'http://www.youtu.be/x-daxzVxrQI', 'caption': "Duck Hunt NES gameplay", 'type': "youtube"} // type: youtube or vimeo 
@@ -312,8 +312,7 @@
                  'references': [ 
                      {'url': 'http://www.giantbomb.com/duck-hunt/3030-2758/', 'caption': "Giantbomb site"}, 
                      {'url': 'http://www.gamesbomb.com/games/duck-hunt-demo', 'caption': "GamesBomb site"}, 
-                     {'url': 'http://pt.wikipedia.org/wiki/Duck_Hunt', 'caption': "Wikipedia"}, 
-
+                     {'url': 'http://pt.wikipedia.org/wiki/Duck_Hunt', 'caption': "Wikipedia"}
                  ] 
             },
             {

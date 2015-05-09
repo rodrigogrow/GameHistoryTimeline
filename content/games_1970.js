@@ -504,46 +504,7 @@
 			    	{'url': 'http://pt.slideshare.net/TSantosFigueira/lunar-lander-the-game', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
 			        {'url': 'http://en.wikipedia.org/wiki/Lunar_Lander_(1979_video_game)&prev=search', 'caption': "wikipedia"},
 			        {'url': 'http://www.arcade-museum.com/game_detail.php?game_id=8465', 'caption': "arcade museum"}
-			]
-			},
-			{
-				'type': 'game', // game or console
-				'name': 'Galaxian',
-				'authors': ['Kazunori Swano', 'Koichi Tashiro', 'Shigekazu Ishimura'],
-				'company': ['Namco'],
-				'year': '1979',
-				'date': '01-10-1979',
-				'headline': 'The evolution of the Space Invaders',
-				'resume': [
-					'Galaxian expanded on the formula pioneered by Space Invaders. ',
-					'As in the earlier game, Galaxian features a horde of attacking aliens ',
-					'that exchanged shots with the player.'
-				].join(''),
-				'full_text': [
-					'An arcade game that was developed by Namco and released in October 1979. ',
-					'Swarm after swarm of alien armies attack the player\'s ship that move ',
-					'left and right at the bottom of the wraparound screen. The ship can only ',
-					'have one shot on screen at a time. The player defeats one swarm, ',
-					'only to have it replaced by another more aggressive and challenging swarm ',
-					'in the next stage. A plain and repetitive starfield scrolls in the background.'
-				].join(''),
-		        'thumbnail': 'thumbnail_example.png',
-		        'main_img': {'name': 'main_picture.png', 'caption': "Gameplay"},
-		        'images': [
-		            {'name': 'picture1.png', 'caption': "Pôster de lançamemto"},
-		            {'name': 'picture2.png', 'caption': "Fliperama do jogo"},
-		            {'name': 'picture3.png', 'caption': "Outro gameplay"},
-		            {'name': 'picture4.png', 'caption': "Pôster oficial do jogo"}
-		        ],
-		        'video_gameplay': [
-		            {'url': 'http://www.youtu.be/qKm8UnFCmeg', 'caption': "Gameplay", 'type': "youtube"} // type: youtube or vimeo
-		        ],
-		        'demos': [
-		            {'url': 'http://www.letsplaysnes.com/play-galaxian-online-nes/?play=true#content', 'caption': "Demo"}
-		        ],
-		        'references': [
-		            {'url': 'http://en.wikipedia.org/wiki/galaxian', 'caption': "Wikipedia"}
-		        ]
+				]
 			},
 			{
 			 'type': 'game', // game or console
@@ -599,7 +560,7 @@
             		{'name': 'picture3.png', 'caption': "Ms.PacMan"}
         		],
         		'video_gameplay': [
-            			{'url': 'https://www.youtube.com/watch?v=i_OjztdQ8iw', 'caption': "Pacman de Fliperama", 'type': "youtube"} // type: youtube or vimeo
+            			{'url': 'http://www.youtu.be/i_OjztdQ8iw', 'caption': "Pacman de Fliperama", 'type': "youtube"} // type: youtube or vimeo
         		],
         		'demos': [
         				{'url': 'http://pacman.platzh1rsch.ch/', 'caption': 'HTML5 Demo'},
@@ -610,6 +571,60 @@
             			{'url': 'http://www.hardmob.com.br/content/1068-10-coisas-que-voce-talvez-nao-saiba-sobre-pac-man.html', 'caption': "10 coisas sobre PacMan"},
             			{'url': 'http://www.historiadetudo.com/pac-man.html', 'caption': "História de tudo - PacMan"}
 			 	]
+			},
+			{
+				'type': 'game', // game or console
+				'name': 'Galaxian',
+				'authors': ['Kazunori Swano', 'Koichi Tashiro', 'Shigekazu Ishimura'],
+				'company': ['Namco'],
+				'year': '1979',
+				'date': '01-10-1979',
+				'headline': 'The evolution of the Space Invaders',
+				'resume': [
+					'Em 1978 todos os olhos estavam voltados para um pequeno fenômeno ',
+					'conhecido como Space Invaders. Enquanto isso a Namco estava testando ',
+					'seu próprio sucesso para fliperamas. Eles decidiram que não só podiam ',
+					'fazer um jogo como Space Invaders, como podiam fazer melhor. E assim, ',
+					'em 1979 o Galaxian chegou e arrancou montes de dinheiro do seu rival, ',
+					'graças às melhoras em tecnologia de cores e nos níveis de dificuldade. ',
+					'Foi o primeiro jogo da Namco a ser executado em um processador Zilog Z80. ',
+					'Galaxian é também oficialmente o primeiro video game arcade a produzir a ',
+					'verdadeira cor RGB, já que todos os que vieram antes falsificavam as cores ',
+					'com tiras coloridas em um monitor preto e branco.'
+				].join(''),
+				'full_text': [
+					'Em 1978 todos os olhos estavam voltados para um pequeno fenômeno ',
+					'conhecido como Space Invaders. Enquanto isso a Namco estava testando ',
+					'seu próprio sucesso para fliperamas. Eles decidiram que não só podiam ',
+					'fazer um jogo como Space Invaders, como podiam fazer melhor. E assim, ',
+					'em 1979 o Galaxian chegou e arrancou montes de dinheiro do seu rival, ',
+					'graças às melhoras em tecnologia de cores e nos níveis de dificuldade. ',
+					'Foi o primeiro jogo da Namco a ser executado em um processador Zilog Z80. ',
+					'Galaxian é também oficialmente o primeiro video game arcade a produzir a ',
+					'verdadeira cor RGB, já que todos os que vieram antes falsificavam as cores ',
+					'com tiras coloridas em um monitor preto e branco.'
+					
+				].join(''),
+			        'thumbnail': 'thumbnail_example.png',
+			        'main_img': {'name': 'main_picture.png', 'caption': "Gameplay"},
+			        'images': [
+			            {'name': 'picture1.png', 'caption': "Pôster de lançamemto"},
+			            {'name': 'picture2.png', 'caption': "Fliperama do jogo"},
+			            {'name': 'picture3.png', 'caption': "Outro gameplay"},
+			            {'name': 'picture4.png', 'caption': "Pôster oficial do jogo"}
+			        ],
+			        'video_gameplay': [
+			            {'url': 'http://www.youtu.be/qKm8UnFCmeg', 'caption': "Gameplay", 'type': "youtube"} // type: youtube or vimeo
+			        ],
+			        'demos': [
+			            {'url': 'http://www.letsplaysnes.com/play-galaxian-online-nes/?play=true#content', 'caption': "demo"}
+			        ],
+			        'references': [
+			        	{'url': 'http://pt.slideshare.net/emiliandro/galaxian', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
+			            {'url': 'http://en.wikipedia.org/wiki/galaxian', 'caption': "Wikipedia"},
+			            {'url': 'http://strategywiki.org/wiki/Galaxian', 'caption': "StrategyWiki"},
+			            {'url': 'http://www.arcade-museum.com/game_detail.php?game_id=7885', 'caption': "The International Arcade Museum"}
+			        ]
 			}
 		]
 	}

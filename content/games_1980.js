@@ -143,6 +143,7 @@
                     {'url': 'http://www.classicgaming.cc/classics/donkeykong/game_flash.php', 'caption': "Gameplay completa."}
                 ],
                 'references': [
+                    {'url': 'http://pt.slideshare.net/NinTheLegend/donkey-kong-1981', 'caption': "Introdução aos Jogos Eletrônicos (UEA) - Slides", 'type': 'slides'},
                     {'url': 'http://pt.wikipedia.org/wiki/Donkey_Kong', 'caption': "Wikipedia (PT)"},
                     {'url': 'http://en.wikipedia.org/wiki/Donkey_Kong_(video_game)', 'caption': "Wikipedia (EN)"},
                     {'url': 'https://youtu.be/tJagEKVJ8x4', 'caption': "Vídeo mostrando um Arcade de Donkey Kong funcionando"}
